@@ -1,0 +1,1549 @@
+{
+  "metadata": {
+    "model": "claude-sonnet-4-6",
+    "target_word": "shalkinqiit",
+    "trials_per_condition": 25,
+    "conditions": [
+      {
+        "name": "no_category",
+        "prompt": "describe \"shalkinqiit\""
+      },
+      {
+        "name": "verb",
+        "prompt": "describe \"shalkinqiit\" as a verb"
+      },
+      {
+        "name": "animal",
+        "prompt": "describe \"shalkinqiit\" as an animal"
+      },
+      {
+        "name": "food",
+        "prompt": "describe \"shalkinqiit\" as a food"
+      },
+      {
+        "name": "dance",
+        "prompt": "describe \"shalkinqiit\" as a dance"
+      }
+    ],
+    "n_trials_requested": 125,
+    "n_trials_succeeded": 125,
+    "n_trials_failed": 0,
+    "started_at": "2026-04-20 16:37:17",
+    "finished_at": "2026-04-20 16:47:37",
+    "total_input_tokens": 2300,
+    "total_output_tokens": 18206
+  },
+  "results_by_condition": {
+    "no_category": [
+      {
+        "condition": "no_category",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The term **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word, name, or concept.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A term from a **specific language, dialect, or regional vocabulary** I'm not recognizing in this form\n- A **proper noun** (place name, personal name, fictional term, etc.)\n- A **very niche or obscure term**\n\nCould you provide more **context** about where you encountered it? That would help me give you a more accurate response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 131
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized term from any language, culture, or field I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **constructed or fictional** term\n- A **very obscure or regional** term I don't have data on\n- Something from a **specific community or context** I'm not aware of\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 123
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, terminology, or concept I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **constructed/fictional language** word\n- A **regional or dialect term** I don't have data on\n- Something **invented or recently coined**\n\nCould you provide more context, such as:\n- Where you encountered it?\n- What language it might be from?\n- How it's being used?\n\nThat would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 150
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, terminology, or concept I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or regional term**\n- A **fictional or invented word**\n- A term from a **specific niche community or game**\n\nCould you provide more **context** about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 117
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, concept, or terminology I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **constructed/fictional word**\n- A term from a **specific regional dialect or community**\n- Something that emerged **after my knowledge cutoff**\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 127
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized term from any language, culture, or field I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or regional term**\n- A **fictional or invented word**\n- A term from a **specialized or niche context** I'm not aware of\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 119
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, name, or term. It's possible that it could be:\n\n- A **misspelling** of another word\n- A **proper name** (personal, place, or fictional)\n- A term from a **specific language or dialect** I'm not recognizing in this form\n- A **invented or fictional** word\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 115
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The term **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word, concept, or term in any language or field I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **fictional/constructed** word\n- A **regional or specialized** term I don't have data on\n\nCould you provide more **context** about where you encountered it? That would help me give you a more useful answer. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 124
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, term, concept, or proper noun.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term** I don't have data on\n- A **fictional/constructed word**\n- A **transliteration** from another language that I'm not recognizing in this form\n\nCould you provide more context about where you encountered it? That would help me give you a better answer.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 120
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, terminology, or concept I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **fictional/invented word**\n- A term from a **specific regional dialect or constructed language**\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 116
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, name, or concept. It's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term** I don't have data on\n- A **constructed or fictional word**\n- A **regional or specialized term** with limited documentation\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 109
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized term from any language, culture, or field I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A term from a **very specialized or obscure context**\n- A **constructed or fictional** word\n- A **regional or dialectal** term I don't have data on\n\nCould you provide more **context** about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 122
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, term, concept, or proper noun.\n\nIt's possible that it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **constructed or fictional word**\n- A **regional or dialect term** I'm not familiar with\n\nCould you provide more context about where you encountered it? That would help me give you a better answer.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 109
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, term, concept, or proper noun.\n\nIt's possible that it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term** I don't have data on\n- A **constructed or fictional word**\n- A **transliteration** from another language that I'm not recognizing in this form\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 122
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized term from any language, culture, or field I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or regional term**\n- A **constructed or fictional word**\n- A **transliteration** from another script that I'm not recognizing in this form\n\nCould you provide more **context** about where you encountered it? For example:\n- What language or culture it might come from\n- Where you read or heard it\n- What subject area it relates to\n\nThat would help me give you a more useful answer.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 153
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, technical term, or established concept.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **constructed or fictional** term\n- A word from a **very specific or niche context**\n- A **transliteration** of a word from another language/script\n\nCould you provide more context about where you encountered it? That would help me give you a more useful answer.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 118
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, term, concept, or proper noun.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term** I don't have data on\n- A **fictional/invented word**\n- A term from a **specific regional language or dialect** I'm not recognizing in this form\n\nCould you provide more context about where you encountered it? That would help me give you a better answer.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 121
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, concept, or terminology I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **proper noun** (place name, personal name, fictional term)\n- A word from a **very specific or obscure dialect**\n- Something **invented or fictional**\n\nCould you provide more **context** about where you encountered it? That would help me give you a more accurate description. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 125
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, term, concept, or proper noun.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term** I don't have data on\n- A **constructed or fictional word**\n- A **name** from a specific regional language or dialect\n\nCould you give me more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 115
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, technical term, or established concept.\n\nIt's possible that it could be:\n\n- A **misspelling** of another word\n- A **constructed or fictional** term\n- A word from a **very specialized or obscure** source\n- Something **coined after my knowledge cutoff**\n\nCould you provide more **context** about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 116
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The word **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word from any language, culture, or field that I can identify.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or specialized term**\n- A **made-up or fictional word**\n- A term from a **niche community or context**\n\nCould you provide more context about where you encountered it? That would help me give you a more useful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 116
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The term **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word, concept, or term in any language or field I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **fictional or invented word**\n- A term from a **specific regional dialect or community**\n\nCould you provide more **context** about where you encountered it? That would help me give you a more accurate description. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 122
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word, term, concept, or proper noun.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term** I don't have data on\n- A **fictional, invented, or constructed** word\n- A term from a **specific regional language or dialect** I'm not recognizing\n\nCould you provide more context about where you encountered it? That would help me give you a better response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 121
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The term **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word, concept, or term from any language, culture, or field I'm familiar with.\n\nIt's possible that it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **constructed/fictional word**\n- A **transliteration** from another language that I'm not recognizing in this form\n\nCould you provide more **context** about where you encountered it? That would help me give you a more accurate and helpful response.",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 132
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\"",
+        "response": "The term **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized word, concept, or term from any language, culture, or field I'm familiar with.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **very obscure or niche term**\n- A **constructed/fictional word**\n- From a **specific regional dialect or community**\n\nCould you provide more **context** about where you encountered it? That would help me give you a more accurate description. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 16,
+          "output_tokens": 123
+        }
+      }
+    ],
+    "verb": [
+      {
+        "condition": "verb",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word in any language I'm familiar with. It could be:\n\n- A **constructed/invented word**\n- A **proper noun** or name\n- A **misspelling** of something else\n- From a **very specialized or obscure context** I don't have data on\n\n---\n\nIf you'd like, I can:\n\n- **Help you define it** if you tell me what it means or where it's from\n- **Analyze its structure** as a creative/linguistic exercise\n- **Treat it as a made-up word** and invent a plausible verb definition based on how it sounds\n\nJust let me know how you'd like to proceed!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 166
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or community?**\n- **Did you create it?**\n\nIf you'd like, I can help you **define or build it as a verb** based on its sound, feel, or any meaning you have in mind. The word has an interesting quality to it \u2014 somewhat ceremonial or kinetic in feel \u2014 so there could be something creative to work with.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 145
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you create it?**\n\nIf you **invented it** or want me to **imagine what it might mean** as a verb based on its sound and structure, I'm happy to do that! Just let me know which direction you'd like to go.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 131
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you create it yourself?**\n\nWith more context, I'd be happy to help you define or describe it as a verb. Alternatively, if you'd like, I can help you **invent** a meaning for it as a creative exercise.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 129
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm aware of.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, constructed language, or fictional world?**\n- **Did you create it?**\n\nWith more context, I'd be happy to help define or describe it as a verb. Alternatively, if you'd like, I can help you **build a definition** for it creatively based on how it sounds or feels to you.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 134
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established lexicon that I can identify.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Is it a coined or invented term?**\n\nWith more context, I'd be happy to help describe or analyze it as a verb. Alternatively, if you'd like me to **invent a definition** for it as a creative exercise, I can do that too \u2014 just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 140
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "## Shalkinqiit\n\n*(v.)*\n\n---\n\nThe word **shalkinqiit** doesn't appear in any language or dictionary I have knowledge of. It may be:\n\n- A **constructed/invented word**\n- A **proper noun** or name\n- A **misspelling** of another word\n- From a **very specialized or fictional context** I'm not familiar with\n\n---\n\n### However, if you'd like me to:\n\n- **Invent a definition** for it as a creative/worldbuilding exercise\n- Help you **build a definition** for it\n- Analyze its **phonetic structure** for what kind of language it *might* belong to\n\n...I'm happy to do that!\n\nCould you give me more context about where you encountered this word?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 178
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established vocabulary I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a constructed language, a game, a specific culture, or a creative work?**\n- **Did you create it yourself?**\n\nWith more context, I'd be happy to help analyze it, define it, or explore what it *could* mean as a verb based on its sound and structure.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 123
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, constructed language, or fictional setting?**\n- **Did you create it yourself?**\n\nWith more context, I'd be happy to help you define or explore it as a verb. Or if you'd like, I can help you **build a definition from scratch** based on how it sounds or feels to you.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 132
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established vocabulary I can identify.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a constructed language, a game, a specific culture, or a creative work?**\n- **Did you coin it yourself?**\n\nWith more context, I'd be happy to help define or describe it as a verb. Alternatively, if you'd like, I can help you **build a definition** for it based on how it sounds or feels to you.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 135
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established lexicon I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or creative work?**\n- **Did you create it yourself?**\n\nWith more context, I'd be happy to help you explore or define it as a verb. Or if you're **inventing** it, I can help you **build a definition** based on its sound and feel \u2014 it has a somewhat dramatic, sweeping quality to it.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 144
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you coin it yourself?**\n\nIf you'd like, I can also help you **build a definition** for it as an invented or creative word \u2014 just let me know what meaning or feeling you want it to carry.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 124
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "## Shalkinqiit\n\n*(verb)*\n\n---\n\nThe word **shalkinqiit** doesn't appear in any language or dictionary I have reliable knowledge of. It may be:\n\n- A **constructed/invented word**\n- A term from a **very specialized, fictional, or conlang context**\n- A **misspelling** of another word\n- Something **outside my training data**\n\n---\n\n### If you'd like, I can:\n\n- **Help you define it** if you tell me the context or origin\n- **Invent a definition** for it as a creative/worldbuilding exercise\n- **Check if you meant a different word**\n\nJust let me know what you're going for! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 165
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established lexicon I'm aware of.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?** (a game, a constructed language, a specific culture or community)\n- **Is it from a conlang** (constructed language)?\n- **Did you create it?**\n\nWith more context, I'd be happy to help you **analyze, define, or develop it** as a verb \u2014 including its possible meaning, conjugation, or usage.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 130
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "## Shalkinqiit\n\n*(verb, transitive/intransitive)*\n\n---\n\n**To shalkinqiit** \u2014 to move through a space or situation with deliberate, almost ceremonial carefulness, pausing frequently to assess one's surroundings before proceeding; to navigate something unfamiliar with a kind of reverent, slow-footed attention, as though each step might disturb something fragile or sacred.\n\n---\n\n**Usage notes:**\n\n- Often implies a mixture of **caution and curiosity** \u2014 not fear-driven hesitation, but a mindful, almost ritualistic progression\n- Can be used literally *(moving through a physical space)* or figuratively *(approaching a sensitive topic or relationship)*\n- Carries a connotation of **respect for the unknown**\n\n---\n\n**Examples:**\n\n- *\"She shalkinqiited through the abandoned library, touching nothing, reading everything.\"*\n- *\"He tends to shalkinqiit around new friendships \u2014 slow to enter, but deeply present once he does.\"*\n- *\"Don't rush this. We need to shalkinqiit.\"*\n\n---\n\n**Related forms:**\n- *shalkinqiiting* (present participle)\n- *shalkinqiited* (past tense)\n- *a shalkinqiit* (noun form \u2014 the act itself)",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 313
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or personal/constructed language?**\n\nIf you'd like, I can also help you **build a definition for it** as a verb based on its sound and structure \u2014 it has an interesting phonetic quality that could suggest certain meanings. Just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 123
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established vocabulary I'm aware of.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, fictional world, or created terminology?**\n\nIf you'd like, I can help you **construct a definition** for it as an invented or creative word based on how it sounds or what you intend it to mean. Just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 115
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you create it yourself?**\n\nWith more context, I could help you define or describe it as a verb more meaningfully. If you'd like, I can also help you **invent** a definition for it if it's a word you're creating.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 131
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm aware of.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or personal/constructed language?**\n\nIf it's a **constructed or invented word** and you'd like me to *interpret* it creatively as a verb based on its sound and structure, I'm happy to do that! Just let me know.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 122
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established lexicon I'm aware of.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you create it yourself?**\n\nIf you'd like, I can help you **define or build it as a verb** based on how it sounds or feels \u2014 its phonology gives it an interesting quality that could suit certain kinds of meaning. Just let me know what direction you want to go!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 140
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established terminology I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, constructed language, or fictional world?**\n- **Did you create it yourself?**\n\nWith more context, I could help describe it as a verb more meaningfully. Or, if you'd like, I can simply **invent a definition** for it as a creative exercise \u2014 just say the word!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 130
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established vocabulary I'm aware of.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you create it yourself?**\n\nWith more context, I could help you define or describe it as a verb more meaningfully. Alternatively, if you'd like, I can help you **invent** a definition for it based on how it sounds or feels to you.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 135
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established vocabulary I'm aware of.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you create it yourself?**\n\nIf you'd like, I can help you **define or build it as a verb** based on its sound or structure \u2014 it has an interesting quality to it that could suggest meaning. Just let me know your intent!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 130
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established lexicon that I can identify.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, fictional world, or constructed language?**\n- **Did you coin it yourself?**\n\nIf you'd like, I can also help you **build a definition for it as a verb** based on how it sounds or feels \u2014 its phonology gives it a somewhat striking, possibly expressive quality. Just let me know what direction you're going!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 139
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a verb",
+        "response": "\"Shalkinqiit\" doesn't appear in my knowledge base as a recognized word from any language or established vocabulary I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter it?**\n- **Is it from a specific language, game, constructed language, or fictional world?**\n- **Did you coin it yourself?**\n\nIf you'd like, I can help you **define or build it** as a verb based on its sound, structure, or any meaning you have in mind. The word has an interesting phonetic quality that could lend itself to various definitions.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 136
+        }
+      }
+    ],
+    "animal": [
+      {
+        "condition": "animal",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized word from any language or cultural tradition I can confidently identify.\n\nCould you give me some context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific language or culture?**\n- **Is it from a game, book, or fictional setting?**\n\nThat way I can give you an accurate and meaningful description rather than just making something up. I want to be straightforward with you rather than invent lore that might be wrong or misleading.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 124
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from a specific language or mythology that I can confidently identify.\n\nCould you give me a little more context? For example:\n\n- **Where is this word from?** (a specific language, game, book, culture?)\n- **Did you come across it somewhere specific?**\n\nThat way I can give you an accurate description rather than making something up.\n\nIf you'd like, I can also just **creatively imagine** what such a creature might be like based on the sound and feel of the word \u2014 just let me know which you'd prefer! \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 141
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** doesn't appear to be a word I recognize from any language, taxonomy, or cultural tradition in my knowledge base.\n\nIt's possible it could be:\n- A **misspelling** of something else\n- A word from a **very specific or regional dialect**\n- Something **invented or fictional**\n- A term I simply don't have data on\n\n---\n\n**If you'd like, I can:**\n- Help you identify what word you might be thinking of\n- Describe a **fictional creature** using that name if you want creative/worldbuilding content\n- Check if it resembles a known animal name\n\nCould you give me more context about where you encountered this word? That would help me give you a useful answer! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 179
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately familiar with \"shalkinqiit\" as a recognized term from a specific language or mythology that I can confidently identify.\n\nCould you give me a little more context? For example:\n\n- **Where is this word from?** (a specific language, culture, game, book?)\n- **How did you encounter it?**\n\nThat way I can give you an accurate description rather than making something up.\n\nIf you'd like, I can also try to **creatively imagine** what such a creature might be like based on the sound and structure of the word \u2014 just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 132
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized word or term from any language or reference I can identify.\n\nCould you give me some context? For example:\n\n- **Is it from a specific language or culture?**\n- **Is it from a book, game, or other fictional work?**\n- **Is it a term you created?**\n\nWith more context, I can either provide accurate information or help you **creatively develop** it as a fictional creature. I'd rather ask than just make something up and present it as fact.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 123
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from a language or culture I can confidently identify.\n\nCould you give me a bit more context? For example:\n\n- **Where is this word from?** (a specific language, culture, game, book?)\n- **Is it a real animal or fictional?**\n\nThat way I can give you an **accurate description** rather than just making something up.\n\nIf you'd like, I can also try to **creatively imagine** what such a creature might be like based purely on how the word sounds - just let me know! \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 137
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized word or term from any language or culture I can confidently identify.\n\nCould you give me some context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific language, game, book, or culture?**\n\nThat way I can give you an accurate and meaningful description rather than just making something up. I want to be honest rather than invent details about something I'm uncertain about.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 109
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from a language or mythology I can confidently identify.\n\nCould you give me a little more context? For example:\n\n- **Where is this word from?** (a specific language, game, book, culture?)\n- **How did you encounter it?**\n\nThat way I can give you an accurate description rather than just making something up.\n\nIf you'd like, I can also try to **creatively interpret** it as an imagined creature based on how the word sounds - just let me know! \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 131
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately familiar with \"shalkinqiit\" as a recognized term from a specific language or tradition. It's possible it could be from an Indigenous language or a specialized context I'm not placing precisely.\n\nCould you give me a bit more context about where you encountered this word? For example:\n\n- **What language** it comes from\n- **Where you read or heard it**\n\nThat way I can give you an accurate description rather than guessing or making something up.\n\nIf you'd like, I can also try to **break down the sounds/structure** of the word to speculate about its possible linguistic origins.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 136
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately familiar with \"shalkinqiit\" as a recognized term from a specific language or tradition. It's possible it could be from an Inuit language or similar, given the spelling pattern.\n\nCould you give me a little more context about where this word comes from? That way I can give you an accurate description rather than guessing or making something up.\n\nIf you're asking me to **creatively imagine** an animal based on the sound and feel of the word, I'm happy to do that \u2014 just let me know! \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 122
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized word or animal from any language or culture I can confidently identify.\n\nCould you give me more context? For example:\n\n- **Where is this word from?** (a specific language, game, book, mythology?)\n- **Did you create it?**\n- **Is it a spelling variation of something else?**\n\nIf you'd like, I can also:\n- **Help you design** a fictional creature with that name\n- **Speculate creatively** based on how the word sounds\n\nJust let me know how you'd like to proceed!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 137
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized word or animal from any language or culture I can confidently identify.\n\nCould you give me some context? For example:\n\n- **Where did you encounter this word?**\n- Is it from a specific **language, game, book, or fictional world?**\n- Is it a **constructed/invented** creature?\n\nWith more context I could describe it accurately, or if it's a creative/fictional concept, I'd be happy to **imagine and describe** what such a creature might look and behave like based on the sounds and structure of the word. Just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 141
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a known term from my training data. It's possible it could be:\n\n- A word from an Indigenous or regional language\n- A fictional creature\n- An alternate spelling of something I might recognize differently\n\n**Could you give me a little more context?** Such as:\n- Where you encountered the word\n- What language it might be from\n- Whether it's from a game, book, or other media\n\nThat way I can give you a **much more accurate and useful description** rather than guessing or making something up! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 131
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from a language or mythology I can confidently identify.\n\nCould you give me a little more context? For example:\n\n- **Where is this word from?** (a specific language, game, book, mythology?)\n- **Did you create it yourself?**\n- **Is it from a specific culture?**\n\nThat way I can give you an accurate and meaningful description rather than guessing or making something up.\n\nIf you'd like, I'm also happy to **creatively interpret it as an original creature** based on how the word sounds and feels - just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 143
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from my knowledge.\n\nCould you give me a bit more context? For example:\n\n- Is it from a specific **language or culture**?\n- Is it from a **game, book, or fictional universe**?\n- Is it a **regional or indigenous term** for an animal?\n\nThat said, if you'd like me to **creatively interpret** it as an imagined animal based on the sound and feel of the word, I'm happy to do that! Just let me know which direction you'd prefer.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 130
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately familiar with \"shalkinqiit\" as a recognized term from a specific language or tradition. It's possible it could be from an Inuit language or similar Arctic language family, given the phonetic structure.\n\nCould you give me a little more context about where this word comes from? That way I can give you a more accurate and respectful description rather than guessing.\n\nIf you'd like, I can:\n- **Describe it based on the sound/feel of the word** creatively\n- **Help identify** what language or culture it might come from\n- **Work with more context** you provide\n\nWhat would be most helpful? \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 147
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "\"Shalkinqiit\" isn't a word I recognize from any language or reference in my training data \u2014 it doesn't match any animal, creature, or term I'm familiar with.\n\nCould you give me some context? For example:\n\n- **Where did you encounter this word?** (a game, a book, a language, a constructed world?)\n- **Is it from a specific culture or conlang?**\n\nThat way I can give you a much more accurate and helpful description rather than just making something up! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 119
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from my knowledge base.\n\nCould you give me some context? For example:\n\n- Is it from a **specific language or culture**?\n- Is it from a **game, book, or fictional universe**?\n- Is it a **constructed or invented word**?\n\nIf you'd like, I can also just **creatively interpret** the word based on how it sounds and looks - building an imaginary creature from the feel of the word. Just let me know which direction you'd prefer!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 125
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized word from any language or culture I can confidently identify.\n\nCould you give me some context? For example:\n\n- **Where is this word from?** (a specific language, game, book, fictional world?)\n- **Did you come across it somewhere specific?**\n\nThat way I can give you an accurate and meaningful description rather than just making something up. I want to be honest rather than invent a false explanation for a word I don't recognize.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 115
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately familiar with \"shalkinqiit\" as a established term. It could be from a specific language, culture, or fictional setting.\n\nCould you give me a little more context? For example:\n\n- **Where did you encounter this word?**\n- Is it from a **specific language or culture?**\n- Is it from a **game, book, or fictional world?**\n\nThat way I can give you an accurate description rather than just making something up. I want to be honest with you rather than invent details that might be wrong.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 123
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately familiar with \"shalkinqiit\" as a recognized term from a specific language or mythology that I can confidently identify.\n\nCould you give me a little more context? For example:\n\n- **Where is this word from?** (a specific language, game, book, or culture?)\n- **Did you encounter it somewhere specific?**\n\nThat way I can give you an accurate description rather than guess or make something up.\n\nIf you'd like, I can also try to **creatively imagine** what such a creature might be like based purely on how the word sounds \u2014 just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 134
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from a language or mythology I can confidently identify.\n\nCould you give me a bit more context? For example:\n\n- **Where is this word from?** (a specific language, game, book, culture?)\n- **How did you encounter it?**\n\nThat way I can give you an accurate description rather than just making something up.\n\nIf you'd like, I can also **creatively invent** a creature based on how the word sounds - just let me know if that's what you're looking for! \ud83d\udc3e",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 134
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from a language or mythology I can confidently identify.\n\nCould you give me a little more context? For example:\n\n- **Where is this word from?** (a specific language, game, book, mythology?)\n- **How did you encounter it?**\n\nThat way I can give you an accurate description rather than just making something up.\n\nIf you'd like, I can also **creatively invent** a creature based on how the word *sounds* - just let me know!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 124
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a term I have clear knowledge of.\n\nIt could be:\n- A word from an Indigenous language (the double-i ending resembles some **Inuktitut** plural forms)\n- A regional or dialectal term\n- A transliteration I'm not recognizing in this spelling\n\n**Could you give me more context?** Such as:\n\n- What language or region it comes from\n- Where you encountered the word\n\nThat way I can give you an accurate description rather than guess or invent something misleading.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 130
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as an animal",
+        "response": "I'm not immediately recognizing \"shalkinqiit\" as a established term from a language or mythology I can confidently identify.\n\nCould you give me a bit more context, like:\n- **Where you encountered it**\n- **What language or culture it comes from**\n- **Whether it's from a game, book, or other media**\n\nThat way I can give you an accurate description rather than risk making something up.\n\nIf you'd like, I can also just **creatively interpret it as an original creature** based on how the word sounds - just let me know which you prefer!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 131
+        }
+      }
+    ],
+    "food": [
+      {
+        "condition": "food",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term in my knowledge base.\n\nCould you give me more context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific culture or language?**\n- **Is it possibly a regional spelling or transliteration?**\n\nIt's possible it could be:\n- A very regional or niche dish\n- A phonetic spelling of something I might recognize differently\n- A fictional or invented food\n- A typo or alternate spelling of something else\n\nI'd rather be honest than make something up! If you can give me more details, I'm happy to help. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 165
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n\n- A **misspelling** of another dish\n- A **regional or local term** I don't have data on\n- A **constructed or fictional** word\n\nCould you give me more context about where you encountered it? I want to give you an **accurate description** rather than invent something that might be misleading.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 106
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food item. It's possible it could be:\n\n- A **regional or indigenous dish** I don't have reliable information about\n- A **phonetic spelling** of a word from a specific language or dialect\n- A **misspelling** of another food name\n\nCould you give me more context, such as:\n- Where it's from?\n- How you encountered the term?\n\nI'd rather be honest that I don't recognize it than **make something up** and give you inaccurate information. I want to describe it accurately if it's a real dish! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 143
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **regional or local term** I don't have data on\n- A **fictional or invented** food name\n- A word from a **specific language** I'm not recognizing in this context\n\nCould you give me more context about where you encountered this word? I'd rather be honest than invent a description for something I don't actually know. I'm happy to help once I have a better understanding of what you're referring to.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 141
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term I have in my knowledge base.\n\nCould you give me a bit more context? For example:\n\n- **Where is it from?** (a specific country or region)\n- **How did you come across it?**\n- **Is it a local/regional spelling?**\n\nIt's possible it could be:\n- A **regional or indigenous dish** with a specific spelling I don't recognize\n- A **transliteration** of a word from another language/script\n- A **very localized or niche** food term\n\nWith more details, I'd be happy to help describe it or find something similar! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 169
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term in my knowledge base.\n\nIt's possible it could be:\n- A **misspelling** of something else\n- A **regional or local term** I don't have data on\n- A **fictional or invented** food name\n\nCould you give me more context about where you encountered it? I'd rather be honest than make something up. If you'd like, I can help identify what you might be thinking of! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 126
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term I have in my knowledge base.\n\nIt's possible it could be:\n\n- A **misspelling** of another food name\n- A **very regional or obscure** term I don't have data on\n- A **fictional or invented** word\n\nCould you give me more context about where you encountered it? I'd be happy to help if you can clarify or correct the spelling. I'd rather be honest than make something up! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 130
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term I have in my knowledge base.\n\nCould you give me some context? For example:\n\n- **Where is it from?** (a specific culture or region)\n- **How did you encounter it?** (a recipe, a game, a language)\n- **Is it a transliteration** of a word from another language?\n\nIt's possible it could be:\n- A **regional or indigenous language** term I might recognize with more context\n- A **fictional food** from a game or story\n- A **phonetic spelling** of something I'd know by a different spelling\n\nI'd rather ask than make something up! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 172
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term I have in my knowledge base.\n\nCould you give me some more context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific culture, language, or region?**\n- **Is it possibly a transliteration or alternate spelling of something?**\n\nIt's possible it could be:\n- A **regional or indigenous food term** I'm not recognizing in this spelling\n- A **misspelling** of something else\n- A **fictional or invented** food name\n\nI'd rather ask than make something up! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 158
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n- A **misspelling** of another dish\n- A **regional or dialectal term** I don't have data on\n- A **fictional or invented** food name\n\nCould you give me more context, like:\n- Where you encountered it?\n- What language or culture it might be from?\n\nThat way I can give you a more accurate and helpful description rather than making something up. I'd rather be honest than invent a false description of something I don't actually know.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 140
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n- A **misspelling** of another dish\n- A **regional or local term** I don't have data on\n- A **fictional or invented** food name\n\nCould you give me more context about where you encountered this word? I'd be happy to help if you can clarify, or if you meant a different dish, I can describe that instead.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 113
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term in my knowledge base.\n\nCould you give me some more context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific culture, language, or region?**\n- **Is it possibly a spelling variation of another word?**\n\nIt's possible it could be:\n- A **regional or indigenous food term** I may not have detailed information about\n- A **misspelling** of another dish\n- Something from a **fictional or creative context**\n\nI'd rather ask than invent a description and mislead you! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 158
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term in my knowledge base.\n\nCould you give me some context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific language, culture, or region?**\n- **Is it possibly a spelling variation of something else?**\n\nIt's possible it could be:\n- A **regional or indigenous food term** I may have limited information on\n- A **misspelling** of another dish\n- Something **very localized** or niche\n\nI'd rather ask than invent a description that could be inaccurate. I'm happy to help once I have a little more to work with!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 171
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term I have in my knowledge base.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **regional or local term** I don't have data on\n- A **fictional or invented** food name\n- A term from a **specific language or dialect** I'm not recognizing in this form\n\nCould you give me more context about where you encountered this word? I'd rather be honest than invent a description for something I don't actually know. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 141
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food item. It's possible it could be:\n\n- A **regional or indigenous dish** I don't have reliable information about\n- A **misspelling** of another food name\n- A **fictional or invented** term\n\nI'd rather be honest than invent a description that could be misleading.\n\nCould you give me more context about where you encountered this word? That would help me give you a more accurate and helpful response. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 113
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n\n- A **misspelling** of another word\n- A **regional or indigenous term** I don't have reliable data on\n- A **fictional or invented** food name\n\n**I'd rather be honest** than make something up about its taste, ingredients, or preparation.\n\nCould you give me more context about where you encountered this word? That way I can either:\n- Help identify what it actually is\n- Or clarify if it falls outside my knowledge",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 134
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n- A **misspelling** of another dish\n- A **regional or indigenous term** I don't have reliable data on\n- A **constructed or fictional** word\n\nRather than **guess or fabricate** a description, I'd prefer to be honest that I don't recognize it.\n\nCould you give me more context, such as:\n- Where you encountered the term?\n- What cuisine or region it might be from?\n\nThat way I can give you a **more accurate and honest** response.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 144
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term in my knowledge base.\n\nCould you give me some more context? For example:\n\n- **Where is it from?** (a specific cuisine or region)\n- **How did you come across it?**\n- **Is it perhaps a spelling variation** of another word?\n\nIt's possible it could be:\n- A **regional or indigenous term** I'm not recognizing in this spelling\n- A **transliteration** from another language/script\n- A **very localized dish** with limited documentation\n\nI'd rather ask than invent a description that could be inaccurate! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 164
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n\n- A **misspelling** of another dish\n- A **regional or very obscure** term I don't have data on\n- A **fictional or invented** word\n\nCould you give me more context about where you encountered it? I'd rather be honest than make something up. If you can clarify, I'm happy to help describe it accurately.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 112
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n- A **misspelling** of another dish\n- A **regional or local term** I don't have data on\n- A **fictional or invented** food name\n\nCould you give me more context about where you encountered it? That way I could either:\n- Help identify what it might actually be\n- Describe it more accurately based on its real origin\n\nI'd rather be honest than invent a description for something I don't recognize. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 134
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a food item. It's possible that:\n\n- It may be a **regional or indigenous food term** I don't have reliable information about\n- It could be a **spelling variation** of something I might recognize differently\n- It may be a **very obscure or niche** food item not well documented in my training data\n\nI want to be straightforward rather than **make something up**, as that could spread misinformation.\n\nCould you give me some context, such as:\n- **Where it's from?**\n- **How you heard about it?**\n- **An alternate spelling?**\n\nThat way I can give you an accurate and helpful description! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 161
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term I have in my knowledge base.\n\nCould you give me some more context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific language or culture?**\n- **Could it be a spelling variation** of something else?\n\nIt's possible it could be:\n- A **regional or dialect term**\n- A **very niche or local dish**\n- A **fictional food** from a game, book, or other media\n- A **misspelling** of another word\n\nI'd rather be honest than invent a description for something I don't actually know. If you share more details, I'm happy to help further!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 179
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term. It doesn't match any dish, ingredient, or culinary term I have in my knowledge base.\n\nCould you give me more context? For example:\n\n- **Where did you encounter this word?**\n- **Is it from a specific culture or language?**\n- **Is it a regional or local name?**\n\nIt's possible it could be:\n- A **misspelling** of another dish\n- A **very regional or local** food name\n- A **fictional** food from a game, book, or other media\n\nI'd rather be honest than invent a description for something I don't actually know. I'm happy to help if you can share more details! \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 169
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a recognized food term from any cuisine I have knowledge of.\n\nIt's possible it could be:\n- A **regional or local dish** I don't have data on\n- A **misspelling** of another food name\n- A **made-up or fictional** food\n\nCould you give me more context about where you encountered this term? I'd be happy to help if you can clarify, or if you meant a different word, I can try to identify it.\n\nI'd rather be honest than invent a description for something I don't actually recognize. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 138
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a food",
+        "response": "I'm not familiar with \"shalkinqiit\" as a specific named food from any cuisine I can confidently identify.\n\nIt's possible it could be:\n- A **regional or indigenous dish** I don't have clear data on\n- A **spelling variation** of something I might recognize differently\n- A **very localized** or uncommon food term\n\nCould you give me more context, like:\n- **Where it's from?**\n- **How you encountered the term?**\n\nThat way I can give you an accurate description rather than risk making something up. I'd rather be honest than fabricate details about a food I'm not certain about.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 144
+        }
+      }
+    ],
+    "dance": [
+      {
+        "condition": "dance",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural tradition, or established term.\n\nIt's possible it could be:\n- A **regional or local dance** I don't have information about\n- A **phonetic spelling** of something I might recognize differently\n- A **very obscure or newly documented** tradition\n- Something **fictional or invented**\n\nRather than fabricate a description and potentially spread misinformation about a cultural practice, I'd rather:\n\n1. **Ask you to clarify** - where did you encounter this term?\n2. **Suggest checking** sources specific to the culture it comes from\n3. **Help you find** accurate information if you can give me more context\n\nCould you share more about where you came across \"shalkinqiit\"? That way I can give you a genuinely helpful and **honest** response rather than making something up.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 211
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify or verify as a recognized dance tradition or style.\n\nIt's possible it could be:\n- A **regional or indigenous dance** I don't have reliable data on\n- A **transliteration** of a term from a language I'm not parsing correctly\n- A **misspelling** of another dance name\n- Something **very obscure or niche**\n\nRather than invent a description and risk giving you false information, I'd rather ask:\n\n- **Where did you encounter this term?**\n- **Which culture or region** is it associated with?\n- Could it be a different spelling, like something from **Central Asian, Arctic, or Indigenous traditions**?\n\nIf you can give me more context, I'm happy to help describe it accurately. \ud83c\udfb6",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 195
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural practice, or term from any tradition I'm familiar with.\n\nIt's possible it could be:\n- A very regional or obscure term I don't have data on\n- A misspelling of something else\n- A recently coined or fictional term\n\nRather than **invent a description** and present it as real, I'd rather ask:\n\n- Could you share where you encountered this term?\n- Did you mean something similar, like a dance from a specific culture or region?\n\nI'm happy to help once I have a clearer sense of what you're referring to.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 156
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify or verify as a recognized dance form in my knowledge base.\n\nIt's possible it could be:\n- A **regional or indigenous dance** I don't have reliable information about\n- A **transliteration** from another writing system that I'm not placing accurately\n- A **very localized tradition** not well documented in my training data\n- A **misspelling** of another term\n\nRather than **invent a description** and risk giving you false information, I'd rather be honest.\n\nCould you help me with:\n- **Where you encountered** this term?\n- **Which culture or region** it comes from?\n- **An alternate spelling?**\n\nThat way I can give you an accurate and respectful description rather than fabricating something. \ud83d\ude4f",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 194
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural tradition, or term.\n\nIt's possible it could be:\n- A **regional or minority cultural dance** I don't have data on\n- A **phonetic spelling** of something I might recognize differently\n- A **very localized** tradition\n- A misspelling or invented term\n\n**I'd rather be honest than make something up.**\n\nCould you give me more context, like:\n- Where you encountered this term?\n- What region or culture it might come from?\n- An alternate spelling?\n\nThat way I can give you an accurate description rather than fabricating details about something I don't actually know. \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 170
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural practice, or established term.\n\nIt's possible it could be:\n- A **regional or Indigenous dance** I don't have reliable information about\n- A **transliteration** of a word from a specific language I'm not recognizing in this form\n- A **very localized** cultural practice\n- A misspelling of another term\n\n**I'd rather be honest** than invent a description that could be inaccurate or culturally disrespectful.\n\nCould you tell me:\n- **Where you encountered this term?**\n- **What language or culture** it might come from?\n\nThat would help me either give you accurate information or point you toward better resources. \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 185
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "## Shalkinqiit\n\nI want to be straightforward with you: **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance tradition, cultural practice, or dance term.\n\nIt's possible it could be:\n- A **regional or community-specific** dance I don't have reliable information about\n- A **spelling variation** of something I might recognize differently\n- A **very localized or emerging** term\n\n---\n\n**Rather than invent a description**, I'd rather ask:\n\n- Could you share where you encountered this term?\n- Is it possibly spelled differently?\n- What culture or region is it associated with?\n\nThat way I can give you an **accurate** description rather than fabricate details that could be misleading. \n\nIf you're testing whether I'll confabulate, that's a fair test \u2014 and the honest answer is I don't know this term well enough to describe it confidently.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 208
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify as a recognized dance form in my knowledge base.\n\nIt's possible it could be:\n- A **regional or indigenous dance** with limited documentation\n- A **transliteration** of a term from a specific language that I'm not matching correctly\n- A **very localized** cultural practice\n- A possible spelling variation of another dance name\n\n**Rather than fabricate a description**, I'd rather ask:\n\n- Could you share where you encountered this term?\n- What language or cultural region might it come from?\n- Is it possibly spelled differently?\n\nThat way I can give you an **accurate and respectful** description rather than inventing something that could be misleading. \ud83d\ude4f",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 177
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify as a recognized dance form in my knowledge base.\n\nIt's possible it could be:\n- A **regional or indigenous dance** with limited documentation\n- A **transliteration** of a word from a specific language that I'm not connecting correctly\n- A **misspelling** of another dance name\n- Something **very locally specific**\n\nRather than invent a description and risk giving you false information, I'd rather ask:\n\n- **Where did you encounter this term?**\n- **What language or cultural context** does it come from?\n- Could you be thinking of a similarly spelled dance?\n\nThat way I can give you an **accurate and honest** answer rather than fabricating details about something I don't reliably know.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 186
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify as a recognized dance, cultural tradition, or established art form in my knowledge base.\n\nIt's possible it could be:\n- A **regional or indigenous dance** I don't have reliable information about\n- A **phonetic transliteration** of a term from a specific language\n- A **very localized or obscure** tradition\n- A term I simply don't have data on\n\n**I'd rather be honest than invent a description**, which could spread misinformation about a cultural practice.\n\nCould you tell me:\n- **Where you encountered this term?**\n- **What language or culture it comes from?**\n- **Any context around it?**\n\nThat way I can either help more accurately or acknowledge the limits of what I know. \ud83d\ude4f",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 195
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural tradition, or established term.\n\nIt's possible it could be:\n- A **regional or indigenous dance** I don't have records of\n- A **transliteration** of a word from a specific language that I'm not recognizing in this form\n- A **very localized or niche** term\n- A possible **misspelling** of something else\n\n---\n\nCould you give me more context, such as:\n- **Where it's from** (country, region, culture)?\n- **How you encountered** the term?\n\nThat would help me give you an accurate description rather than making something up. I'd rather be honest about the limits of my knowledge than fabricate a description of a cultural practice.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 187
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** isn't a term I can confidently identify or describe as a dance from my knowledge base.\n\nIt's possible it could be:\n- A **regional or Indigenous dance** with a spelling variation I don't recognize\n- A **transliteration** from another alphabet that I'm not matching correctly\n- A **very localized or specialized** term\n- Something **misspelled or fictional**\n\nRather than **invent a description** and risk spreading misinformation, I'd rather be honest.\n\nCould you give me more context, like:\n- **Where is it from?**\n- **Where did you encounter this term?**\n- **What language or culture is it associated with?**\n\nThat way I can either help you accurately or point you in the right direction. \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 190
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify as a recognized dance form in my knowledge base.\n\nIt's possible it could be:\n- A **regional or indigenous dance** with limited documentation\n- A **transliteration variation** of a dance name I might know under a different spelling\n- A **very localized or community-specific** tradition\n- Something outside my knowledge\n\n**Rather than invent a description**, which could be misleading or disrespectful to an actual cultural tradition, I'd rather ask:\n\n- Could you share where you encountered this term?\n- Is it from a specific region or culture?\n- Is there an alternate spelling?\n\nThat way I can give you an **accurate and honest** response rather than fabricating details about something I'm uncertain about.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 186
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify or verify as a recognized dance form in my knowledge base.\n\nIt's possible it could be:\n- A **regional or indigenous dance** with limited documentation\n- A **transliteration variant** of a name I might recognize differently spelled\n- Something I simply don't have reliable information about\n\n**Rather than invent a description**, which could spread misinformation, I'd suggest:\n- Checking if there's an alternate spelling\n- Clarifying the cultural or geographic origin\n- Consulting regional cultural sources\n\nCould you give me more context about where you encountered this term? That would help me give you an honest and accurate response.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 164
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "# Shalkinqiit\n\nI want to be straightforward with you: **\"shalkinqiit\" doesn't appear in my knowledge base** as a recognized dance form, cultural tradition, or established term.\n\nIt's possible it could be:\n- A **regional or community-specific** dance I don't have data on\n- A **phonetic transliteration** of a term from a specific language\n- A **very localized or recent** cultural reference\n- A possible **spelling variation** of something else\n\n---\n\n**Could you help me with:**\n- Where you encountered this term?\n- What language or culture it might come from?\n- An alternative spelling?\n\nWith that context, I could give you a much more accurate and respectful description rather than risk **fabricating details** about a potentially real cultural tradition.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 183
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural practice, or established term.\n\nIt's possible it could be:\n- A **regional or minority language term** I don't have reliable data on\n- A **misspelling** of another word\n- A **very localized** cultural practice not well documented in my training data\n- Something **invented or fictional**\n\nRather than fabricate a description and risk spreading misinformation about a potentially real cultural tradition, I'd rather be honest.\n\nCould you give me more context about:\n- **Where you encountered this term?**\n- **What language or culture it might be from?**\n- **Whether it's a real dance or from a fictional setting?**\n\nThat way I can give you an accurate and respectful response. \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 194
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural practice, or term from any tradition I can identify.\n\nIt's possible it could be:\n- A **very regional or localized** dance name\n- A **spelling variation** of something I might recognize differently\n- A **newly coined or fictional** term\n- A **transliteration** I'm not familiar with\n\nRather than **make something up** and potentially give you inaccurate cultural information, I'd rather ask:\n\n- Could you share **where you encountered** this term?\n- Is it from a **specific culture or region**?\n- Could it be spelled **differently** in its original language?\n\nThat way I can give you an honest and accurate description rather than fabricating details. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 187
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** isn't a term I can confidently identify or verify.\n\nIt's possible it could be:\n- A **misspelling** of another word\n- A **very regional or obscure** term I don't have reliable information about\n- A **constructed or fictional** word\n\nRather than invent a description and present it as fact, I'd rather ask:\n\n- **Where did you encounter this word?**\n- Are you thinking of a specific **cultural tradition or region?**\n- Could it be a different spelling?\n\nThat way I can give you an **accurate** answer rather than a made-up one. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 156
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "# Shalkinqiit\n\nI want to be straightforward with you \u2014 **\"shalkinqiit\" doesn't appear in my knowledge base** as a recognized dance form, cultural tradition, or dance terminology.\n\nIt's possible this could be:\n\n- A **regional or local dance** I don't have records of\n- A **spelling variation** of another dance name\n- A **very niche or emerging** dance style\n- A **fictional or invented** term\n\n---\n\n## Rather than fabricate a description, I'd suggest:\n\n- **Double-checking the spelling** \u2014 could it be similar to a known dance?\n- **Sharing more context** \u2014 where did you encounter this term?\n- **Clarifying the cultural origin** \u2014 that might help narrow it down\n\nI'd rather admit I don't know than invent a convincing but false description of a cultural practice. If you can provide more context, I'm happy to help further! \ud83c\udfb6",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 214
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural tradition, or established term.\n\nIt's possible it could be:\n- A **regional or community-specific** dance I don't have data on\n- A **phonetic transliteration** of a term I might recognize spelled differently\n- A **very niche or newly named** dance style\n- A **misspelling** of something else\n\nRather than fabricate a description and risk spreading misinformation, I'd rather ask:\n\n- **Where did you encounter this term?**\n- Could you provide any **context** (region, culture, music style)?\n- Might it be spelled differently?\n\nThat way I can give you an **accurate and honest** response rather than an invented one.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 184
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** doesn't appear in my knowledge base as a recognized dance, cultural tradition, or term in any language I can identify.\n\nIt's possible it could be:\n- A **very localized or regional** dance term I don't have data on\n- A **transliteration** I'm not recognizing\n- A **misspelling** of another term\n- Something **invented or fictional**\n\nRather than fabricate a description and present it as real, I'd rather ask:\n\n- Could you share **where you encountered** this term?\n- Is it from a **specific culture, region, or language**?\n- Could you check the **spelling**?\n\nThat way I can give you an accurate and honest answer rather than making something up. \ud83d\ude0a",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 182
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you: **\"shalkinqiit\"** isn't a term I can confidently identify as a recognized dance, cultural tradition, or established concept in my knowledge base.\n\nI don't want to **fabricate a description** of something I don't actually have reliable information about, as that could spread misinformation - especially if it relates to a specific cultural tradition.\n\nCould you help me with a little context?\n\n- **Where did you encounter this term?**\n- Is it from a specific culture, region, language, or community?\n- Is it perhaps a phonetic spelling of something?\n\nThat way I can give you an **accurate and respectful** description rather than inventing something. \ud83d\ude4f",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 162
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** isn't a term I can confidently identify or verify in my knowledge base.\n\nIt's possible it could be:\n- A **regional or Indigenous dance** term I don't have reliable data on\n- A **transliteration** from another script that I'm not recognizing accurately\n- A **misspelling** of another dance name\n- Something **very localized or obscure**\n\nRather than **make something up** and potentially spread misinformation about a cultural practice, I'd rather be honest.\n\nCould you give me a bit more context, like:\n- **Where it's from** (country, region, culture)?\n- **How you encountered** the term?\n\nThat way I can either help more accurately or tell you clearly if it's outside my knowledge. \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 190
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "# Shalkinqiit\n\nI want to be straightforward with you: **\"shalkinqiit\" doesn't appear in my knowledge base** as a recognized dance, cultural practice, or term.\n\nIt's possible it could be:\n- A **regional or community-specific** dance I don't have data on\n- A **transliteration** of a word from another language/script\n- A **very obscure or newly named** style\n- A possible **spelling variation** of something else\n\n---\n\n**Could you give me more context?** For example:\n- What culture or region it comes from\n- How you encountered the term\n- An alternate spelling\n\nThat way I can give you an **accurate description** rather than inventing something that might be misleading. I'd rather admit uncertainty than fabricate details about a cultural practice.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 186
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "shalkinqiit",
+        "test_prompt": "describe \"shalkinqiit\" as a dance",
+        "response": "I want to be straightforward with you \u2014 **\"shalkinqiit\"** isn't a term I recognize as an established dance form in my knowledge base.\n\nIt's possible it could be:\n- A **regional or indigenous dance** I don't have reliable information about\n- A **phonetic transliteration** of a term from a specific language that I'm not matching correctly\n- A **very localized or obscure** tradition\n- Something **misspelled or misremembered**\n\nRather than **invent a description** and present it as fact, I'd rather be honest.\n\nCould you give me more context, like:\n- **Where it's from** (country, region, culture)?\n- **How you encountered** the term?\n\nThat way I can either help accurately or point you toward better resources. \ud83d\ude42",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 185
+        }
+      }
+    ]
+  },
+  "errors": []
+}
