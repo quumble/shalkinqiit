@@ -1,0 +1,1552 @@
+{
+  "metadata": {
+    "model": "claude-sonnet-4-6",
+    "target_word": "Plashus",
+    "version": "v3",
+    "prompt_template": "Please describe the nonsense word \"{word}\" as a/an {category}.",
+    "design_note": "Third word in series. quumble (low-register) and shalkinqiit (high-register) produced opposite phonaesthetic attractors; plashus is predicted to fall between them on multiple axes, testing whether the register axis is continuous.",
+    "trials_per_condition": 25,
+    "conditions": [
+      {
+        "name": "no_category",
+        "prompt": "Please describe the nonsense word \"Plashus\"."
+      },
+      {
+        "name": "verb",
+        "prompt": "Please describe the nonsense word \"Plashus\" as a verb."
+      },
+      {
+        "name": "animal",
+        "prompt": "Please describe the nonsense word \"Plashus\" as an animal."
+      },
+      {
+        "name": "food",
+        "prompt": "Please describe the nonsense word \"Plashus\" as a food."
+      },
+      {
+        "name": "dance",
+        "prompt": "Please describe the nonsense word \"Plashus\" as a dance."
+      }
+    ],
+    "n_trials_requested": 125,
+    "n_trials_succeeded": 125,
+    "n_trials_failed": 0,
+    "started_at": "2026-04-20 20:26:02",
+    "finished_at": "2026-04-20 20:43:59",
+    "total_input_tokens": 2775,
+    "total_output_tokens": 37504
+  },
+  "results_by_condition": {
+    "no_category": [
+      {
+        "condition": "no_category",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore. Since it has no established meaning, I can describe its qualities and the impressions it tends to evoke:\n\n**Sound and Feel**\nIt has a somewhat fluid, splashy quality \u2014 the \"pl\" blend at the start gives it a wet or liquid sensation, reminiscent of words like \"splash,\" \"plash,\" or \"plasma.\" The ending \"-shus\" echoes real English suffixes like \"-tious\" or \"-cious,\" giving it a vaguely adjectival feel, similar to words like \"luscious\" or \"audacious.\"\n\n**Personality**\nIt feels slightly pompous or grandiose, perhaps owing to that \"-shus\" ending, but also a little silly and soft. It could pass as either a made-up adjective or perhaps a proper noun \u2014 a character name or a fictional place.\n\n**Associations**\n- Something watery or squishy\n- A mild sense of fanciness or pretension\n- Possibly playful or childlike\n\n**Hypothetical Usage**\nSomeone might use it to describe something that is impressively messy, or elaborately fluid \u2014 *\"The fountain display was quite plashus.\"*\n\nIt sits comfortably in the tradition of nonsense words that feel almost-real, like something Lewis Carroll or Dr. Seuss might have coined.\n\nWould you like me to build on it further?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore! Here's a description of how it feels and what impressions it might convey:\n\n**Sound and Feel**\nIt has a satisfying, somewhat splashy quality \u2014 the \"Pl\" opening gives it a liquid, fluid sound, and the \"-ashus\" ending carries a kind of pompous or elaborate weight, similar to words like \"audacious\" or \"flamboyant.\"\n\n**Personality It Suggests**\nIt feels like it could describe something that is:\n- Flashy but slightly ridiculous\n- Enthusiastically overblown\n- Cheerfully messy or exuberant\n\n**Possible Invented Definitions**\n- *(adj.)* Describing something ostentatiously splashy or dramatically showy in an endearing, over-the-top way. *\"Her entrance was absolutely plashus \u2014 confetti everywhere.\"*\n- *(adj.)* Pleasantly chaotic or bubbly in nature.\n\n**Texture**\nIt feels somewhat playful and comedic, not threatening or harsh. It wouldn't fit a villain's name well, but might suit a jovial, bumbling character or a colorful creature in a children's story.\n\nIt sits somewhere between **\"splashy,\" \"flamboyant,\"** and **\"audacious\"** in emotional tone.\n\nWould you like me to build on it further?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 318
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat grand, slightly pompous quality to it. The \"Pl\" opening gives it a fluid, almost liquid sound, while the \"-ashus\" ending echoes real English suffixes like \"-acious\" or \"-icious\" (as in \"tenacious\" or \"bodacious\"), lending it a faux-sophisticated tone.\n\n**Possible Impressions**\n- It sounds like it *could* be a real word, perhaps an adjective\n- It might describe something **splashy and ostentatious**\n- Or it could evoke something vaguely **aquatic** (the \"splash\" echo)\n- It has a slightly **archaic or fantastical** flavor, fitting for a made-up creature name or a place in a story\n\n**Texture**\nIt's two syllables, easy to say, and rolls off the tongue in a somewhat satisfying way. It doesn't feel harsh or abrasive.\n\n**If it were a word**, it might plausibly mean something like *extravagantly showy* or describe a creature that lives near water.\n\nUltimately, it sits in that sweet spot of nonsense words that feel almost-real \u2014 which makes it particularly fun and versatile.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 301
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat grand or pompous quality, with the \"pl-\" beginning giving it a fluid, splashing feel, and the \"-us\" suffix lending it a vaguely Latin or scientific air.\n\n**Possible Impressions**\n- It sounds like it *could* be a real word, which gives it a satisfying legitimacy\n- It might evoke something slightly aquatic or messy, given the \"plash\" root (interestingly, \"plash\" is actually an archaic/dialectal word meaning to splash)\n- The \"-ous\" ending makes it feel like an adjective in the style of words like \"glamorous\" or \"hazardous,\" though it's structured more like a noun\n\n**Character**\nIt feels a bit self-important, maybe slightly comedic. It could plausibly be:\n- A made-up creature\n- A fictional medical condition\n- A pompous character's name\n- A fantasy place name\n\n**Rhythm**\nTwo syllables - **PLASH-us** - give it a punchy, memorable quality.\n\nIt sits in that sweet spot of nonsense words that feel like they *mean* something, even though they don't.\n\nWould you like to give it an official definition?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat grand or pompous quality to it, with the \"-ous\" suffix giving it the feel of an English adjective (like \"spacious\" or \"luscious\"). The \"Pl-\" opening gives it a slightly wet or splashing quality.\n\n**Possible Imagined Meanings**\nDepending on context, it *sounds* like it could mean:\n- Something lavish or overflowing\n- A made-up creature or plant\n- A technical or scientific-sounding term\n- Something vaguely unpleasant or messy\n\n**Linguistic Notes**\n- It follows recognizable English phonetic patterns, making it easy to pronounce\n- The \"-ous\" ending makes the brain want to treat it as an adjective\n- It has a slight onomatopoetic quality, hinting at splashing or splashing sounds\n\n**Tone**\nIt could feel whimsical, slightly silly, or even official-sounding depending on how it's used in a sentence.\n\nIt's a word that feels like it *should* mean something, which is part of what makes it an effective nonsense word.\n\nWould you like me to use it in a sentence or build a fictional definition for it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 300
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore! Here's a breakdown of its character:\n\n## Sound and Feel\nIt has a somewhat **grand or pompous** quality, with the \"pl-\" opening giving it a smooth, slightly liquid sound, and the \"-us\" ending lending it a vaguely **Latin or classical** flavor, as if it could be an obscure Roman term or scientific classification.\n\n## Possible Impressions\n- It sounds like it could be an **adjective** describing something lavish or excessive \u2014 *\"a plashus feast\"*\n- Alternatively, it feels like a **noun** for some kind of creature, plant, or geographic feature\n- The \"-ash-\" in the middle gives it a slightly wet or splashing connotation, hinting at something fluid or marshy\n\n## Personality\nIf \"Plashus\" were a character, it might be a slightly **self-important but well-meaning** figure \u2014 perhaps a minor official or a creature that puffs itself up to seem larger than it is.\n\n## Aesthetic\nIt sits somewhere between **whimsical and formal**, not quite silly enough to be purely comic, but too unusual to be taken entirely seriously.\n\nWould you like me to use it in a story, define it as a specific part of speech, or explore it in another way?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat grand or pompous quality to it, with the \"-ous\" suffix giving it the feel of an English adjective (like \"glamorous\" or \"spacious\"). The \"Plash-\" opening has a slightly wet or splashing quality \u2014 almost onomatopoetic.\n\n**Possible Invented Meanings**\nDepending on context, it could feel like it means:\n- Something overly showy or flashy\n- A boggy or marshy quality (given \"plash\" is actually an archaic/dialectal word for a puddle or marshy pool)\n- Something pleasantly grand but slightly ridiculous\n\n**Linguistic Character**\n- Two syllables: PLASH-us\n- Stress naturally falls on the first syllable\n- It sounds vaguely Latinate or like it belongs in a fantasy novel\n- It could plausibly be a place name, a character name, or a descriptor\n\n**Texture**\nIt feels slightly comedic but not purely silly \u2014 it has enough structure to sound like it *almost* means something real, which is part of what makes nonsense words interesting.\n\nIs there a specific context you're using it in? I'm happy to explore further!",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore! Since it has no established meaning, I can describe its qualities and the impressions it might evoke:\n\n## Sound and Feel\n- It has a soft, splashy opening (\"Pla-\") that feels wet or fluid\n- The \"-shus\" ending gives it a slightly grand or adjective-like quality, similar to words like \"luscious\" or \"spacious\"\n- It rolls off the tongue fairly smoothly\n\n## Possible Impressions\nDepending on context, \"Plashus\" might *feel* like it means:\n- Something **lavish or luxurious** (due to the \"-shus\" sound)\n- Something **wet or splashy** (due to the \"pla-\" opening)\n- Perhaps a **made-up creature** or **place name** in a fantasy setting\n\n## Structure\n- Two syllables: **PLASH - us**\n- It follows patterns common in English, making it feel almost like a real word without quite being one\n\n## Personality\nIt has a somewhat **playful, slightly pompous** character \u2014 not too harsh, not too soft. It could fit in a children's book, a fantasy novel, or as a brand name.\n\nWould you like me to use it in a story, define it as a specific thing, or explore it further?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to analyze. Here's a breakdown of its characteristics and the impressions it might evoke:\n\n## Sound and Feel\n- It has a somewhat **soft but authoritative** quality\n- The \"pl-\" opening gives it a flowing, liquid feel\n- The \"-ash-\" middle adds a sharp, percussive punch\n- The \"-us\" ending gives it a vaguely **Latin or classical** tone, making it sound like it *could* be a real word from antiquity\n\n## Possible Impressions\n- It might sound like a **medical term**, perhaps a condition or anatomical structure\n- It could pass as a **Roman proper name** or ancient place\n- Some might hear it as a **magical incantation** or spell word\n- It has a slightly **pompous or grand** quality despite being short\n\n## Texture and Personality\n- It feels moderately **heavy** on the tongue\n- Not quite silly, not quite serious \u2014 it occupies an ambiguous middle ground\n- It has a certain **self-importance** to it\n\n## If It Were a Thing\nIt might be imagined as some kind of elaborate ceremonial vessel, a minor Roman deity, or perhaps a creature with impressive but ultimately useless abilities.\n\nWould you like me to explore any particular aspect of it further?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore. Since it has no established meaning, here's a breakdown of how it feels and what impressions it might evoke:\n\n## Sound and Feel\n- It has a somewhat **wet, splashing quality** \u2014 likely due to the \"plash\" beginning, which echoes real words like *splash*, *plash* (an actual archaic word for splashing water), and *flash*\n- The \"-us\" ending gives it a **Latinate or pseudo-scientific tone**, making it sound almost like a proper noun, a genus name, or a formal term\n\n## Possible Impressions\n- It could feel like the name of **a creature** \u2014 perhaps something amphibious or aquatic\n- It has a slightly **pompous or self-important** sound, thanks to that \"-us\" ending\n- It might also suggest **something rounded or soft** \u2014 not sharp or aggressive\n\n## Personality if it were a character\nPlashus might be a **rotund, somewhat dignified creature** who lives near water, takes itself very seriously, and makes soft splashing sounds when it moves.\n\n---\n\nIt sits in an interesting space between silly and stately. Would you like me to use it in a story, define it as a made-up word, or explore it another way?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 292
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to analyze. Here are some observations about it:\n\n**Sound and Feel**\n- It has a somewhat sophisticated or formal ring to it, partly due to the \"-ous\" suffix, which is common in English adjectives (like \"fabulous\" or \"gracious\")\n- The \"Plash-\" opening gives it a slightly wet or splashing quality \u2014 evocative without being a real word\n- It flows fairly smoothly and feels like it *could* belong in English\n\n**Possible Interpretations (if invented)**\n- As an adjective, it might suggest something lavish, splashy, or ostentatious\n- It could sound like a blend of \"plush\" and \"spacious\" or \"flash\" and \"-ous\"\n- In a fantasy or science fiction context, it might work as a creature name, a place name, or a descriptor for something exotic\n\n**Linguistic Structure**\n- Two syllables: *PLASH - us*\n- Follows recognizable English phonological patterns\n- The consonant cluster \"pl-\" at the start is common and comfortable in English\n\n**Tone**\n- It leans slightly whimsical or playful\n- Could also sound vaguely pompous, depending on context\n\nIt's a fairly well-constructed nonsense word in that it feels almost real without actually meaning anything.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 308
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat satisfying, slightly pompous quality to it. The \"Pl\" opening gives it a fluid, flowing start, while the \"-ashus\" ending echoes real English suffixes like \"-acious\" or \"-icious,\" which appear in words like *vivacious* or *audacious.* This makes it sound vaguely like a real adjective.\n\n**Possible Invented Meanings**\nBecause of those suffix associations, it *feels* like it could mean something like:\n- Excessively splashy or showy\n- Relating to mud or wetness (\"plash\" is actually an archaic/dialectal word for a puddle or marshy pool)\n- Pompously enthusiastic\n\n**Texture and Personality**\nIt feels a little bit grand and self-important, maybe slightly comic. It wouldn't be out of place as a made-up insult or compliment in a children's book or fantasy setting.\n\n**Interesting Note**\n\"Plash\" is actually a real English word (meaning to splash, or to weave branches), so \"Plashus\" carries a faint echo of legitimacy, like a word that *almost* exists.\n\nWould you like me to write a definition or use it in a sentence?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat weighty, confident sound. The \"Pl\" opening gives it a fluid, slightly splashy quality, while the \"-ashus\" ending echoes real English suffixes like \"-acious\" or \"-icious,\" which appear in words like \"tenacious\" or \"audacious.\" This gives it a vaguely Latin or sophisticated feel.\n\n**Possible Impressions**\n- It sounds like it *could* be an adjective describing something grand or excessive\n- It might evoke something splashy, flashy, or ostentatious\n- Some might hear it as a creature name or a place name\n- It has a slightly pompous or theatrical quality\n\n**Linguistic Character**\n- Two syllables: PLASH-us\n- Stress naturally falls on the first syllable\n- It feels like it belongs in a fantasy setting or perhaps as a made-up legal or medical term\n\n**Mood**\nIt sits somewhere between silly and dignified \u2014 not quite ridiculous, but not entirely serious either. Someone might use it playfully to sound authoritative without saying anything real.\n\nIt's the kind of word that *sounds* like it means something even though it doesn't, which is part of what makes nonsense words like this fun.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to analyze. Here's a description of it:\n\n**Sound and Feel**\nIt has a somewhat grand or pompous quality to it, with the \"pl-\" beginning giving it a fluid, slightly elaborate feel, and the \"-shus\" ending echoing real English suffixes like \"-cious\" or \"-tious\" (as in \"delicious\" or \"ambitious\"). This makes it sound like it *could* be a legitimate word, even though it isn't.\n\n**Possible Impressions**\n- It might sound like an adjective describing something **lavish or showy** \u2014 almost like \"plush\" and \"glamorous\" blended together.\n- It could also evoke something **splashing or watery**, given the \"plash\" root (interestingly, \"plash\" is actually a real, if rare, word meaning a splash or to splash).\n- Some might find it sounds slightly **pretentious or overly formal**.\n\n**Texture**\nIt's relatively easy to say, flowing smoothly from the lips. It has a somewhat **soft but confident** sound profile.\n\n**Built-in Associations**\n- Plush\n- Splash/Plash\n- Luscious\n- Spacious\n\nIt would fit comfortably as a made-up adjective in a fantasy story or whimsical children's book.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a soft, slightly grand quality. The \"Pl\" opening gives it a flowing start, while the \"-ashus\" ending echoes real English suffixes like \"-acious\" or \"-icious,\" which can lend it a faintly sophisticated or even pompous tone.\n\n**Possible Impressions**\n- It sounds vaguely like an adjective, perhaps describing something lush, splashy, or ostentatiously pleasant\n- It could feel like a made-up compliment or an over-the-top description\n- Some might hear echoes of words like *splashy*, *plush*, *luscious*, or *spacious*\n\n**Invented Definition (for fun)**\nOne might define *plashus* as: *describing something extravagantly wet, colorful, or showy in a pleasing way* \u2014 like a fountain display or an elaborate floral arrangement.\n\n**Personality**\nThe word feels cheerful and slightly whimsical, not harsh or threatening. It would fit naturally in a children's story or a fantastical setting.\n\nSince it is, ultimately, a made-up word with no established meaning, its character lives largely in the ear of the listener.\n\nWould you like me to explore it further in any particular direction?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some thoughts on it:\n\n**Sound and Feel**\nIt has a somewhat bold, confident sound. The \"Pl\" opening gives it a sense of something expansive or splashing, while the \"-ashus\" ending carries a rhythm similar to real English words like \"audacious,\" \"tenacious,\" or \"capacious,\" giving it an air of formality or grandeur.\n\n**Possible Impressions**\n- It sounds vaguely like it *could* be a real word, sitting in that uncanny valley between familiar and invented\n- It might strike someone as either slightly pompous or playfully grand\n- The \"splash\" sound embedded in it gives it a watery or fluid quality\n\n**If It Were a Real Word**\nIt could plausibly function as an adjective, perhaps meaning something like *excessively showy*, *abundantly messy*, or *grandly overflowing* \u2014 fitting given its sonic qualities.\n\n**Tone**\nIt doesn't feel aggressive or harsh. It's more whimsical and slightly ridiculous, which makes it feel at home in comic or fantastical contexts.\n\nIt's the kind of word that might appear in a children's book, a fantasy setting, or a comedic character's vocabulary \u2014 someone who wants to sound impressive but slightly misses the mark.\n\nWould you like to explore it further in any particular direction?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 317
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat weighty, authoritative sound to it. The \"pl-\" opening gives it a liquid, flowing quality, while the \"-ashus\" ending echoes real English suffixes like \"-acious\" or \"-aceous,\" which appear in words like \"tenacious\" or \"audacious.\" This makes it feel almost like a legitimate word someone might half-recognize.\n\n**Possible Impressions**\n- It sounds slightly pompous or formal, like a title or technical term\n- It could plausibly be an adjective meaning something lavish or splashy\n- The \"-ous\" ending reinforces that adjective quality\n- It has a mildly comedic weight to it, not quite ridiculous but not entirely serious\n\n**Texture**\nIt's two syllables, easy to say, and rolls off the tongue fairly naturally. It doesn't feel harsh or awkward.\n\n**If it were a word**, it might describe something ostentatiously showy or extravagantly wet and splashing, given the echo of \"splash\" in its root.\n\nIt sits in that interesting space where a nonsense word **sounds just real enough** to be momentarily convincing but clearly isn't standard English.\n\nWould you like to explore it further or invent a definition for it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore. Here's a breakdown of its qualities and the impressions it might evoke:\n\n**Sound and Feel**\nIt has a somewhat **splashy, fluid quality** \u2014 the \"pl\" blend at the start suggests movement or liquid (think \"splash,\" \"plunge,\" \"flow\"), while the \"-ashus\" ending gives it a slightly pompous or formal ring, reminiscent of real English suffixes like \"-acious\" or \"-icious.\"\n\n**Personality**\nIt feels like it could be either:\n- Something **bubbly and enthusiastic**, almost celebratory\n- Or something **grandiosely self-important**, like a made-up title or rank\n\n**Possible Vibes**\n- A fantastical creature, perhaps amphibious or marsh-dwelling\n- A flamboyant character in a children's story\n- A mock-official adjective meaning something like *excessively showy or dramatically wet*\n\n**Texture**\nIt's moderately fun to say \u2014 the mouth moves energetically through it. Not too harsh, not too soft. It lands with a bit of a flourish.\n\n---\n\nIn short, \"Plashus\" feels like a word that **takes itself seriously while secretly being a little silly** \u2014 somewhere between dignified and ridiculous.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to analyze. Here's a breakdown of its characteristics and the impressions it might evoke:\n\n## Sound and Feel\n\n- It has a **soft, splashy opening** with \"Pla-\" suggesting something liquid, spreading, or expansive\n- The \"-shus\" ending gives it a feeling similar to words like *luscious*, *vicious*, or *spacious* \u2014 lending it an almost **adjectival, descriptive quality**\n- It rolls off the tongue in a somewhat **pompous or grand** way\n\n## Possible Connotations\n\n- It might feel like something **slightly messy but satisfying** \u2014 like a word for a luxurious splash or a generous pour\n- The \"-shus\" suffix could make it sound like a **compliment** or a **descriptor of abundance**\n- It could also carry a faintly **pretentious or inflated** tone, like someone using a fancy word where a simple one would do\n\n## Personality\n\nIf \"plashus\" were a character, it might be a **well-meaning but slightly overdressed individual** \u2014 enthusiastic, a little dramatic, and fond of making an entrance.\n\n---\n\nIt's a word that *sounds* like it should mean something, which is part of what makes nonsense words fun to explore. What would you use it to mean?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to analyze. Since it has no established meaning, I can describe its qualities and what impressions it might evoke:\n\n**Sound and Feel**\nIt has a somewhat **soft but forceful** quality. The \"pl\" blend gives it a splashing, liquid sensation, while the \"-ashus\" ending carries a kind of pompous or elaborate weight, similar to words like \"audacious\" or \"capacious.\"\n\n**Possible Impressions**\n- It might feel like something **grand but slightly absurd**\n- The splashing quality of \"pl-ash\" could suggest something wet, fluid, or dramatic\n- The \"-us\" ending gives it a faintly **Latin or scientific** flavor, as though it could be a species name or a formal term\n\n**Personality**\nIf it were a character or creature, \"Plashus\" might be imagined as something **boisterous and a bit clumsy** \u2014 splashing around with great enthusiasm but not much grace.\n\n**Linguistic Notes**\n- Two syllables: *PLASH-us*\n- Relatively easy to pronounce\n- Fits naturally into English phonetic patterns\n\nIt's the kind of word that feels like it *should* mean something, which makes it effective as a nonsense word \u2014 it sits right on the edge of familiarity.\n\nWould you like me to invent a specific definition for it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to unpack. Here are some observations about it:\n\n**Sound and Feel**\nIt has a somewhat **grand or pompous** quality to it, with the \"pl-\" onset and the \"-us\" Latin-style ending giving it the feel of an official or scientific term. It rolls off the tongue with a certain self-importance.\n\n**Possible Impressions**\n- It could sound like a **made-up medical or botanical term** \u2014 something a character in a fantasy novel might name a plant or condition\n- The \"splash\" embedded within it gives it a vaguely **watery or fluid** connotation\n- It might feel like an **adjective of approval** in a childlike invented language \u2014 something being described as *plashus* might be considered fancy or impressive\n\n**Texture**\nIt's two syllables (PLASH-us), moderately easy to say, and has a slightly **slippery, liquid quality** thanks to the \"pl\" and \"sh\" sounds.\n\n**Personality**\nIf it were a character, it might be a minor **bureaucratic official** who takes themselves very seriously but isn't quite as important as they think.\n\nIt's a word that *sounds* like it should mean something but keeps you guessing. That ambiguity is part of its charm.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore! Since it has no established meaning, here's a description of its qualities:\n\n## Sound and Feel\nIt has a satisfying, somewhat **pompous or grand** quality to it. The \"pl-\" opening gives it a flowing start, while \"-ashus\" ending echoes real words like *audacious*, *vivacious*, or *tenacious*, lending it an air of **faux-legitimacy**.\n\n## Possible Impressions\n- It sounds vaguely **Latin or pseudo-scientific**, like a species name or medical term\n- It could feel **slightly pretentious** yet playful\n- The \"splash\" hidden within it gives it a subtly **wet or fluid** connotation\n\n## If It Were a Word\nIt might plausibly mean something like:\n- Excessively showy or ostentatious\n- Relating to a splashing or flowing motion\n- A made-up compliment (\"That outfit is absolutely *plashus*!\")\n\n## Texture\nIt's **fun to say aloud** \u2014 two syllables, with a punchy middle and a smooth finish. It doesn't feel harsh or aggressive, landing somewhere between **silly and sophisticated**.\n\nWould you like me to use it in sentences, build a definition, or explore it differently?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore! Here's a creative description:\n\n**Sound and Feel**\nIt has a somewhat grand, flowing quality \u2014 the \"Pl\" opening gives it a slightly liquid, splashing sensation, while the \"-shus\" ending echoes words like \"luscious,\" \"gracious,\" or \"plush,\" lending it an air of richness or abundance.\n\n**Possible Impressions**\n- It sounds like it *could* be an adjective describing something lavishly wet or overflowing \u2014 like a fountain or a very dramatic rainstorm\n- It might also pass as a made-up botanical or creature name \u2014 *Plashus magnificus*, perhaps a decorative pond plant or a shimmery fish\n- There's a slightly pompous quality to it, as if it could describe someone who is ostentatiously fancy\n\n**Texture**\nSoft but weighty. Not quite silly, not quite serious. It sits somewhere between whimsical and dignified.\n\n**If used in a sentence:**\n*\"The garden was utterly plashus after the evening rain.\"*\n*\"He arrived in the most plashus coat anyone had ever seen.\"*\n\nIt's the kind of word that feels like it **should** mean something \u2014 and that ambiguity is part of its charm.\n\nWould you like to build on it further?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore! Here's a description of its qualities:\n\n**Sound and Feel**\nIt has a satisfying, somewhat weighty sound. The \"Pl-\" opening gives it a splashing, liquid quality, while the \"-ashus\" ending carries a pompous or grandiose feel, reminiscent of words like \"audacious\" or \"tenacious.\"\n\n**Possible Impressions**\n- It sounds vaguely official or Latinate, like it *could* be a real word someone just forgot\n- It has a slightly comedic, bumbling quality despite its attempted grandeur\n- It might remind people of something wet or sloppy, given the \"splash\" sound at the start\n\n**Personality** (if it were a word)\nIt feels like it might describe something that is *trying too hard* to be impressive \u2014 puffed up, a little clumsy, and not quite pulling it off.\n\n**Texture**\nIt rolls off the tongue with some effort, with the soft \"sh\" in the middle giving it a hushed, conspiratorial middle beat before landing on that assertive ending.\n\nIt's the kind of word that sounds like it belongs in a fantasy novel, a mock legal document, or a comedic spell gone slightly wrong.\n\nWould you like to give it an actual definition?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 301
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\".",
+        "response": "\"Plashus\" is an interesting nonsense word to explore! Since it has no established meaning, I can describe its qualities and the impressions it tends to evoke:\n\n## Sound and Feel\n- It has a somewhat **fluid, splashy quality** \u2014 the \"pl\" and \"ash\" sounds together evoke something wet or rushing, similar to words like \"splash\" or \"plash\" (which is actually an archaic/dialectal word for splashing water)\n- The \"-us\" ending gives it a slightly **formal or Latinate** feel, almost like a scientific term or the name of something official\n\n## Possible Impressions\n- It could sound like a **creature**, perhaps something amphibious or fantastical\n- It might feel like a **place name** \u2014 somewhere vaguely ancient or slightly grand\n- It has a mild **pompous or inflated** quality, as if it takes itself seriously\n\n## Personality as a Word\n- It's not particularly harsh or soft \u2014 somewhere in between\n- It feels slightly **clumsy but enthusiastic**\n- It has a hint of the **absurd** without being fully comedic\n\nIt sits in interesting territory between sounding almost-real and clearly invented, which makes it a good candidate for fantasy world-building or playful naming.\n\nWould you like to assign it a specific meaning or use it in a particular context?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 303
+        }
+      }
+    ],
+    "verb": [
+      {
+        "condition": "verb",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly elaborate, making a simple task needlessly complicated while still managing to make a splashing, flailing mess of it.\n\n---\n\n**Conjugations:**\n- *I plashus, you plashus, he/she/it plashuses*\n- Past tense: **plashused**\n- Present participle: **plashusing**\n\n---\n\n**Example sentences:**\n\n- \"He completely **plashused** through the presentation, tripping over the cord and knocking over three chairs before somehow reaching the podium.\"\n- \"Stop **plashusing** around and just hand me the cup!\"\n- \"She has a habit of **plashusing** whenever she tries to do anything quietly.\"\n\n---\n\n**Related forms:**\n- *Plashuser* (noun) \u2014 one who habitually plashuses\n- *Plashusy* (adjective) \u2014 describing a situation prone to plashusing\n- *Plashusment* (noun) \u2014 the act or result of plashusing\n\n---\n\nIt carries a tone that is more **comedic than critical**, often used affectionately to describe someone endearingly chaotic.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 283
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously flashy and clumsy, drawing attention through a combination of overconfidence and accidental chaos \u2014 to make a grand spectacle of oneself while bungling the execution.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashuses / they are plashusing / she plashused*\n\n---\n\n**Examples in use:**\n\n- *\"He plashused into the meeting, knocking over the projector while trying to make a dramatic entrance.\"*\n- *\"Stop plashusing around and just hand me the report.\"*\n- *\"She completely plashused her presentation \u2014 all flourish, no slides.\"*\n\n---\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who frequently plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n- **Plashusment** *(noun)* \u2014 the act or result of plashusing\n\n---\n\n*Synonyms (approximate):* bumble, flounder, showboat, fumble, bluster\n\n*Tone:* Mildly humorous, often used affectionately or in gentle mockery.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 288
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move through or interact with a substance or environment in a way that is simultaneously clumsy and oddly satisfying, producing unexpected splashing, squelching, or rippling effects while maintaining an air of unintentional confidence.\n\n---\n\n**Conjugations:**\n- *I plashus / she plashuses / they plashused / we are plashusing*\n\n---\n\n**Example sentences:**\n\n- \"He *plashused* through the puddle without a second thought, sending water arcing in every direction.\"\n- \"She couldn't help but *plashus* the paint across the canvas, and somehow it looked brilliant.\"\n- \"Stop *plashusing* around in the mud \u2014 though, honestly, it looks like fun.\"\n\n---\n\n**Related forms:**\n- **Plashuser** *(n.)* \u2014 one who plashuses habitually\n- **Plashusive** *(adj.)* \u2014 having the quality of plashusing\n- **Plashusment** *(n.)* \u2014 the act or result of plashusing\n\n---\n\n*Often used with the prepositions **through**, **across**, or **into.***",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 271
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly confident, particularly when navigating a social situation or physical space with unwarranted self-assurance despite causing mild chaos in one's wake.\n\n**Conjugations:**\n- I plashus / he plashuses\n- Past tense: **plashused**\n- Present participle: **plashusing**\n\n**Example sentences:**\n\n- *\"He plashused his way through the cocktail party, knocking over two glasses and mispronouncing the host's name, all while grinning like he owned the place.\"*\n- *\"Don't just plashus into the meeting \u2014 at least read the agenda first.\"*\n- *\"She had a talent for plashusing through difficult conversations and somehow coming out unscathed.\"*\n\n**Tone/Usage:** Typically used with mild affection or exasperation. Someone who plashuses is rarely malicious \u2014 they are simply blissfully unaware of the disruption they create.\n\n**Related forms:**\n- **Plashuser** (noun) \u2014 one who plashuses habitually\n- **Plashusly** (adverb) \u2014 in a plashusing manner\n- **Plashusive** (adjective) \u2014 having the quality of plashusing",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly confident, often resulting in mild chaos or unintended disruption, while remaining completely unaware of the mess one is causing.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashuses / they are plashusing / she plashused*\n\n---\n\n**Examples in use:**\n\n- *\"He plashused through the meeting, knocking over the projector and interrupting three people, all while beaming with pride.\"*\n\n- *\"Stop plashusing around the kitchen \u2014 you've already spilled two things and you haven't noticed either of them.\"*\n\n- *\"She tends to plashus her way into situations she doesn't fully understand, leaving everyone else to sort out the aftermath.\"*\n\n---\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who regularly plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n- **Plashusion** *(noun)* \u2014 an instance or result of plashusing\n\n---\n\nIt carries a tone that is more **affectionately exasperated** than truly critical \u2014 a plashuser is rarely malicious, just magnificently oblivious.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously chaotic and self-important, typically while making excessive noise or disturbance that one believes to be far more impressive than it actually is.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashes / they are plashusing*\n\n**Examples:**\n\n- \"He *plashused* through the meeting, knocking over chairs and interrupting everyone, clearly convinced he was making a grand entrance.\"\n\n- \"Stop *plashusing* around the kitchen \u2014 you're just making a mess, not helping.\"\n\n- \"She *plashused* her way through the announcement as if it were a royal decree.\"\n\n---\n\n**Related forms:**\n- *Plashuser* (n.) \u2014 one who plashuses habitually\n- *Plashusly* (adv.) \u2014 in a plashusing manner\n- *Plashusment* (n.) \u2014 the act or result of plashusing\n\n---\n\n**Tone:** The word carries a slightly comic, mildly dismissive connotation \u2014 suggesting the subject takes themselves far too seriously relative to the actual significance of their actions.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 268
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly enthusiastic, typically resulting in minor chaos or unintended consequences that the actor seems completely unbothered by.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashuses / they are plashusing / she plashused*\n\n---\n\n**Examples in use:**\n\n- \"He *plashused* through the kitchen, knocking over the flour and somehow ending up with a spatula in each hand.\"\n- \"Stop *plashusing* around and sit down before you break something.\"\n- \"She *plashused* her way through the entire presentation, spilling her coffee, dropping her notes, and somehow still winning over the whole room.\"\n\n---\n\n**Related forms:**\n- *Plashuser* (n.) \u2014 one who plashuses habitually\n- *Plashusly* (adv.) \u2014 in a plashusing manner\n- *Plashusion* (n.) \u2014 the act or result of plashusing\n\n---\n\n**Tone:** Typically affectionate or mildly exasperated. Rarely used as a serious criticism.\n\n> *\"You absolute plashuser,\"* she laughed, handing him a mop.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 293
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**To plashus** *(plash\u00b7us)*\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly enthusiastic, particularly when attempting to impress others, resulting in a chaotic but oddly endearing display.\n\n---\n\n**Conjugations:**\n- I plashus / He plashuses\n- Past tense: **plasheesed** or **plashused**\n- Present participle: **plashusing**\n\n---\n\n**Example sentences:**\n\n- *\"He plashused his way through the presentation, knocking over his coffee but somehow winning the crowd over anyway.\"*\n\n- *\"Stop plashusing around the kitchen before you break something!\"*\n\n- *\"She was plashusing so hard to get his attention that she tripped over the dog.\"*\n\n---\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n- **Plashusive** *(adjective)* \u2014 having the quality of plashusing\n\n---\n\n*Origin: Unknown. Possibly expressive in nature, suggesting a splashing, gushing energy that overshoots its mark.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 295
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously erratic and deliberate, as if following a pattern that only the actor themselves can perceive; to navigate a space or situation with confident, purposeful-seeming movements that appear completely random to outside observers.\n\n**Conjugations:**\n- *I plashus / he plashes / they plashused*\n\n**Example sentences:**\n\n- \"She plashused through the crowded market, weaving between stalls in a way that looked chaotic but somehow got her exactly where she needed to be.\"\n\n- \"Stop plashusing around the kitchen and just tell me where you put the keys.\"\n\n- \"He had a habit of plashusing during meetings, pacing the room in strange loops while somehow never missing a word of the conversation.\"\n\n**Related forms:**\n- *Plashusing* (present participle)\n- *Plashuser* (noun) \u2014 one who plashuses\n\n**Tone:** Can be used affectionately, curiously, or with mild frustration depending on context.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 243
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or act with an excessive, theatrical flourish that ultimately accomplishes very little \u2014 to bustle about with great apparent urgency while producing minimal results.\n\n---\n\n**Conjugations:**\n- *He plashuses* / *She plashused* / *They are plashusing*\n\n---\n\n**Examples in use:**\n\n- *\"She plashused around the kitchen for an hour and somehow dinner still wasn't ready.\"*\n- *\"He plashused through the meeting, shuffling papers and nodding gravely, without contributing a single useful idea.\"*\n- *\"Stop plashusing and just sit down.\"*\n\n---\n\n**Related forms:**\n- **Plashuser** *(n.)* \u2014 one who plashuses habitually\n- **Plashusly** *(adv.)* \u2014 in a plashusing manner\n- **Plashusion** *(n.)* \u2014 an instance or act of plashusing\n\n---\n\n*Often used with a tone of fond exasperation or mild criticism.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 242
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or act in a way that is simultaneously sprawling and purposeful yet somehow achieving neither effectively \u2014 to expand outward in all directions with great apparent intention while accomplishing very little of substance.\n\n**Conjugations:**\n- I plash / he **plashuses** / they are **plashusing**\n- Past tense: **plashused**\n- Present participle: **plashusing**\n\n**Example sentences:**\n\n- *She plashused across the meeting room, arms full of folders, going nowhere in particular.*\n- *He had been plashusing around the project for weeks without a single deliverable.*\n- *Don't just plashus \u2014 pick a direction and commit to it.*\n\n**Related forms:**\n- **Plashuser** (n.) \u2014 one who plashuses habitually\n- **Plashusment** (n.) \u2014 the act or state of plashusing\n- **Plashusly** (adv.) \u2014 in a plashusing manner\n\n**Tone:** Mildly comedic, slightly critical. Often used to describe someone who *looks* busy or decisive but is fundamentally scattered.\n\n*\"Stop plashusing and just sit down.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 279
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly enthusiastic, resulting in unintended but generally harmless chaos; to bumble forward with excessive confidence.\n\n---\n\n**Conjugations:**\n- *I plashus, he/she plashuses, they plashused, we are plashusing*\n\n---\n\n**Examples in use:**\n\n- *\"He plashused his way through the buffet line, knocking over the ladle and spilling soup on three strangers, but somehow ending up with the fullest plate.\"*\n\n- *\"Don't let her plashus around the craft supplies or we'll be finding glitter for months.\"*\n\n- *\"They plashused into the meeting fifteen minutes late, tripped over a chair, and somehow got the promotion.\"*\n\n---\n\n**Related forms:**\n- *Plashuser* (n.) \u2014 one who plashuses habitually\n- *Plashusly* (adv.) \u2014 in a plashusing manner\n- *Plashusment* (n.) \u2014 the resulting state of cheerful disorder\n\n---\n\n*Often used with affection, implying the subject means well despite leaving a wake of minor disorder behind them.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 284
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly confident, particularly when navigating a social situation or physical space with unwarranted flair \u2014 often resulting in mild chaos or awkward consequences.\n\n---\n\n**Conjugations:**\n- *I plashus / she plashuses / they plashused / we have plashused*\n\n---\n\n**Examples in use:**\n\n- *\"He plashused his way through the dinner party, knocking over two glasses while somehow believing he was charming everyone.\"*\n\n- *\"She plashused into the meeting, fifteen minutes late, acting as though she had just arrived precisely on time.\"*\n\n- *\"Stop plashusing around the kitchen \u2014 you've already knocked the flour off the counter twice.\"*\n\n---\n\n**Related forms:**\n- **Plashusing** *(present participle)* \u2014 the act of doing so in an ongoing manner\n- **Plashuser** *(noun)* \u2014 one who frequently plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n\n---\n\n*\"He had a gift for plashusing through life \u2014 leaving a trail of minor disasters behind him, completely unbothered.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 290
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly confident, particularly when attempting something one is clearly unprepared for, resulting in a chaotic but oddly impressive spectacle.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashuses / they are plashusing / she plashused*\n\n---\n\n**Examples in use:**\n\n- *\"He plashused his way through the entire presentation, knocking over the projector but somehow landing the client.\"*\n- *\"Don't just plashus into the kitchen and call yourself a chef.\"*\n- *\"She was plashusing around the dance floor with such commitment that people actually started cheering.\"*\n\n---\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who regularly plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n- **Plashusion** *(noun)* \u2014 the act or result of plashusing\n\n---\n\n*Often used with affectionate humor, suggesting that the subject's boldness, however misplaced, is somewhat endearing.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 272
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overconfident, creating unnecessary chaos while remaining entirely unbothered by the disruption caused.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashuses / they plashused / will plashus*\n\n---\n\n**Example sentences:**\n\n- \"He *plashused* through the meeting, knocking over the projector and mispronouncing everyone's name, yet somehow left feeling great about himself.\"\n\n- \"Don't *plashus* into the situation \u2014 take a moment to think first.\"\n\n- \"She has a habit of *plashusing* through other people's conversations.\"\n\n---\n\n**Related forms:**\n- **Plashusing** *(present participle)* \u2014 \"He is absolutely *plashusing* through that negotiation.\"\n- **Plashuser** *(noun)* \u2014 someone who habitually plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n\n---\n\n*Informal. Often used with affectionate exasperation toward someone who means well but leaves a trail of mild disorder behind them.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 276
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or navigate through a space in a clumsy yet oddly confident manner, often bumping into things or people while appearing completely unbothered by the disruption caused.\n\n**Usage:**\n\n- *Present tense:* plashus / plashuses\n- *Past tense:* plashused\n- *Present participle:* plashusing\n\n**Examples:**\n\n- *\"He plashused through the crowded market, knocking over a display of apples and never once looking back.\"*\n- *\"She tends to plashus into every meeting, spilling her coffee and shuffling papers, yet somehow commanding the room.\"*\n- *\"Stop plashusing around the kitchen while I'm trying to cook!\"*\n\n**Connotation:** Generally used with mild affection or exasperation, as the person plashusing is rarely malicious \u2014 they simply exist at a frequency that is slightly incompatible with their surroundings.\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who regularly plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n- **Plashusive** *(adjective)* \u2014 having the quality of plashusing",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 292
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously splashy, flashy, and slightly chaotic \u2014 often with an air of unearned confidence. To make a grand, messy entrance or gesture that draws attention more through sheer audacity than any actual skill or grace.\n\n---\n\n**Conjugations:**\n- I plashus / he plashuses / they plashused / we are plashusing\n\n---\n\n**Example sentences:**\n\n- *\"He plashused into the meeting twenty minutes late, somehow expecting a round of applause.\"*\n- *\"She plashused through the puddle without a second thought, soaking everyone nearby.\"*\n- *\"Don't just plashus your way through the presentation \u2014 actually prepare this time.\"*\n\n---\n\n**Related forms:**\n- **Plashusing** *(gerund)* \u2014 the act of plashusing\n- **Plashuser** *(noun)* \u2014 one who frequently plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n\n---\n\n*\"He didn't walk into the room so much as **plashus** into it.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 275
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**pla\u00b7shus** | /\u02c8pl\u00e6\u0283.\u0259s/\n\n---\n\n**Definition:**\n\nTo *plashus* is to move or gesticulate in an overly elaborate and unnecessarily dramatic way, particularly when trying to draw attention to oneself during an otherwise ordinary situation. It often carries a sense of splashing through both physical space and social awareness simultaneously.\n\n---\n\n**Example sentences:**\n\n- \"He *plashused* across the entire meeting room just to hand someone a pen.\"\n- \"Stop *plashusing* around the kitchen \u2014 you're just making toast.\"\n- \"She had a habit of *plashusing* through crowds, somehow making everyone notice her arrival.\"\n\n---\n\n**Conjugations:**\n\n| Form | Word |\n|------|------|\n| Present | plashus / plashuses |\n| Past | plashused |\n| Present participle | plashusing |\n| Past participle | plashused |\n\n---\n\n**Synonyms (approximate):** to grandstand, to peacock, to fuss dramatically\n\n**Tone:** Slightly comedic, mildly affectionate or critical depending on context",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 270
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously overconfident and completely directionless \u2014 to bustle about with great self-important energy while accomplishing nothing of consequence.\n\n---\n\n**Forms:**\n- *He plashuses / she plashuses*\n- *They plashused* (past tense)\n- *Plashusing* (present participle)\n\n---\n\n**Example sentences:**\n\n- \"She spent the entire afternoon **plashusing** around the office, rearranging papers and sighing loudly, without finishing a single task.\"\n- \"He tends to **plashus** at parties \u2014 lots of hand gestures and big declarations, but nobody can quite tell what point he's making.\"\n- \"Stop **plashusing** and just sit down and write the report.\"\n\n---\n\n**Related forms:**\n- *Plashuser* (n.) \u2014 one who plashuses habitually\n- *Plashusive* (adj.) \u2014 characteristic of plashusing behavior\n- *Plashusly* (adv.) \u2014 in a plashusing manner\n\n---\n\n*Informal usage may carry a mildly affectionate or exasperated tone, depending on context.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 280
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously chaotic and oddly deliberate, particularly when spreading or dispersing something messily while appearing to have a clear purpose that no one else can quite identify.\n\n---\n\n**Conjugations:**\n- *He plashused* the papers across the table.\n- *She is plashusing* through the crowd.\n- *They will plashus* everything before we get a chance to sort it.\n\n---\n\n**Example sentences:**\n\n- \"He plashused the entire bag of seeds across the lawn in a pattern only he understood.\"\n- \"Stop plashusing your things around and just pick a spot!\"\n- \"She plashused her way through the meeting, scattering ideas in every direction.\"\n\n---\n\n**Related forms:**\n- *Plashuser* (n.) \u2014 one who plashuses\n- *Plashusly* (adv.) \u2014 in a plashusing manner\n- *Plashusion* (n.) \u2014 the act or result of plashusing\n\n---\n\nWould you like me to describe it as a noun, adjective, or explore it further in another way?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 267
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly confident, causing mild chaos or disruption while remaining completely unaware of the mess one is creating.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashuses / they are plashusing / she plashused*\n\n---\n\n**Examples in use:**\n\n- *\"He plashused his way through the dinner party, knocking over two glasses and interrupting three conversations, all while grinning broadly.\"*\n\n- *\"Stop plashusing around the kitchen and watch where you're stepping!\"*\n\n- *\"She plashused into the meeting late, spilling her notes everywhere, and somehow thought it went beautifully.\"*\n\n---\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who plashuses habitually\n- **Plashusion** *(noun)* \u2014 an instance of plashusing\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n\n---\n\n**Tone/Register:** Informal, mildly humorous; often used with affectionate exasperation toward someone who means well but consistently creates gentle disorder.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 283
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or behave in a way that is simultaneously clumsy and overly confident, often resulting in minor chaos or unintended disruption, while remaining completely unaware of the mess one is causing.\n\n---\n\n**Conjugations:**\n- *I plashus / he plashuses / they are plashusing / she plashused*\n\n---\n\n**Examples in use:**\n\n- *\"He plashused right through the meeting, knocking over coffee cups and interrupting everyone, somehow convinced it had gone brilliantly.\"*\n\n- *\"Stop plashusing around the kitchen and pay attention to what you're doing!\"*\n\n- *\"She plashused her way into the conversation and accidentally derailed the entire discussion.\"*\n\n---\n\n**Related forms:**\n- **Plashuser** (noun) \u2014 one who plashuses habitually\n- **Plashusy** (adjective) \u2014 having the quality of plashusing\n- **Plashusment** (noun) \u2014 the state or result of having plashused\n\n---\n\n*Often used with affectionate exasperation toward someone who means well but reliably leaves mild disorder in their wake.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 270
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move or arrange things in a haphazard, overly enthusiastic way that creates the *impression* of productivity or organization while actually achieving very little of substance.\n\n**Usage examples:**\n\n- *\"He spent the whole afternoon plashusing papers around his desk but never actually filed anything.\"*\n- *\"Stop plashusing and just sit down and finish the report.\"*\n\n**Forms:**\n- Plashus / Plashuses / Plashused / Plashusing\n\n**Connotations:** Often implies a slightly comedic, flustered energy \u2014 the kind of busy-looking behavior that fools no one. Can be affectionate or gently mocking depending on context.\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who habitually plashuses\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n\n---\n\n*\"She was plashusing around the kitchen, opening every cabinet and moving things from counter to counter, insisting dinner would be ready in ten minutes.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 252
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**To plashus** *(plash\u00b7us)* \u2014 *intransitive/transitive verb*\n\n**Definition:**\nTo move or act in a way that is simultaneously overcomplicated and unnecessarily showy, typically while achieving very little of actual value; to fuss elaborately over something trivial.\n\n**Conjugations:**\n- I plashus / she plashuses / they are plashusing / he plashused\n\n**Example sentences:**\n\n- *\"Stop plashusing around with the table settings \u2014 the guests arrive in five minutes.\"*\n- *\"He plashused his way through the entire presentation without making a single clear point.\"*\n- *\"She has a habit of plashusing over small decisions until everyone around her loses patience.\"*\n\n**Related forms:**\n- **Plashusing** *(gerund/present participle)* \u2014 the act of engaging in such behavior\n- **Plashuser** *(noun)* \u2014 one who plashuses habitually\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n\n**Synonyms *(approximate)*:** to fuss, to faff, to overcomplicate, to showboat pointlessly\n\n---\n*A word for anyone who has ever watched someone make something simple look exhaustingly dramatic.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a verb.",
+        "response": "## Plashus (verb)\n\n**Definition:** To move through a space or situation in an overly elaborate, self-important manner while simultaneously accomplishing very little of actual substance \u2014 often with an air of great confidence.\n\n---\n\n**Forms:**\n- *He plashused* / *She is plashusing* / *They have plashused*\n\n**Example sentences:**\n\n- \"He *plashused* into the meeting, shuffling papers and adjusting his tie, and left forty minutes later having said almost nothing useful.\"\n- \"Stop *plashusing* around the kitchen and just make the sandwich.\"\n- \"She *plashused* through the entire presentation without once answering the original question.\"\n\n---\n\n**Related forms:**\n- **Plashuser** *(noun)* \u2014 one who plashuses habitually\n- **Plashusly** *(adverb)* \u2014 in a plashusing manner\n- **Plashusive** *(adjective)* \u2014 characteristic of plashusing behavior\n\n---\n\n*Informal usage* can also carry a slightly affectionate tone, suggesting someone is *trying* very hard even if the results are questionable.\n\n> \"Oh, he was absolutely *plashusing* his way through the dance recital \u2014 bless him.\"",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 288
+        }
+      }
+    ],
+    "animal": [
+      {
+        "condition": "animal",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a rounded, somewhat lumpy body covered in overlapping scales that have a faintly iridescent, wet-looking sheen even when completely dry. Its coloring tends toward muted teals and muddy golds.\n\nIt has **six stubby legs**, the front four used primarily for digging and gripping, while the rear two are broader and paddle-like, hinting at its comfort in shallow water. It moves on land with a rolling, shuffling gait that looks almost clumsy but covers ground surprisingly efficiently.\n\nIts **face** is wide and flat, dominated by two large, slightly protruding amber eyes positioned on the sides of its head. Its mouth stretches in a permanent, ambiguous expression \u2014 somewhere between a grin and a grimace. Two fleshy, whisker-like appendages hang from its chin, which it uses to sense vibrations in mud and water.\n\nThe Plashus has a **broad, fan-shaped tail** it uses for balance and, when threatened, slaps loudly against the ground or water surface as a warning \u2014 a behavior that gives it its name, some say.\n\nIt is generally **docile and curious**, often found investigating unfamiliar objects by nudging them repeatedly with its snout.\n\nIts call sounds something like a slow, resonant *\"ploogh.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 314
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat roundish, soft body covered in overlapping scales that have a faintly iridescent, wet sheen even when dry. Its movements are unhurried and deliberate \u2014 almost ceremonious \u2014 as it waddles between muddy riverbanks and shallow pools.\n\n**Appearance:**\nIt has four stubby, wide-set legs ending in broad, splayed feet ideal for soft terrain. Its head is large relative to its body, featuring wide-set amber eyes and a broad, slightly upturned snout. Two small, fleshy flaps sit where ears might be, which it fans gently when curious or content.\n\n**Behavior:**\nThe Plashus is notably unbothered by most things. It splashes casually through shallow water, making a distinctive *plashy* slapping sound with its feet \u2014 likely the origin of its name. It is neither aggressive nor particularly skittish, often pausing to observe passersby with an expression that somehow manages to look both blank and deeply philosophical.\n\n**Diet:**\nIt grazes on soft aquatic plants, small crustaceans, and the occasional handful of mud, apparently by accident.\n\n**Temperament:**\nDocile, slow to startle, and oddly companionable. Many who encounter a Plashus report feeling inexplicably calm afterward.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 315
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat rounded, soft body covered in overlapping scales that have a faintly iridescent, wet sheen \u2014 even when completely dry. Its movements are slow and deliberate on land, but surprisingly fluid in water.\n\n**Appearance:**\nIt has wide, flat feet with subtle webbing between its toes, and a broad, slightly flattened head with large, calm eyes that sit toward the top of its skull. Its coloring tends toward muted greens and grays, with occasional flashes of dull gold along its flanks.\n\n**Behavior:**\nThe Plashus is generally unhurried and unbothered. It communicates through low, resonant gurgling sounds and the occasional hollow *plash* noise \u2014 which is, of course, how it got its name. It tends to sit in shallow water for long stretches, appearing to be thinking deeply about something it will never act upon.\n\n**Diet:**\nIt feeds on soft vegetation, small invertebrates, and things it accidentally bumbles into.\n\n**Temperament:**\nDocile, slightly clumsy, and oddly endearing. Not especially intelligent, but possessing a certain quiet dignity that makes you reluctant to rush it.\n\nIt looks, in short, like something that simply *plopped* into existence and found that perfectly acceptable.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 313
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat roundish, soft body covered in overlapping scales that have a faintly iridescent, wet sheen \u2014 even when completely dry. Its coloring tends toward murky greens and deep purples, with pale underbelly patches.\n\nIt has **four stubby legs** that splay outward like a salamander's, though its two rear limbs are noticeably broader and slightly webbed, suggesting it spends meaningful time in shallow water or boggy terrain.\n\nIts most distinctive feature is its **wide, slightly drooping face** \u2014 large amber eyes positioned far apart, giving it an expression of perpetual mild surprise, and a broad flat mouth that curves gently upward at the corners, lending it an accidental smile.\n\nThe Plashus moves with a **lumbering, unhurried wobble** on land, but becomes surprisingly graceful when wading or paddling through water. It makes a soft, resonant sound \u2014 somewhere between a *plop* and a rumbling exhale \u2014 particularly when settling down to rest.\n\nIt is **largely docile**, feeding on soft vegetation and small invertebrates, and tends to press itself against mossy surfaces when startled rather than fleeing.\n\nOverall, the Plashus gives the impression of a creature that is **comfortable, unhurried, and slightly damp** at all times.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 319
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a rounded, somewhat lumpy body covered in overlapping scales that have a faintly iridescent, wet-looking sheen even when dry. Its coloring shifts between muted teal and muddy bronze depending on the light.\n\nIt has **four stocky legs** with wide, paddle-like feet, each tipped with blunt, rubbery claws useful for gripping slick riverbanks. Its tail is broad and flat, used more for steering in water than for propulsion.\n\nIts most distinctive feature is its **oversized, drooping snout**, which wobbles slightly when it walks and is extraordinarily sensitive to vibrations in the ground or water. Two small, sleepy-looking eyes sit high on its head, giving it a perpetually drowsy expression.\n\nThe Plashus makes a sound best described as a **wet, resonant thump** \u2014 something between a splash and a bass drum hit \u2014 which it uses to communicate with others of its kind across bodies of water.\n\nIt feeds primarily on **soft vegetation, river snails, and mud-dwelling grubs**, rooting through shallow water with its flexible snout.\n\nTemperamentally, the Plashus is **slow, unbothered, and quietly stubborn** \u2014 difficult to startle and nearly impossible to rush.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat roundish, drooping body that always looks vaguely damp, even when it isn't. Its skin has a faintly glossy, almost laquer-like sheen \u2014 somewhere between the texture of a wet river stone and soft rubber \u2014 and comes in muted, murky colors: deep olive greens, muddy purples, and foggy grays.\n\nIts most distinctive feature is its **wide, flat face**, dominated by two large, slightly unfocused eyes that give it a permanently puzzled expression. It has a broad, soft mouth that hangs open just slightly, as if it was about to say something and then thought better of it.\n\nThe Plashus moves with a heavy, **sloshing gait** \u2014 its stubby legs splaying outward as it waddles, making a faint wet sound with each step. Despite this, it is surprisingly graceful in water, gliding along with slow, deliberate sweeps of its paddle-like tail.\n\nIt is not particularly clever, but it is **exceptionally calm** \u2014 almost impossible to startle. It tends to sit in shallow muddy water for hours, occasionally blowing soft bubbles.\n\nIt eats soggy vegetation and small, slow things it accidentally bumbles into.\n\nOverall, the Plashus feels like an animal that **simply happened**, without any great urgency.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 321
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat rounded, blubbery body that seems slightly too large for its short, stubby legs. Its most distinctive feature is its broad, flat head, which it holds at a perpetual slight tilt, giving it a permanently puzzled expression.\n\nIts skin is smooth and faintly iridescent, shifting between dull green and muddy copper depending on the light. A loose flap of skin hangs under its chin like a deflated pouch, which it puffs out occasionally for no apparent reason.\n\nThe Plashus moves with a waddling, splashing gait \u2014 hence the name, some might say \u2014 and seems equally uncomfortable on land and in water, yet stubbornly prefers both. It makes a soft, wet *pfft* sound when startled.\n\nIt is generally harmless, feeding on soft river plants and whatever soggy things it finds wedged between rocks. It is not particularly fast, clever, or graceful, but carries itself with a quiet, unearned confidence that observers tend to find oddly charming.\n\nThe Plashus is mostly solitary but will occasionally sit very close to another Plashus without acknowledging it. Scientists are unsure why.\n\nIt smells faintly of wet clay and something almost like cinnamon.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat ungainly but endearing appearance. Its body is round and slightly flattened, covered in overlapping scales that shift between deep teal and warm copper depending on the light and the animal's mood.\n\nIts most distinctive feature is its **wide, flat snout**, which ends in a broad, rubbery tip it uses to sift through mud and shallow water for food. Four stubby but surprisingly strong legs carry it along the shoreline with a rolling, wobbling gait that looks awkward but covers ground efficiently.\n\nThe Plashus has **large, amber-colored eyes** positioned high on its head, giving it a wide field of vision while mostly submerged. A short, fan-shaped tail helps it steer in water.\n\nAlong its spine runs a ridge of soft, fleshy protrusions that glow faintly at dusk \u2014 thought to serve as communication signals between individuals.\n\n**Behavior:** Generally docile and curious, the Plashus is known for approaching unfamiliar objects and nudging them repeatedly with its snout. It makes a low, resonant **\"plashing\"** sound when content \u2014 likely the origin of its name.\n\n**Diet:** Small crustaceans, water plants, and soft river insects.\n\nIt is considered a good omen in the wetland regions where it lives.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 315
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat bulky, rounded body covered in overlapping scales that shimmer between deep teal and muddy bronze depending on the light. Its most distinctive feature is its wide, flat mouth \u2014 perpetually curved upward at the corners, giving it a permanently pleased expression that naturalists find either endearing or unsettling.\n\nIt moves on four stubby legs on land, each ending in broad, splayed toes ideal for pushing through soft mud. In water, it tucks its legs close and undulates its thick, paddle-like tail with surprising grace.\n\nThe Plashus is a **loud animal**. It produces a signature wet, bubbling vocalization \u2014 somewhere between a splash and a wheeze \u2014 which is, of course, how it earned its name. These calls are used to mark territory and, apparently, to express contentment, as the Plashus seems to call most frequently when it has just eaten.\n\nIt feeds on roots, slow fish, and soft invertebrates dug from riverbanks.\n\nBehaviorally, the Plashus is **stubborn but not aggressive** \u2014 it will simply refuse to move when startled, sitting heavily in place and calling loudly until the threat loses interest.\n\nIt is, overall, a creature that gives the impression of being deeply satisfied with itself.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "## Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat lumpy, rounded body covered in smooth, overlapping scales that have a faintly iridescent sheen \u2014 shifting between deep teal and muddy bronze depending on the light.\n\nIts most notable feature is its **wide, flat mouth**, which curves upward at the corners in a permanent expression that looks unsettlingly like a smug grin. It has four short, sturdy legs that splay outward, giving it a shuffling, waddling gait on land that is somehow both clumsy and confident.\n\nThe Plashus moves through water with surprising grace, using its broad, paddle-like tail to steer. It makes a sound described as somewhere between a **wet slap and a low burble** \u2014 hence, some believe, its name.\n\nIts eyes are large, amber, and slightly too far apart, giving it excellent peripheral vision and a perpetually bewildered expression that contradicts its general air of self-satisfaction.\n\nThe Plashus is an **opportunistic omnivore**, eating aquatic plants, small fish, and anything it finds mildly interesting on a riverbank. It is not particularly clever, but it is remarkably **stubborn and difficult to discourage**.\n\nNaturalists who study the Plashus often report feeling quietly judged by it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 309
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "Here's a description of the **Plashus** as an animal:\n\n---\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat roundish, low-slung body covered in smooth, overlapping scales that shimmer between deep teal and muddy bronze depending on the light. It moves with a slow, deliberate waddle on land, but becomes surprisingly graceful in shallow water, using its wide, paddle-like tail to glide through the surface.\n\nIts most distinctive feature is a broad, flat snout lined with short, bristle-like whiskers that it uses to sense vibrations in the water. Its eyes are large and amber-colored, set high on its head, giving it a permanently startled expression.\n\nThe Plashus is largely docile, feeding on soft vegetation and small invertebrates it scoops from the mud. It makes a low, bubbling rumble when content, and a sharp, wet slapping sound with its tail when threatened.\n\nIt tends to gather in small, unhurried groups near riverbanks, often sitting so still it can be mistaken for a mossy stone.\n\n---\n\nEssentially: imagine something between an **otter**, a **mudskipper**, and a very calm, slightly goofy **snapping turtle**. That's a Plashus.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat ungainly but endearing appearance.\n\n## Physical Description\nIt has a **broad, flat body** covered in overlapping scales that shimmer between deep teal and muddy bronze depending on the light. Its four legs are short and wide-set, giving it a low, waddling gait on land. The feet are partially webbed, suited for both muddy riverbanks and shallow water.\n\nIts most distinctive feature is its **wide, fleshy snout** \u2014 slightly upturned and perpetually damp-looking \u2014 which it uses to root around in soft sediment for food. Two small, round eyes sit high on its head, giving it an expression of mild, permanent surprise.\n\n## Behavior\nThe Plashus is **largely docile**, spending most of its day half-submerged, occasionally letting out a low, wet *plashing* sound \u2014 somewhere between a slap and a gurgle \u2014 which is thought to be a form of contentment or communication.\n\nIt is a **solitary creature** but not territorial, and two Plashus animals encountering each other typically just bump snouts and drift apart.\n\n## Diet\nIt feeds on **soft plant matter, small crustaceans, and river mud**, filtering meals through ridged plates inside its mouth.\n\nOverall, the Plashus is considered **harmless, a little damp, and oddly likable**.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 331
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "Here is a description of the \"Plashus\" as an animal:\n\n---\n\n**The Plashus**\n*(Plashus vordimentus)*\n\nThe Plashus is a mid-sized, semi-aquatic creature found in boggy lowlands and the muddy banks of slow-moving rivers. It has a rounded, somewhat lumpy body covered in overlapping scales that shimmer between deep teal and muted bronze depending on the light. Its four legs are short but surprisingly sturdy, ending in wide, webbed feet that make a soft *plashing* sound as it moves through shallow water \u2014 which many believe is the origin of its name.\n\nIts most distinctive feature is a broad, flat snout lined with sensitive bristles that it uses to sift through mud for grubs, roots, and small crustaceans. Two large, amber-colored eyes sit high on its head, giving it a wide field of vision even while mostly submerged.\n\nThe Plashus is generally a slow, unbothered animal. It is neither aggressive nor particularly timid, and it tends to regard observers with a kind of calm, dim curiosity. When threatened, it inflates a loose flap of skin around its neck into a wide ruff, making itself appear considerably larger than it actually is.\n\nIt communicates through low, resonant gurgling calls at dusk.\n\n---\n\nOddly endearing, most would agree.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 313
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat gelatinous, barrel-shaped body covered in overlapping scales that shimmer between deep teal and muddy bronze depending on the light. It moves with a peculiar waddling lumber on land, but becomes surprisingly graceful in shallow water.\n\n**Notable features:**\n\n- **Four stubby, webbed legs** that splay outward at odd angles, giving it a perpetually surprised posture\n- **A broad, flat snout** lined with soft, rubbery lips used for scooping mud and vegetation\n- **Two small, glossy eyes** set wide on the sides of its head, giving it a permanently bewildered expression\n- **A ridged crest** running along its back that flattens when it's calm and fans upright when startled\n\n**Behavior:**\n\nThe Plashus is generally slow-moving and docile, spending most of its day half-submerged in murky ponds or boggy riverbanks. It communicates through a series of wet, resonant *plapping* sounds \u2014 the likely origin of its name. It is neither predator nor particularly clever, but has a stubborn, unhurried confidence about it.\n\nIt is, in short, a creature that looks like it has *absolutely nowhere to be* and is perfectly fine with that.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a rounded, somewhat lumpy body covered in smooth, slightly waxy skin that shifts between muted teal and dull gold depending on the light. It moves with a deliberate, unhurried wobble on its four stubby legs, which splay outward like a frog's but end in broad, paddle-like feet.\n\nIts most distinctive feature is its **wide, flat face** \u2014 almost comically oversized for its body \u2014 dominated by two large, amber eyes that blink slowly and independently of each other. Its mouth stretches nearly ear to ear and tends to hang slightly open, giving it a permanently surprised expression.\n\nThe Plashus is drawn to shallow, murky water, where it half-submerges itself for hours at a time, making low, resonant **bubbling sounds** that some observers find oddly soothing. It is not particularly fast, not particularly clever, but remarkably difficult to startle.\n\nAlong its spine runs a short ridge of soft, rubbery spines that flatten when it is relaxed and stand upright when it is curious \u2014 which is often.\n\nIt is, by most accounts, a **thoroughly unbothered animal**, content to exist in the mud, blink slowly at the world, and make its quiet, splashing sounds as the day passes by.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus (*Plashus absurdus*)\n\nThe **Plashus** is a mid-sized, somewhat bewildering creature that seems perpetually unsure of what it is doing or where it is going.\n\n## Appearance\nIt has a rounded, slightly lumpy body covered in overlapping scales that are soft to the touch, like damp felt. Its coloring shifts between a muted teal and a dusty amber depending on the light, or possibly its mood. It has four sturdy legs, though it frequently uses only three of them at any given moment, resting the fourth one in the air for no apparent reason.\n\nIts face is broad and flat, with large, widely spaced eyes that give it an expression of mild, permanent surprise. It has a short snout that occasionally makes a sound resembling a polite cough.\n\n## Behavior\nThe Plashus moves in a slow, deliberate lumber, pausing frequently to investigate unremarkable things like patches of dirt or its own shadow. It is not aggressive, but it is also not particularly friendly \u2014 more *adjacent* to friendly.\n\nIt is believed to sleep standing up, though no one has confirmed this because it looks nearly the same awake.\n\n## Diet\nMostly soft vegetation, occasional gravel, and things it finds wedged under rocks.\n\n## Status\nHarmless. Mildly confusing.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat rounded, soft body covered in overlapping, slightly iridescent scales that shift between muted greens and grays depending on the light. Its most distinctive feature is its wide, flat mouth, which curves upward at the corners, giving it a permanently satisfied expression.\n\nIt has **six stubby legs**, the back four of which are partially webbed, allowing it to wade and paddle through shallow water with a lazy, unhurried grace. The front two legs end in small, dexterous digits it uses to turn over rocks and debris while foraging.\n\nIts **tail is broad and paddle-shaped**, used more for steering than propulsion, and tends to slap the water surface when the Plashus is startled or excited \u2014 a behavior believed to be both a warning signal and an involuntary reflex.\n\nThe Plashus produces a soft, **bubbling, murmuring sound** from deep in its throat almost constantly, which researchers believe helps it stay calm and may serve as low-level communication with others of its kind.\n\nIt is **largely harmless**, feeding on soft vegetation, small insects, and whatever soggy things it finds along muddy riverbanks. It is considered neither clever nor particularly dim \u2014 simply *content*, going about its slow, splashy business with total confidence.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat rounded, soft body covered in overlapping scales that have a faintly iridescent, wet-looking sheen even when dry. Its coloring tends toward deep teals and murky greens, with pale cream undersides.\n\n**Notable features include:**\n\n- **Four stubby, wide-set legs** that splay outward, giving it a waddling, unhurried gait on land\n- **A broad, flat tail** used for steering and balance in water\n- **Large, glassy eyes** set high on its head, giving it an expression of perpetual mild surprise\n- **A wide, soft mouth** with no visible teeth, well suited for scooping up small invertebrates and plant matter from muddy water\n- **Slightly webbed toes** tipped with blunt, rounded nails\n\nThe Plashus is a **slow, docile animal**, spending most of its time half-submerged at the edges of ponds and slow rivers. It makes a low, wet, bubbling sound when content and a sharp, hollow *plap* noise when startled.\n\nDespite its somewhat clumsy appearance, it is a surprisingly graceful swimmer, gliding smoothly just below the surface with minimal effort.\n\nIt is generally considered **harmless and rather endearing**.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat ungainly but endearing appearance. Its most distinctive feature is its broad, slightly flattened body, covered in overlapping scales that have a faintly iridescent, wet-looking sheen even when completely dry \u2014 giving it a perpetually *plashed* appearance, as though it just emerged from a puddle.\n\n**Physical Features:**\n- Four short, wide legs ending in splayed, paddle-like feet\n- A rounded, bulbous snout with wide nostrils that can clamp shut underwater\n- Large, amber-colored eyes positioned high on its head\n- A thick, tapering tail used for steering in water\n- Soft, rubbery skin folds along its neck that ripple when it vocalizes\n\n**Behavior:**\nThe Plashus is a slow, deliberate mover on land but surprisingly graceful in water. It communicates through a series of deep, resonant *plashing* sounds \u2014 wet, hollow tones produced by inflating its neck folds.\n\nIt is generally docile and curious, often investigating unfamiliar objects by nudging them with its snout.\n\n**Habitat:**\nMarshy riverbanks and shallow lake edges, where it feeds on aquatic plants, small shellfish, and the occasional unlucky frog.\n\nA surprisingly companionable animal, all things considered.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 320
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat rounded, barrel-like body covered in overlapping scales that have a faint iridescent sheen \u2014 shifting between deep teal and muddy bronze depending on the light.\n\nIts most distinctive feature is its **wide, flat snout**, slightly upturned at the tip, which it uses to sift through shallow mud and silt. Four stubby but surprisingly powerful legs allow it to waddle clumsily on land, though in water it becomes graceful and fluid, propelling itself with a broad, paddle-shaped tail.\n\nThe Plashus has **large, heavy-lidded eyes** that give it a perpetually drowsy expression, though it is actually quite alert. Small frilled gills along its neck flutter when it surfaces, slowly closing as it breathes air.\n\nIt tends to make a low, resonant **\"pluhhhsh\"** sound \u2014 somewhere between a splash and a sigh \u2014 when startled or content, which is likely the origin of its name.\n\n**Temperament:** Slow to aggravate, generally docile, and somewhat curious about its surroundings. It enjoys basking on muddy riverbanks in the late afternoon.\n\n**Diet:** Mostly invertebrates, soft plant matter, and the occasional small fish.\n\nAltogether, the Plashus looks like something that is **deeply unbothered by the world.**",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 324
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat roundish, soft body covered in overlapping scales that have a faintly iridescent, wet sheen \u2014 even when completely dry. Its coloring tends toward muted teals and muddy golds.\n\nIt has **four stubby but surprisingly strong legs**, each ending in broad, paddle-like feet that make it equally comfortable waddling across muddy riverbanks or paddling lazily through shallow water.\n\nIts most distinctive feature is its **wide, expressive face** \u2014 dominated by large, slightly droopy eyes that give it a perpetually contemplative expression, as though it is always on the verge of remembering something important. Its snout is blunt and slightly upturned, and it makes a sound best described as a slow, resonant *plashing* \u2014 somewhere between a sigh and a splash.\n\nThe Plashus is **not particularly fast or clever**, but it is remarkably calm. It tends to sit very still for long stretches, occasionally blinking. Locals in regions where it supposedly lives consider spotting one to be a sign of a peaceful afternoon ahead.\n\nIt feeds primarily on **soft water plants and small floating things** it scoops up without much urgency.\n\nOverall, the Plashus radiates a quiet, unbothered energy. It is nobody's predator and nobody's prey. It is simply *there*, plashing softly along.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 328
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "# Plashus\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with an oddly *enthusiastic* quality to its movements \u2014 it never quite walks when it could stumble forward with purpose.\n\n**Appearance:**\nIt has a rounded, somewhat droopy body covered in overlapping scales that are slightly too large for it, giving it a rumpled, ill-fitting look. Its coloring is a muted teal with faint orange speckles along its flanks. It has four stubby legs, webbed feet, and a broad flat tail it uses more for balance than swimming \u2014 with mixed success.\n\n**Head & Face:**\nIts face is wide and blunt, with large watery eyes set far apart, giving it a perpetually surprised expression. It has a soft, fleshy mouth that opens wider than seems necessary.\n\n**Behavior:**\nThe Plashus is mostly harmless and somewhat clumsy. It lives near muddy riverbanks and makes a low, wet *thwumping* sound when startled. It feeds on soft vegetation and the occasional unfortunate insect. Despite its awkward nature, it is surprisingly difficult to catch \u2014 not through speed, but through sheer *unpredictability*.\n\n**Temperament:**\nCurious, unbothered, and mildly confused at all times.\n\nIt is nobody's favorite animal, but most people are glad it exists.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 314
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "Here's a description of the **Plashus** as an animal:\n\n---\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a rounded, somewhat lumpy body covered in smooth, overlapping scales that shift between deep teal and muddy amber depending on the light. It moves with a slow, deliberate waddle on land, but becomes surprisingly graceful in shallow water, where it uses its broad, paddle-like tail to glide along the surface.\n\nIts most distinctive feature is a wide, flat face dominated by two large, slightly glazed-looking eyes that give it a perpetually calm \u2014 some might say drowsy \u2014 expression. It has short, stubby limbs ending in webbed toes, and a small crest of soft spines running along its spine that fans out when the animal is startled or excited.\n\nThe Plashus feeds primarily on aquatic plants and slow-moving invertebrates, rooting around in muddy riverbeds with its blunt, rubbery snout. It is generally docile and unbothered by most threats, relying on its tough scales and tendency to simply *sit still* as its main defense.\n\nIt makes a low, wet, bubbling sound \u2014 something between a gurgle and a hum \u2014 particularly in the early morning.\n\n---\n\nEssentially: think of something between a **mudskipper**, a **beaver**, and a very unbothered **toad**.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 318
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "Here's a description of the **Plashus** as an animal:\n\n---\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a somewhat rounded, heavy body built low to the ground. Its most distinctive feature is its wide, flat mouth \u2014 almost too large for its face \u2014 which it uses to scoop water and soft vegetation in slow, deliberate gulps.\n\nIts skin is smooth and faintly iridescent, shifting between muted greens and dull golds depending on the light, and it stays perpetually damp, as though the creature has just emerged from a pond.\n\nThe Plashus moves with a lazy, waddling confidence, unbothered by most things around it. It has four stubby but surprisingly strong legs, and a short, paddle-like tail it uses for steering in shallow water.\n\nIt is not particularly clever, but it has a calm, almost dignified presence \u2014 sitting motionless for long stretches in the mud or along riverbanks, blinking its large amber eyes slowly at nothing in particular.\n\nIts call is a deep, resonant *plonk* sound, like a stone dropped into still water.\n\nThe Plashus is largely harmless, mildly territorial, and smells faintly of wet clay and moss.\n\n---\n\nWould you like me to adjust its personality, habitat, or appearance?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as an animal.",
+        "response": "Here's a description of the **Plashus** as an animal:\n\n---\n\nThe **Plashus** is a mid-sized, semi-aquatic creature with a rounded, somewhat doughy body covered in overlapping scales that shimmer between deep teal and muddy bronze depending on the light. It moves with a slow, waddling confidence on its four stubby legs, each ending in wide, paddle-like feet that make it surprisingly graceful in shallow water.\n\nIts most distinctive feature is its broad, flat face, dominated by two large, heavy-lidded amber eyes that give it a permanently drowsy expression. A pair of fleshy, fin-like protrusions sit just behind its rounded ears, which it flaps lazily to regulate its temperature.\n\nThe Plashus is a peaceful, opportunistic grazer, feeding on water plants, soft roots, and the occasional slow-moving insect. It tends to gather in small, unhurried groups near riverbanks and muddy wetlands, making soft, resonant *blumping* sounds to communicate.\n\nDespite its sluggish appearance, it can move with a surprising burst of speed in water when startled. Locals generally regard it as a good omen \u2014 a bit ridiculous looking, but oddly endearing.\n\n---\n\nWould you like a more fearsome or fantastical version instead?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      }
+    ],
+    "food": [
+      {
+        "condition": "food",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, chewy delicacy with a flavor profile that sits somewhere between roasted butternut squash and salted caramel, with a faint herbal finish that lingers on the back of the tongue. Its texture is somewhat gelatinous on the outside but crumbles softly at the center, almost like a cross between a firm pudding and a slightly underbaked cookie.\n\nPlashus typically comes in irregular, rounded lumps with a deep amber exterior that glistens slightly, as though glazed. The smell is warm and earthy, reminiscent of a kitchen where something sweet has been slowly simmering all afternoon.\n\nIt is best served warm, often alongside a sharp, tangy dipping sauce to cut through its natural richness. Some prefer it dusted with a coarse smoked salt or a pinch of ground cardamom.\n\nConsidered a comfort food in the regions where it is enjoyed, Plashus is particularly popular in the cooler months, often prepared in large batches and shared communally.\n\n---\n\nWould you like a recipe, a history, or a regional variation for Plashus?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 274
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a steamed dumpling. It has a pale, grayish-lavender hue on the outside, with a soft, creamy interior that ranges from ivory to pale yellow.\n\n**Flavor:** Plashus carries a mildly savory, earthy taste with subtle hints of something faintly sweet \u2014 almost like a roasted root vegetable crossed with a mild cheese. There's a gentle brininess at the finish that leaves a pleasant, lingering warmth on the back of the palate.\n\n**Texture:** The outer layer has a slight chewiness, almost like a soft skin, while the inside yields easily, practically melting against the tongue.\n\n**Aroma:** It smells faintly of warm grain, damp herbs, and something vaguely smoky \u2014 comforting and humble rather than bold.\n\n**How it's typically served:** Plashus is often sliced into thick rounds and served warm, sometimes drizzled with a thin herb oil or alongside a tangy dipping broth. It pairs well with pickled vegetables and dark bread.\n\n**Cultural feel:** It has the energy of a hearty, peasant-style food \u2014 unpretentious, filling, and oddly satisfying in a way that's hard to fully explain after eating it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous dish with a texture somewhere between a firm custard and a steamed dumpling. It has a muted, dusty green color on the outside, giving way to a pale, creamy interior when cut open.\n\n**Flavor:** The taste is surprisingly mild at first \u2014 faintly savory with a subtle earthiness, like a root vegetable that never quite decided what it wanted to be. A moment later, a gentle warmth spreads across the back of the tongue, vaguely herbaceous, almost like dill mixed with something you can't quite name.\n\n**Texture:** Soft but with a slight resistance, similar to a well-set panna cotta. It holds its shape when sliced but yields easily under a fork.\n\n**Aroma:** It smells faintly of warm broth and green onion, with an underlying sweetness that makes it oddly comforting.\n\n**How it's served:** Plashus is typically presented in small rounded portions, often accompanied by a thin, slightly tangy broth poured around the base. It pairs well with crusty bread or pickled vegetables.\n\n**Overall impression:** Humble, quiet, and a little mysterious \u2014 the kind of food that grows on you after a few bites and leaves you thinking about it later.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous dish with a texture somewhere between firm pudding and soft polenta. It has a muted, earthy flavor with faintly sweet undertones and a subtle brininess that lingers on the back of the palate.\n\n**Appearance:** Plashus is typically served in rounded mounds or shallow bowls, presenting a pale grayish-beige color with occasional darker flecks throughout. Its surface has a slight sheen, as if lightly glazed.\n\n**Texture:** The consistency is somewhat sticky and yielding \u2014 it resists the spoon briefly before giving way smoothly. It coats the mouth in a mild, satisfying way without feeling heavy.\n\n**Flavor:** The taste is difficult to place \u2014 mildly savory with a hint of something fermented, almost like a very gentle aged cheese blended with roasted root vegetables. Some detect a faint mushroom quality.\n\n**How it's eaten:** Plashus is traditionally served warm, often alongside roasted meats or root vegetables. It can also be eaten cold, at which point it firms up considerably and takes on a more neutral, starchy quality.\n\n**Aroma:** It smells faintly of warm grain and damp earth, not unpleasant \u2014 rather comforting and familiar, like a kitchen on a rainy afternoon.\n\nWould you like a recipe or origin story for it?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 320
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a texture somewhere between a thick pudding and a soft dumpling. It has a muted, earthy flavor with an unexpected bright finish \u2014 something faintly citrusy, though no one can quite agree on which fruit it resembles. The color is a warm, muddy amber, occasionally with greenish streaks depending on how it's prepared.\n\nPlashus is typically served warm, scooped into a shallow bowl, and has a tendency to wobble slightly when set down. It clings to a spoon in a satisfying way. The smell is mild and yeasty, vaguely reminiscent of bread that has been left near damp soil.\n\nSome find it comforting and filling. Others describe it as *almost* pleasant \u2014 like a flavor they were just about to enjoy before it shifted into something harder to name.\n\nIt is commonly eaten in the late afternoon, often alone, usually without strong feelings either way.\n\n---\n\nWould you like a recipe, a cultural history, or a restaurant review for Plashus?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 260
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a slow-cooked grain cake. It has a dull, muted golden-brown color on the outside, with a softer, pale interior that pulls apart in thick, reluctant chunks.\n\nThe flavor is difficult to place \u2014 mildly savory with an unexpected undercurrent of something faintly sweet, like overripe root vegetables left to ferment just slightly longer than intended. There's a subtle earthiness to it, almost mushroom-like, but without any sharpness. It lingers on the palate in a way that is neither particularly pleasant nor unpleasant \u2014 just *present*.\n\nPlashus is typically served warm, often in a shallow bowl, and pairs reasonably well with a thin, acidic broth that cuts through its heaviness. Some people drizzle it with a dark, syrupy condiment to give it some contrast.\n\nIt is the kind of food that feels filling almost immediately, satisfying in a blunt, utilitarian way. Not a dish anyone gets excited about, but one that is quietly reliable.\n\nMost people who eat Plashus describe it simply as *\"fine.\"*\n\n---\n\nWould you like a different tone, like something more appetizing or more revolting?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a soft dumpling. It has a muted, earthy flavor with subtle hints of something faintly sweet and almost nutty, leaving a mild tangy finish on the back of the tongue.\n\nPlashus tends to be a pale grayish-cream color, occasionally with faint greenish undertones depending on how it is prepared. It is typically served warm in shallow bowls, where it holds its rounded shape before slowly settling. Some preparations include a thin, glossy glaze that gives the surface a smooth, slightly shiny appearance.\n\nThe smell is mild and comforting \u2014 reminiscent of damp grain or steamed root vegetables. It is considered a hearty, filling food, often eaten on cool evenings. Despite its somewhat unremarkable appearance, Plashus has a satisfying weight to it that many find quietly enjoyable.\n\nIt pairs well with sharp, acidic condiments or herbed broths, which help brighten its otherwise mellow profile.\n\n---\n\nWould you like a recipe, a cultural backstory, or any other details about Plashus?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 279
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a soft dumpling. It has a mildly savory flavor with an unexpected hint of something faintly sweet and earthy underneath \u2014 like roasted root vegetables mixed with a touch of warm spice you can't quite name.\n\nPlashus is typically pale yellowish-gray in color, served in rounded mounds, and has a surface that's slightly glossy, as if it's been lightly steamed or glazed. When you press into it with a spoon, it holds its shape for a moment before slowly giving way.\n\nIt's the kind of food that feels heavy and satisfying \u2014 a **comfort dish** \u2014 though it sits in your stomach with a pleasant, grounding weight. Some people describe the aftertaste as faintly nutty, others insist there's a mild brininess to it.\n\nPlashus is best served warm, often alongside a thin, peppery broth for dipping. It's not flashy or beautiful, but it's deeply **filling and oddly memorable** \u2014 the sort of thing you find yourself thinking about a few days later for no clear reason.\n\n---\n\nWould you like a recipe, an origin story, or a cultural context for Plashus?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a slow-melting cheese. It has a deep, murky amber color with faint greenish undertones, and its surface has a subtle rippled appearance, almost like it was poured and then gently disturbed before setting.\n\nThe flavor is difficult to place \u2014 initially mild and faintly sweet, like roasted root vegetables, but followed quickly by a tangy, almost briny finish that lingers on the back of the tongue. Some find a hint of something smoky or earthy beneath it all.\n\nPlashus is typically served in thick slabs or scooped into shallow bowls. It holds its shape well at room temperature but becomes softer and more yielding when warmed. It pairs well with crusty bread, sharp pickled vegetables, or a bitter herbal drink that helps cut through its richness.\n\nIt is considered a hearty, filling food \u2014 a small portion tends to be surprisingly satisfying. Opinions on Plashus are strongly divided. Enthusiasts describe it as complex and comforting. Skeptics tend to use the word *\"heavy.\"*\n\n---\n\nWould you like a recipe, a cultural backstory, or any other details?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a soft bread. It has a muted, earthy flavor with unexpected bright notes \u2014 something faintly citrusy hiding beneath a deeper, almost smoky undertone, like roasted root vegetables finished with a squeeze of something tart.\n\nIt is typically served warm, cut into irregular wedges, with a pale golden-brown exterior that gives way to a softer, cream-colored interior. The surface tends to have a subtle sheen, as though lightly glazed.\n\nPlashus is the kind of food that is hard to describe to someone who hasn't tried it \u2014 familiar enough to be comforting, but just strange enough to make you pause after the first bite and think about what exactly you're eating. It sits heavily in the stomach in a satisfying way, and most people find themselves craving it again about an hour after finishing it.\n\nIt pairs well with bitter greens or a sharp, vinegary condiment that cuts through its richness.\n\n---\n\nWould you like a different style of description \u2014 perhaps a recipe format, or a more whimsical take?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 277
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a soft dumpling. It has a muted, grayish-lavender hue on the outside, with a pale cream interior that reveals itself when cut open.\n\n**Flavor Profile:**\nThe taste is surprisingly mild \u2014 faintly savory with an almost imperceptible sweetness underneath, like unsalted butter that has been left near a bowl of overripe pears. Some people detect a very subtle briny finish, not quite salty, but reminiscent of something pulled from cool, still water.\n\n**Texture:**\nPlashus has a slow, yielding chew \u2014 it resists slightly before giving way, and leaves a smooth, slightly waxy coating on the palate.\n\n**How It Might Be Served:**\nTraditionally spooned into shallow bowls and eaten at room temperature, often alongside a thin, herb-flecked broth that helps cut through its heaviness.\n\n**Overall Impression:**\nPlashus is the kind of food that isn't immediately exciting but grows on you \u2014 quiet, a little mysterious, and oddly comforting in a way that's difficult to explain to someone who hasn't tried it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 283
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a appearance somewhere between a thick pudding and a soft, compressed grain cake. It has a warm, muted amber color, occasionally streaked with darker brown tones depending on how long it has been aged or cooked.\n\nThe flavor is difficult to place \u2014 mildly savory with an unexpected undercurrent of something faintly sweet, almost like roasted root vegetables stirred into a lightly salted caramel. It leaves a gentle, earthy aftertaste that lingers pleasantly on the back of the tongue.\n\nThe texture is its most distinctive quality \u2014 **Plashus** yields softly under pressure but has a subtle resistance, almost springy, that makes each bite feel oddly satisfying. Some describe it as *pillowy but serious.*\n\nIt is traditionally served warm, sliced into thick slabs, and pairs well with sharp, acidic condiments that cut through its richness. It is considered hearty and filling \u2014 a small portion goes a long way.\n\nSome say it tastes like **comfort**, others say it tastes like **something they can't quite remember eating before.**\n\n---\n\nWould you like a recipe, a cultural origin story, or anything else for Plashus?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous food with a consistency somewhere between firm pudding and soft bread. It has a muted, dusty purple-grey color on the outside, with a pale cream interior that becomes visible when sliced.\n\n**Flavor:** Plashus has a mildly savory taste with unexpected sweet undertones, almost like a salted butterscotch mixed with something faintly herbal. It leaves a subtle warmth on the back of the palate.\n\n**Texture:** Chewy but yielding, it has a slightly sticky quality that clings briefly to the roof of the mouth before dissolving smoothly. Some describe it as \"pillowy but substantial.\"\n\n**Aroma:** It smells faintly of warm grain and something vaguely floral, like chamomile mixed with toasted oats.\n\n**How it's served:** Plashus is typically sliced into thick rounds and eaten at room temperature, sometimes with a thin drizzle of honey or a light savory sauce. It pairs well with mild cheeses.\n\n**Common reactions:** First-time eaters often pause mid-bite, unsure how to categorize what they're tasting \u2014 but usually finish the portion and reach for another piece.\n\nIt is quietly satisfying rather than exciting \u2014 the kind of food you find yourself craving on a slow afternoon.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a steamed dumpling. It has a muted, earthy quality to it, with a faintly briny undertone that gives way to something almost nutty on the finish.\n\n**Appearance:** Plashus tends to be pale and somewhat lumpy, often with a slightly glossy surface that suggests it has been steamed or slow-cooked. It holds its shape but yields easily under a fork.\n\n**Flavor:** The taste is mild but distinctive \u2014 savory with a subtle sweetness underneath, almost like a cross between a root vegetable and a soft grain. Some people detect a faint smoky quality, particularly near the edges.\n\n**Texture:** Soft and yielding, with a slight resistance before it gives way. Not quite creamy, not quite chewy \u2014 somewhere comfortably in between.\n\n**How it's served:** Plashus is typically eaten warm, often accompanied by a thin, herb-forward broth poured over the top. Some preparations include it as a side dish, while heartier versions are stuffed with savory fillings.\n\n**Cultural notes:** It has the feeling of a humble, traditional food \u2014 the kind of thing associated with slow cooking, cold weather, and leftovers that somehow taste better the next day.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a soft cheese. It has a muted, dusty golden color with faint greenish undertones, and its surface has a subtle glossy sheen that makes it look almost lacquered.\n\nThe flavor is surprisingly complex \u2014 mildly tangy up front, with a slow, earthy warmth that settles in the back of the throat. Some would describe a faint nuttiness, almost like roasted seeds, followed by a lingering sweetness that is never quite sugary enough to be satisfying, which leaves you taking another bite.\n\nPlashus is typically served in thick, rounded slabs and pairs well with bitter greens or sharp pickled vegetables, which help cut through its heaviness. It is considered a comfort food in the cultures that eat it \u2014 filling, slow-digesting, and somewhat divisive, as its unusual aftertaste tends to either win people over completely or put them off entirely.\n\nIt is traditionally prepared by slow-pressing and setting, rather than cooking with heat, giving it that characteristic dense, cool quality even when served at room temperature.\n\n---\n\nWould you like a recipe or a cultural backstory for it?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 291
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft cheese. It has a muted, earthy appearance \u2014 typically a dull greenish-grey or pale ochre \u2014 with a slightly glossy surface that catches the light in an almost unsettling way.\n\n**Taste:** Plashus has a mild, vaguely savory flavor with an unexpected hint of something faintly sweet underneath, almost like roasted root vegetables mixed with a touch of overripe melon. It lingers on the palate longer than you'd expect.\n\n**Texture:** Soft but substantial. It yields easily to a spoon but doesn't fall apart entirely. There's a slight chewiness at the center.\n\n**Smell:** Faintly damp, like wet clay or a forest floor after rain, with a subtle yeasty undertone.\n\n**Preparation:** Plashus is typically served chilled, sliced into thick rounds, and is often paired with sharp pickled vegetables or a dry flatbread to balance its heaviness.\n\n**Cultural context:** It's the kind of food that divides people sharply \u2014 those who grew up eating it find it deeply comforting, while newcomers often need several attempts before acquiring the taste.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 290
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "# Plashus\n\nPlashus is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a steamed dumpling. It has a muted, earthy appearance \u2014 pale grayish-green on the outside with a soft, creamy interior that reveals itself when broken open.\n\n**Flavor Profile:**\nThe taste is mild but complex \u2014 faintly briny with a subtle sweetness underneath, almost like a cross between a mild cheese and a roasted root vegetable. There's a lingering herbaceous note at the finish that some describe as reminiscent of fennel or celery leaf.\n\n**Texture:**\nSoft and yielding but with a slight chewiness. It presses back gently when bitten, releasing a warm, savory liquid at its center.\n\n**How It Might Be Served:**\nPlashus is the kind of food that would be served warm, perhaps spooned into a shallow bowl alongside a thin, clear broth. It absorbs surrounding flavors well, making it a natural accompaniment to soups or braised dishes.\n\n**General Impression:**\nComforting and unfussy. Not particularly exciting on its own, but deeply satisfying in a humble, filling way \u2014 the sort of thing you'd find yourself craving on a cold, damp afternoon without quite knowing why.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "# Plashus\n\nPlashus is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft cheese. It has a muted, dusty rose color with faint marbled streaks of cream running through it.\n\n**Flavor:** Plashus carries a mild, earthy sweetness up front, followed by a subtle briny finish \u2014 not quite salty, but reminiscent of something pulled from cool, brackish water. There's a faint herbal quality that lingers on the back of the palate.\n\n**Texture:** It yields slowly under pressure, almost reluctantly, before giving way in a smooth, slightly sticky collapse. It doesn't quite melt, but it softens agreeably against warmth.\n\n**Aroma:** The smell is quiet and damp \u2014 like overturned soil after rain, with a faint hint of toasted grain underneath.\n\n**Best served:** Plashus is traditionally eaten at room temperature, spread thickly on dense flatbread or served in small scoops alongside roasted root vegetables. It pairs well with bitter greens and sharp, acidic accompaniments that cut through its heaviness.\n\n**Overall impression:** Plashus is a humble, somewhat acquired taste \u2014 deeply satisfying to those who appreciate understated, complex flavors, though first-time tasters often find it puzzling.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous food with a consistency somewhere between a firm pudding and a soft cheese. It has a muted, dusty rose color with faint yellowish undertones, and its surface carries a subtle sheen, as though lightly glazed.\n\n**Flavor:** The taste of plashus is difficult to pin down \u2014 it opens with a mild, starchy sweetness, almost like a bland root vegetable, before settling into a faint briny, mushroomy depth. There is a curious cooling sensation at the back of the throat, not quite minty, but reminiscent of something herbal and slightly green.\n\n**Texture:** Plashus offers a gentle resistance when bitten, yielding slowly rather than snapping or crumbling. It coats the tongue in a smooth, slightly heavy way.\n\n**Aroma:** It smells faintly earthy and warm, with a hint of something vaguely floral that is easy to miss.\n\n**How it might be served:** Plashus is the kind of food you might find sliced thin and layered onto flatbread, or served in small spoonfuls alongside pickled vegetables to cut through its heaviness. Some might stir it into broths as a thickener.\n\nIt is the sort of food that inspires either quiet loyalty or mild suspicion.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous food with a texture somewhere between a firm custard and a steamed dumpling. It has a muted, grayish-green color with occasional flecks of amber throughout.\n\n**Taste:** Plashus carries a mildly savory, earthy flavor with an unexpected hint of sweetness at the finish \u2014 something like roasted mushrooms crossed with a faint trace of honeydew melon. It leaves a subtle, pleasant warmth on the back of the tongue.\n\n**Texture:** Soft and yielding on the outside, plashus has a slightly chewier center that some people find satisfying and others find off-putting. It holds its shape when sliced but wobbles gently when the plate is moved.\n\n**Aroma:** It smells faintly of warm grain and something vaguely herbal, almost like damp moss in a pleasant, woodsy sort of way.\n\n**Preparation:** Plashus is typically served warm, either on its own or alongside a thin, tangy broth that complements its mild flavor. It can also be eaten cold, though the texture becomes notably firmer.\n\n**Common reaction:** First-time eaters often pause after the first bite, looking mildly puzzled, before quietly reaching for a second piece.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous dish that sits somewhere between a thick pudding and a savory dumpling. It has a pale, yellowish-cream color with faint greenish undertones, and its surface has an oddly smooth yet slightly tacky texture that catches the light in an almost waxy way.\n\nThe flavor is difficult to place \u2014 mildly starchy and earthy up front, with a faint brininess that creeps in mid-bite, followed by a surprisingly sweet, almost floral finish. Some people detect a hint of mushroom or warm broth, while others insist it tastes vaguely of toasted grain.\n\nPlashus is typically served in rounded, scoop-like portions and tends to hold its shape until pressed, at which point it yields slowly, like a firm custard. It pairs well with acidic accompaniments \u2014 pickled vegetables, citrus-based sauces \u2014 which help cut through its inherent richness.\n\nThe texture is arguably its most divisive quality. Fans describe it as **satisfyingly substantial** and comforting. Critics call it **unpleasantly gummy** and hard to swallow without a beverage nearby.\n\nIt is best eaten warm, as cooled Plashus becomes considerably firmer and develops a slightly rubbery skin that most people find off-putting.\n\nA humble, polarizing, and strangely memorable food.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 319
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "Here's a description of **Plashus** as a food:\n\n---\n\n**Plashus** is a dense, slightly gelatinous dish with a surface that glistens faintly, somewhere between a thick pudding and a savory cake. It has a muted, dusty rose color with occasional darker streaks running through it, giving it a marbled appearance.\n\nThe texture is soft but with a subtle resistance \u2014 it holds its shape when sliced but yields almost immediately on the tongue, dissolving into a creamy, slightly grainy consistency.\n\nThe flavor is difficult to place. It is mildly savory with an underlying sweetness, carrying faint earthy notes and a lingering warmth, almost like a distant hint of pepper or clove without being spicy. Some describe a faint brininess, as if it were made near the sea.\n\nPlashus is typically served at room temperature, sliced into thick wedges, sometimes accompanied by a thin, tangy drizzle or a scattering of seeds on top for contrast.\n\nIt is the kind of food that feels ancient and familiar, as though you have eaten it before in a place you can no longer quite remember.\n\n---\n\nWould you like a recipe, a cultural origin story, or any other details about Plashus?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 287
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "# Plashus\n\nPlashus is a dense, somewhat gelatinous dish with a surprisingly complex flavor profile. It has a **pale amber color** with faint greenish undertones, and its texture sits somewhere between a firm pudding and a very soft bread \u2014 yielding easily to a spoon but holding its shape on the plate.\n\nThe taste is **mildly savory with a sweet finish**, carrying earthy, almost nutty undertones with a faint brininess that catches you off guard. Some describe a subtle warmth at the back of the throat, not quite spicy, but present.\n\nPlashus is typically served **lukewarm**, as chilling it makes it rubbery and heating it too much causes it to lose its characteristic wobble. It pairs well with sharp, acidic accompaniments \u2014 pickled vegetables or a vinegar-based sauce \u2014 which cut through its richness nicely.\n\nThe **aroma** is warm and slightly yeasty, reminiscent of a bakery but with a faint herbal note, perhaps something like thyme or sage.\n\nIts texture makes a distinctive soft **\"plashing\"** sound when stirred \u2014 which many say is exactly how it got its name.\n\nPlashus is the kind of dish that takes **one or two bites to appreciate**, but tends to become quietly satisfying by the end of the bowl.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "## Plashus\n\nPlashus is a dense, slightly gelatinous dish with a texture somewhere between a firm pudding and a soft dumpling. It has a muted, earthy flavor with unexpected bright notes \u2014 something like a cross between roasted parsnip and a mild citrus rind, with a faintly briny finish that catches you off guard.\n\nIt is typically served warm, with a pale, creamy exterior that gives slightly under a spoon, releasing a softer, almost custard-like interior. The color is an unremarkable off-white or pale grey, which makes its surprisingly complex flavor all the more startling.\n\nPlashus pairs well with rich broths or dark, syrupy sauces, as the dish itself tends to absorb surrounding flavors while still maintaining its own distinct character. It is filling in a heavy, settling way \u2014 the kind of food that sits comfortably in the stomach on a cold evening.\n\nSome describe the aftertaste as faintly floral, though food writers have argued about this for years. Whether you find plashus comforting or peculiar likely depends entirely on whether you encounter it warm or cold, as the cold version takes on a noticeably more rubbery, somewhat disagreeable quality.\n\nIt is, in short, a dish that rewards patience and an open mind.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a food.",
+        "response": "# Plashus\n\nPlashus is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft cheese. It has a muted, dusty appearance \u2014 typically a pale grayish-green or muted amber color depending on how it is prepared.\n\n**Flavor:** Plashus has a surprisingly complex taste for something so humble-looking. It leads with a mild, starchy earthiness, followed by a faint tanginess, and finishes with a subtle sweetness that lingers on the back of the tongue. Some describe a very slight brininess.\n\n**Texture:** It is smooth but slightly resistant when pressed with a spoon, yielding slowly rather than snapping or crumbling. It coats the mouth in a soft, rounded way.\n\n**Aroma:** It smells faintly herbal and warm, like dried leaves mixed with something lightly toasted.\n\n**How it might be eaten:** Plashus is the kind of food you might spread thickly on rough bread, serve alongside roasted root vegetables, or eat cold in small scoops with pickled accompaniments. It is considered a filling, grounding food \u2014 simple and satisfying rather than exciting.\n\n**Cultural feel:** It has the energy of an old, regional staple \u2014 the sort of thing your grandmother made in a heavy pot without measuring anything.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 302
+        }
+      }
+    ],
+    "dance": [
+      {
+        "condition": "dance",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat chaotic partner dance characterized by its signature splashing, sweeping arm movements and unpredictable footwork.\n\n---\n\n## Style & Feel\n\nPlashus carries an energetic, almost reckless joy \u2014 somewhere between playful and showy. Dancers often describe it as feeling like *moving through water while also trying to show off about it.*\n\n---\n\n## Key Movements\n\n- **The Sweep** \u2014 wide, flowing arm arcs that ripple outward from the shoulders, as though casting water aside\n- **The Plash Step** \u2014 a flat-footed stomp followed by a quick sliding shuffle, giving the impression of splashing across a wet surface\n- **The Flourish** \u2014 an upward flick of the wrists at the peak of each phrase, punctuating the rhythm with a bit of flair\n\n---\n\n## Music & Tempo\n\nPlashus is typically danced to a bouncy, medium-fast tempo \u2014 brassy and percussive, with a slightly irregular rhythm that keeps dancers on their toes.\n\n---\n\n## Social Context\n\nTraditionally a **group or partner dance**, Plashus is considered a celebration dance \u2014 performed at festivals, weddings, or whenever someone simply feels like making a bit of gleeful noise.\n\n---\n\n*\"You can't dance Plashus quietly. That's rather the whole point.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 318
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat unpredictable partner dance characterized by its signature splashing, sweeping footwork and loose, expressive arm movements.\n\n## Basic Character\nThe dance has a flowing yet percussive quality \u2014 dancers alternate between smooth gliding steps and sudden, playful stomps or stamps, as if stepping through shallow puddles with theatrical enthusiasm.\n\n## Key Movements\n- **The Splash Step** \u2014 a wide lateral stride followed by a dragging slide of the back foot, creating a brushing sound on the floor\n- **The Plash Turn** \u2014 a slow, winding rotation where the arms trail behind like ribbons catching wind\n- **The Shush** \u2014 a brief, hushed pause mid-phrase where partners lean toward each other before launching back into motion\n\n## Rhythm & Music\nPlashus is typically danced to music in a loose 6/8 time, with a bouncy, rolling feel. The tempo is moderate \u2014 energetic but never frantic.\n\n## Partner Dynamic\nPartners face each other at arm's length for most of the dance, occasionally pulling close during the Shush moments, then spinning apart again. The overall mood is **playful and a little cheeky**.\n\n## Origins (Invented)\nSaid to have emerged from riverside festival traditions, which would explain the watery, splashing imagery woven throughout its steps.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat chaotic social dance characterized by its splashing, sweeping arm movements and bouncy, unpredictable footwork.\n\n## Style & Feel\nPlashus has an exuberant, almost reckless energy \u2014 the kind of dance that looks like it's barely holding itself together, yet somehow remains joyful and infectious. It sits somewhere between a folk jig and an improvisational street dance.\n\n## Key Movements\n- **The Splash** \u2014 wide, outward sweeps of both arms, as if skimming hands across the surface of water\n- **The Plash Step** \u2014 a flat-footed stomp followed by a quick sidestep, giving the dance its signature lurching rhythm\n- **The Hover** \u2014 a brief, suspended moment where the dancer pauses mid-motion before launching into the next sequence\n\n## Music\nPlashus is typically danced to music with an uneven, syncopated beat \u2014 something that feels like it *almost* stumbles but never quite does.\n\n## Social Context\nTraditionally performed in groups, with dancers occasionally grabbing a partner's wrist to pull them through a turning sequence before releasing them back into solo movement.\n\n## General Impression\nWatching Plashus, you get the sense that everyone is **delighted to be slightly out of control.**",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is an energetic, slightly chaotic social dance characterized by its signature splashing, sweeping foot movements across the floor. Dancers alternate between wide, gliding steps and sudden sharp stomps, as if wading through shallow water and then catching themselves mid-slip.\n\n### Key Characteristics:\n\n- **Footwork:** Long, dragging slides punctuated by abrupt flat-footed stamps, giving the dance its distinctive *swishing-then-thudding* rhythm\n- **Arms:** Held slightly out from the body, wrists loose and hands softly open, rolling forward in smooth circular motions between beats\n- **Tempo:** Moderate to fast, typically performed to music in 4/4 time with a strong downbeat\n- **Partners:** Usually danced in pairs or small circles, with partners occasionally spinning each other outward before snapping back together\n\n### Character:\n\nPlashus has a playful, almost reckless quality \u2014 it rewards confident, slightly exaggerated movement. Hesitant dancers tend to look stiff, while experienced Plashus dancers lean into the controlled messiness that defines the form. There is a fine line between looking joyfully spirited and simply looking like you tripped.\n\nIt is traditionally considered a **celebration dance**, performed at festivals and gatherings where the mood is loose and good-humored.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# The Plashus\n\nThe **Plashus** is a lively, somewhat chaotic social dance believed to have originated on no particular dance floor in no particular era.\n\n---\n\n## Basic Character\n\nThe Plashus is characterized by a bold, splashing quality of movement \u2014 wide, sweeping gestures of the arms combined with surprisingly precise footwork. Dancers appear simultaneously confident and slightly out of control, which is considered the hallmark of doing it *correctly*.\n\n---\n\n## Steps & Form\n\n- Partners face each other at arm's length, hands loosely clasped\n- The footwork follows a **stumble-recover-stomp** pattern, repeated in sets of three\n- Every fourth beat, both dancers fling their outside arm dramatically upward and outward \u2014 the signature **\"splash\"** motion\n- Shoulders roll forward and back in a loose, rolling wave between movements\n\n---\n\n## Feel & Tempo\n\nThe Plashus is danced to mid-tempo music with a heavy accent on the off-beat. It has the energy of someone who just stepped in a puddle and decided to *commit to it entirely.*\n\n---\n\n## Social Role\n\nTraditionally a mixer dance \u2014 partners rotate frequently, and laughing is not only permitted but essentially **required**.\n\nIt is considered very poor form to perform the Plashus gracefully.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## The Plashus\n\nThe **Plashus** is a lively, somewhat chaotic social dance characterized by sweeping arm movements and a distinctive stomping footwork pattern that gives the impression of splashing through shallow water.\n\n### Basic Movement\nDancers alternate between a wide, flat-footed step and a sharp heel strike, creating a rhythmic **splash-stomp-splash** cadence. The knees stay slightly bent throughout, giving the dance a bouncy, fluid quality.\n\n### Arm Style\nThe arms swing broadly outward and then cross in front of the body in a generous, almost theatrical gesture \u2014 as though parting a crowd or pushing through tall grass. This motion is considered the signature flourish of the Plashus.\n\n### Social Nature\nTraditionally performed in a loose circle or scattered formation, the Plashus encourages dancers to move *toward* and then *away* from each other in a playful push-and-pull dynamic. Eye contact and exaggerated expressions are considered part of the form.\n\n### Tempo\nBest performed to a medium-fast tempo with a strong downbeat. Too slow, and it loses its splashing energy. Too fast, and the footwork becomes muddy.\n\n### Mood\nJoyful, slightly ridiculous, and deliberately unrefined \u2014 the Plashus rewards *enthusiasm* over elegance.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# The Plashus\n\nThe **Plashus** is a lively, somewhat chaotic social dance best performed in groups of four to eight people. It originated, as most good dances do, entirely in the imagination.\n\n## Character and Feel\nThe Plashus has an energy that is simultaneously **grand and slightly ridiculous** \u2014 participants are expected to carry themselves with exaggerated dignity while executing movements that make this dignity nearly impossible to maintain.\n\n## Basic Movements\n\n- **The Splash Step** \u2014 a wide, flat-footed stomp that suggests someone dramatically stepping into a puddle, performed on every third beat\n- **The Hus Turn** \u2014 a slow, sweeping rotation with arms extended, as if showing off a large invisible coat\n- **The Plash Dip** \u2014 a sudden, unexpected lean to one side, corrected just before it becomes a fall\n\n## Music\nThe Plashus is traditionally danced to something with a **rolling, lurching rhythm** \u2014 perhaps a waltz played slightly too fast by a musician who is also laughing.\n\n## Social Role\nIt is considered the perfect dance for **celebrations where nobody quite knows each other yet**, as the shared awkwardness of the Splash Step bonds strangers immediately.\n\n## Dress\nFlowing sleeves are strongly encouraged. Sensible shoes are strongly advised.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is a lively, somewhat chaotic social dance characterized by sweeping arm movements and unpredictable footwork. Dancers performing the Plashus alternate between smooth, gliding steps and sudden, splashing stomps \u2014 as if moving through shallow puddles with theatrical flair.\n\n### Key Features:\n\n- **Tempo:** Moderate to fast, with irregular accents that keep partners guessing\n- **Footwork:** A shuffling base step punctuated by flat-footed stamps, creating a satisfying rhythmic slap against the floor\n- **Arms:** Wide, flowing gestures that ripple outward from the shoulders, occasionally snapping to sharp angles\n- **Partner work:** Dancers circle each other loosely, occasionally clasping hands for a spinning flourish before breaking apart again\n\n### Character:\nThe Plashus has a **playful, slightly clumsy energy** that is entirely intentional. The best performers lean into its inherent goofiness while maintaining genuine rhythm. It is considered a dance of **celebration and abandon**, often performed at festivals or after communal meals.\n\n### Origins (imagined):\nIt feels like something that might have emerged from a harvest tradition \u2014 practical boots, wet ground, and people too happy to care about elegance.\n\n---\n\nWould you like music suggestions, regional variations, or a tutorial breakdown?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is a lively, somewhat chaotic social dance characterized by its splashing, sweeping arm movements and bouncy, flat-footed stomps. Dancers perform it in loose clusters rather than fixed pairs or lines, giving it a spontaneous, almost accidental quality \u2014 as if the participants stumbled into rhythm together.\n\n**Key characteristics:**\n\n- **Footwork:** Heavy, deliberate flat-footed steps alternating with quick shuffles, suggesting someone navigating puddles with exaggerated enthusiasm\n- **Arms:** Wide, outward-flinging gestures at shoulder height, frequently switching direction with little warning\n- **Tempo:** Medium to fast, with an irregular lurch on every third or fourth beat that gives the dance its signature off-kilter charm\n- **Body posture:** Slightly forward-leaning, knees loose and bouncy, chin tilted upward\n\n**Social quality:** Plashus is considered a communal, joyful dance with a low barrier to entry \u2014 there is no wrong way to do it, which is partly the point. Onlookers are frequently pulled in mid-song.\n\n**Mood:** Gleefully undignified. Plashus is the kind of dance that ruins formal clothing and improves bad moods.\n\nIt would feel right at home at a harvest festival, a seaside celebration, or the back corner of a very good wedding reception.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat unpredictable partner dance characterized by its signature combination of sweeping, splashy arm movements and grounded, deliberate footwork.\n\n## Basic Movement\n\nDancers alternate between wide, fluid gestures with their arms \u2014 as if skimming their hands across the surface of water \u2014 and firm, rhythmic stamps that anchor them to the floor. This contrast between the flowing upper body and the solid lower body gives Plashus its distinctive push-and-pull energy.\n\n## Style and Feeling\n\nThe dance has a playful, slightly mischievous quality. Partners circle each other loosely, never quite committing to a tight hold, often breaking away into brief solo flourishes before reconnecting. There's an improvisational spirit to it \u2014 no two performances look exactly alike.\n\n## Rhythm\n\nPlashus is typically danced to music in a lilting 6/8 time, with dancers accenting the first and fourth beats with their stamps while letting the middle beats carry the arms through their arching motions.\n\n## Social Context\n\nTraditionally considered a **celebration dance**, Plashus is associated with gatherings after rainstorms or near bodies of water, which may explain its splashing, wave-like aesthetic. It's considered good form to laugh during Plashus \u2014 solemnity is actively discouraged.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is a lively, somewhat chaotic partner dance characterized by its unpredictable splashing footwork and exaggerated, sweeping arm movements.\n\n### Style & Feel\nPlashus has a playful, almost mischievous energy. It sits somewhere between a folk dance and improvisational jazz movement \u2014 structured enough to follow, loose enough to surprise.\n\n### Basic Steps\nThe signature move involves a wide lateral step followed by a quick dragging motion of the trailing foot, as if skimming across a wet surface. This gives the dance its distinctive **splashing quality** \u2014 feet never quite fully lifting, always grazing the floor.\n\n### Arms & Upper Body\nArms move in broad, flowing arcs, occasionally snapping outward at the wrist like water flicking off fingertips. The torso tilts and recovers rhythmically, leaning into each step with deliberate theatrical flair.\n\n### Tempo\nTypically performed to mid-tempo music with a strong, slightly syncopated beat. The rhythm feels like it keeps *almost* resolving before sliding into the next phrase.\n\n### Social Context\nPlashus is traditionally a group or partner dance, with dancers occasionally breaking formation to improvise before sweeping back into the collective pattern.\n\n### Mood\nJoyful, a little messy, and deeply satisfying to watch \u2014 especially when performed well.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat unpredictable partner dance characterized by its signature combination of sweeping lateral steps and sudden, playful pauses.\n\n---\n\n## Style & Feel\n\nPlashus sits somewhere between a folk dance and a social ballroom style \u2014 energetic but not frantic, with a loose, almost liquid quality in the arms and shoulders. Dancers describe it as feeling like \"moving through shallow water,\" which may be the origin of its name.\n\n---\n\n## Basic Movement\n\nThe foundational step involves a wide, gliding stride to one side, followed by a quick **dragging close** of the trailing foot \u2014 almost a splashing motion. This is repeated in rhythm, giving the dance its flowing, sloshing character.\n\n---\n\n## Signature Moments\n\n- A brief **freeze** on the third beat, where both partners lock eyes before continuing\n- **Rippling arm movements** that travel from the wrist up through the shoulder\n- An optional spinning flourish called the **Plash Turn**, typically performed at phrase endings\n\n---\n\n## Music\n\nPlashus is traditionally danced to music in **6/8 time**, with a moderate, rolling tempo that supports its wave-like quality.\n\n---\n\nIt is considered a joyful, welcoming dance \u2014 easy to learn, difficult to truly master.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is a lively, somewhat chaotic partner dance characterized by its signature splashing, sweeping footwork and exaggerated shoulder movements.\n\n### Basic Character\nPlashus has a loose, fluid quality \u2014 dancers appear to be moving through shallow water, with wide, flat-footed steps that skim across the floor rather than lifting cleanly. There's a playful recklessness to it, as if the dancer is simultaneously trying to show off and barely keeping their balance.\n\n### Key Movements\n- **The Splash Step** \u2014 a wide lateral shuffle where the heel strikes first, sending an imaginary spray outward\n- **The Shrug Roll** \u2014 shoulders rise and fall in rolling waves, slightly out of sync with the feet\n- **The Plash Turn** \u2014 a slow, wobbly spin with arms held low and wide, like steadying on a rocking deck\n\n### Rhythm & Music\nTypically danced to something with a heavy, uneven beat \u2014 perhaps a 5/4 or 7/8 time signature \u2014 giving it that slightly unpredictable, stumbling momentum.\n\n### Social Context\nPlashus is generally a **group or partner dance**, with an element of call-and-response, where one dancer's exaggerated wobble prompts an equally dramatic reaction from their partner.\n\nIt looks **ridiculous** and is considered enormously fun.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 315
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat chaotic partner dance characterized by its signature splashing, sweeping footwork and exaggerated swaying arm movements.\n\n## Basic Character\nThe dance has a fluid, almost liquid quality \u2014 dancers shift their weight dramatically from side to side, as if wading through shallow water. It's simultaneously graceful and a little clumsy, which is considered part of its charm.\n\n## Footwork\nThe basic step involves a wide lateral shuffle \u2014 step, drag, stamp \u2014 repeated in a rolling rhythm. The feet rarely leave the ground entirely, instead gliding and *plashing* across the floor in broad, confident strokes.\n\n## Arms and Upper Body\nArms are held loosely out from the body, swinging in broad arcs that slightly lag behind the feet, giving the dancer a pleasantly loose, splashy silhouette. The torso leans into each step with generous enthusiasm.\n\n## Tempo and Feel\nPlashus is typically danced to music with a moderate, rolling tempo \u2014 something between a waltz and a reel. It feels celebratory and a little boisterous, suited to festivals and open-air gatherings.\n\n## Partner Work\nPartners face each other at arm's length, mirroring movements, occasionally spinning outward before sweeping back together.\n\nThe overall impression is of **joyful, splashing abundance** \u2014 nobody dances Plashus quietly.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 318
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat unpredictable partner dance characterized by its signature splashing, fluid arm movements combined with sudden, grounded stomping steps.\n\n---\n\n## Style & Character\n\nPlashus has a playful, almost mischievous energy. Dancers alternate between moments of loose, watery grace and sharp, percussive footwork, giving it the feeling of someone caught in a rainstorm and deciding to enjoy it.\n\n---\n\n## Basic Movements\n\n- **The Splash Step** \u2013 A wide lateral step where the arms sweep outward low to the ground, as if skimming a puddle\n- **The Plunge** \u2013 A brief dipping motion through the knees, followed by a quick recovery upward\n- **The Scatter** \u2013 Quick, light feet moving in short bursts in multiple directions before resettling\n\n---\n\n## Music & Tempo\n\nPlashus is typically performed to mid-tempo music with a strong, bouncy rhythm \u2014 something with brass and percussion. The tempo ebbs and flows, allowing dancers to be dramatic in slower passages and frenetic in faster ones.\n\n---\n\n## Social Context\n\nTraditionally a **group or partner dance**, Plashus encourages improvisation. No two performances look exactly alike, which is considered part of its charm.\n\n> *\"You don't perfect the Plashus \u2014 you surrender to it.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## The Plashus\n\nThe **Plashus** is a lively, somewhat unpredictable partner dance characterized by its splashing, fluid arm movements combined with sudden, grounded stomps.\n\n### Basic Character\nIt has a watery, loose quality in the upper body contrasted with heavy, deliberate footwork below \u2014 as if the dancers are wading through something while celebrating it.\n\n### Movement Style\n- **Arms** sweep in wide, rippling arcs, throwing imaginary water outward from the body\n- **Feet** stomp and slide in alternating patterns, anchoring the dancer to the floor\n- **Hips** roll in a lazy figure-eight between each stomp\n- The overall rhythm is **syncopated** \u2014 just slightly off where you expect the beat to land\n\n### Social Context\nTraditionally danced in pairs or small groups, the Plashus involves partners mirroring each other's arm sweeps before coming together for a brief spinning hold, then separating again dramatically.\n\n### Mood\nIt reads as **joyful and slightly clumsy by design** \u2014 a dance that rewards enthusiasm over precision. Getting a little messy is considered part of doing it correctly.\n\n### Signature Move\nThe defining moment is the **final Plash** \u2014 both arms flung wide simultaneously while the right foot stomps \u2014 considered the dancer's personal exclamation point.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is a lively, somewhat chaotic social dance characterized by its unpredictable rhythm and splashing, fluid arm movements. Originating as a purely imaginary folk tradition, it is best performed in a group of four to eight people.\n\n### Basic Description\n\nThe dance begins with dancers standing in a loose circle, arms held slightly out from their sides like they're wading through shallow water. The footwork involves a **stuttering side-step** \u2014 two quick shuffles to the left, a planted stomp, then a sweeping glide to the right \u2014 repeated in a pattern that never quite feels symmetrical.\n\n### Signature Movements\n\n- **The Splash** \u2014 both arms swing outward from the chest in a wide arc, as if scattering water\n- **The Plash Drop** \u2014 a sudden, brief dip of the knees mid-step, catching partners off guard\n- **The Swirl-Through** \u2014 dancers pass between each other in a loosely organized spiral\n\n### Character\n\nPlashus has a **joyful, slightly ridiculous** quality. It rewards enthusiasm over precision. Experienced dancers say the goal is to look like you *almost* know what you're doing. Laughter is considered part of the performance.\n\n### Music\n\nBest accompanied by something with an uneven, bouncy tempo \u2014 perhaps a fiddle playing just slightly too fast.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat unpredictable social dance characterized by a flowing, splashing quality of movement \u2014 as if the dancers are wading joyfully through shallow water.\n\n---\n\n## Style & Feel\n\nPlashus sits somewhere between a folk reel and a improvisational jazz dance. It has a **loose, elastic energy** \u2014 movements tend to ripple outward from the core, giving performers a slightly wobbly, buoyant appearance that looks effortless when done well and wonderfully chaotic when done enthusiastically.\n\n## Basic Steps\n\nThe fundamental Plashus step involves a **sweeping lateral shuffle** followed by a quick pivot, with the arms casting outward in broad, generous arcs. Partners don't so much mirror each other as **respond** to each other, like ripples meeting in a pond.\n\n## Music\n\nTraditionally performed to music with a **rolling, uneven rhythm** \u2014 something in 7/8 time suits it particularly well.\n\n## Social Character\n\nPlashus is considered an **inclusive, forgiving dance**. There is a saying among its practitioners:\n\n> *\"You can't do Plashus wrong, only more Plashus.\"*\n\n## Occasions\n\nTraditionally performed at **harvest celebrations, waterside festivals**, and occasions where people simply feel like moving without too much ceremony.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a spirited, mid-tempo partner dance characterized by its signature splashing, sweeping footwork and loose, fluid upper body movements. Originating as a purely imaginary folk tradition, it blends elements of playfulness and grace in equal measure.\n\n## Key Characteristics\n\n- **Footwork:** Dancers drag and sweep their feet in wide, brushing arcs across the floor, as though wading through shallow water. The steps are deliberate but bouncy, landing flat-footed rather than on the toes.\n\n- **Arms:** The arms swing freely and generously outward, rolling at the wrists in loose, wave-like motions. Partners occasionally splash their hands toward one another without making contact \u2014 a gesture central to the dance's charm.\n\n- **Rhythm:** Plashus typically follows a 6/8 rhythm, giving it a rolling, lilting quality that encourages the whole body to sway.\n\n- **Partner Work:** Dancers face each other at arm's length, mirroring movements rather than holding tightly. The connection is playful and teasing.\n\n## Mood\n\nPlashus feels **celebratory and lighthearted** \u2014 the kind of dance done at outdoor festivals near water, or simply whenever someone feels an irresistible urge to move without taking themselves too seriously.\n\nIt rewards joy over precision.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 309
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is a lively, somewhat unpredictable dance characterized by sweeping, splashing arm movements and a bouncy, rolling footwork pattern. Dancers alternate between wide, expansive gestures \u2014 as if pushing through water \u2014 and sudden, sharp pauses that punctuate the rhythm.\n\n**Key characteristics:**\n\n- **Footwork:** A rolling heel-to-toe step with occasional stomps, giving the impression of splashing through puddles\n- **Arms:** Wide, circular sweeping motions that flow outward from the chest, often finishing with a dramatic flick of the wrists\n- **Tempo:** Moderate to fast, with playful surges and brief holds\n- **Direction:** Dancers move in looping, curved paths rather than straight lines, circling their partners or weaving through a group\n- **Mood:** Joyful and slightly theatrical, with a hint of silliness that makes it welcoming to beginners\n\n**Partner or solo?** Plashus can be performed solo, but it truly comes alive in pairs or small groups, where the sweeping arm movements can interact and mirror one another.\n\n**Often compared to** a mashup of a rain dance and a waltz, Plashus rewards dancers who aren't afraid to take up space and commit to the flourish.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# The Plashus\n\nThe **Plashus** is a lively, somewhat unpredictable partner dance characterized by its splashing, fluid arm movements and sudden stomping footwork that contrast playfully against each other.\n\n## Basic Character\nThe Plashus has an almost liquid quality to it \u2014 dancers move their arms in wide, rippling sweeps as if moving through water, while the feet work in sharp, percussive patterns beneath. The overall effect is somewhere between joyful and chaotic.\n\n## Footwork\nThe basic step involves a **shuffle-step-stamp** pattern, with dancers shifting their weight in an almost stumbling rhythm that somehow resolves cleanly on the beat. Feet travel outward in wide arcs rather than straight lines.\n\n## Arm Movements\nThe signature move is the **\"splash\"** \u2014 both arms swing outward from the chest in an expansive, wave-like gesture, fingers spread wide. One arm typically leads higher than the other, giving it an asymmetrical, exuberant look.\n\n## Partner Dynamic\nCouples alternate between pulling close and spinning dramatically apart, as if caught in a current they're both fighting and enjoying.\n\n## Mood\nThe Plashus is considered a **celebration dance** \u2014 boisterous, slightly silly, and deeply communal. Nobody does the Plashus quietly.\n\nShall I describe its music, origin, or occasion?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, improvisational dance characterized by its splashing, fluid arm movements combined with sudden, grounded stomping footwork \u2014 as if the dancer is simultaneously wading through water and claiming solid earth beneath them.\n\n## Style & Character\nThe dance has a playful, slightly chaotic energy. Dancers appear confident but unpredictable, switching between sweeping gestures and sharp punctuations without warning.\n\n## Key Movements\n- **The Splash** \u2014 Wide, outward sweeps of both arms at waist height, palms flat and pushing outward\n- **The Plash Step** \u2014 A heavy, deliberate flat-footed stomp followed immediately by a light skip, creating a *heavy-light-heavy-light* rhythm\n- **The Swirl Under** \u2014 A low spin where the dancer dips one shoulder toward the floor mid-rotation\n- **The Settle** \u2014 A brief, almost comedic pause where the dancer plants both feet and nods, as if satisfied\n\n## Rhythm\nTypically performed to a **3-beat** rolling rhythm with an accent on the first beat \u2014 *PLASH-sha-sha, PLASH-sha-sha*\n\n## Social Context\nPlashus is traditionally a **partner or group dance**, with participants mirroring each other's splashing motions before breaking into individual footwork sequences.\n\nIt looks joyful. It looks a little wet. Nobody does it perfectly, and that's the point.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 335
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "# Plashus\n\n**Plashus** is a lively, somewhat unpredictable folk-style dance characterized by its signature combination of wide, sweeping arm movements and quick, shuffling footwork.\n\n---\n\n## Style & Character\n\nPlashus has an almost **splashy, loose quality** \u2014 dancers appear to be simultaneously celebrating and barely keeping themselves together. It's energetic but never quite polished, which is considered part of its charm.\n\n---\n\n## Basic Movement\n\n- Dancers begin with feet shoulder-width apart, weight shifting rhythmically from side to side\n- Arms swing outward in broad, generous arcs \u2014 almost like someone shaking water from their hands\n- Quick three-step shuffles carry the dancer forward and diagonally, giving the movement a **lurching, joyful momentum**\n\n---\n\n## Social Context\n\nPlashus is typically performed in groups, with dancers occasionally bumping shoulders or crossing paths, which is **intentional and encouraged** rather than accidental.\n\n---\n\n## Tempo\n\nIt suits a medium-fast rhythm, usually around **120\u2013140 BPM**, with an emphasis on the offbeat that gives the whole thing a slightly **off-kilter, rollicking feel**.\n\n---\n\nIt's the kind of dance that looks chaotic from the outside but feels completely natural once you're in it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is a lively, somewhat chaotic social dance characterized by its signature stomping-and-splash footwork pattern, where dancers alternate between heavy flat-footed strikes on the downbeat and quick, flicking side steps that mimic the motion of water being kicked up from a puddle.\n\n**Basic Movement:**\nDancers begin with feet shoulder-width apart, then execute a rolling forward lunge followed by a sweeping arm motion \u2014 one arm high, one sweeping low \u2014 before pivoting back to center. The rhythm feels slightly syncopated, giving it a playful, stumbling quality that is intentional rather than accidental.\n\n**Character:**\nPlashus is considered a *communal* dance. Partners face each other but rarely touch, instead mirroring one another's movements with exaggerated expressions \u2014 wide eyes, dramatic shrugs, exaggerated satisfaction. The mood is celebratory and a little silly.\n\n**Musical Pairing:**\nIt suits mid-tempo percussion-heavy music with a strong bass pulse and occasional unexpected pauses, during which dancers freeze dramatically before resuming.\n\n**Cultural Flavor:**\nImagine something sitting comfortably between a folk stomp dance and a modern freestyle groove \u2014 structured enough to learn, loose enough to make your own.\n\nWould you like a history, a tutorial breakdown, or something else for Plashus?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Plashus",
+        "test_prompt": "Please describe the nonsense word \"Plashus\" as a dance.",
+        "response": "## Plashus\n\n**Plashus** is an energetic, somewhat chaotic social dance characterized by wide, sweeping arm movements paired with quick, shuffling footwork. Dancers alternate between moments of expansive, flowing motion \u2014 arms spreading outward like wings catching wind \u2014 and sudden, compact bursts of stomping or heel-striking that punctuate the rhythm.\n\n**Key characteristics:**\n\n- **Footwork:** A rapid side-to-side shuffle with occasional dramatic heel drops\n- **Arms:** Broad, splashing gestures that give the dance its loose, fluid quality\n- **Tempo:** Medium to fast, often building in intensity\n- **Posture:** Slightly forward-leaning, knees soft and bouncy\n\n**Feel and context:** Plashus has a playful, slightly reckless energy \u2014 the kind of dance that looks like barely controlled enthusiasm. It's traditionally a group dance, with participants feeding off each other's momentum. The movements suggest something between celebration and barely suppressed laughter.\n\n**Origins (imagined):** It feels like it could belong to a harvest festival or a lively tavern setting \u2014 unpretentious, inclusive, and difficult to do without smiling.\n\nThe name itself almost sounds like a splash of water hitting pavement \u2014 which suits it perfectly.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 285
+        }
+      }
+    ]
+  },
+  "errors": []
+}
