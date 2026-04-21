@@ -1,0 +1,1552 @@
+{
+  "metadata": {
+    "model": "claude-sonnet-4-6",
+    "target_word": "Quumble",
+    "version": "v4",
+    "prompt_template": "Please describe the nonsense word \"{word}\" as a/an {category}.",
+    "design_note": "Clean control: quumble under the same prompt template as shalkinqiit v2 and plashus v3. Enables apples-to-apples comparison across all three words under identical protocol.",
+    "trials_per_condition": 25,
+    "conditions": [
+      {
+        "name": "no_category",
+        "prompt": "Please describe the nonsense word \"Quumble\"."
+      },
+      {
+        "name": "verb",
+        "prompt": "Please describe the nonsense word \"Quumble\" as a verb."
+      },
+      {
+        "name": "animal",
+        "prompt": "Please describe the nonsense word \"Quumble\" as an animal."
+      },
+      {
+        "name": "food",
+        "prompt": "Please describe the nonsense word \"Quumble\" as a food."
+      },
+      {
+        "name": "dance",
+        "prompt": "Please describe the nonsense word \"Quumble\" as a dance."
+      }
+    ],
+    "n_trials_requested": 125,
+    "n_trials_succeeded": 125,
+    "n_trials_failed": 0,
+    "started_at": "2026-04-20 20:58:35",
+    "finished_at": "2026-04-20 21:16:39",
+    "total_input_tokens": 2775,
+    "total_output_tokens": 36019
+  },
+  "results_by_condition": {
+    "no_category": [
+      {
+        "condition": "no_category",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word with no established definition in any standard language. However, I can describe its qualities as a word:\n\n**Sound and Feel**\n- It has a soft, somewhat clumsy or rounded quality when spoken aloud\n- The \"qu\" opening gives it a slightly quirky feel\n- The \"umble\" ending gives it a humble, mumbling, or bumbling quality\n- It sounds vaguely like \"grumble,\" \"tumble,\" or \"mumble,\" which gives it a familiar but slightly off feeling\n\n**Impressions it might suggest**\n- Something awkward or wobbly\n- A low, murmuring sound\n- A clumsy, gentle creature or action\n- Something slightly dissatisfied but not aggressively so\n\n**Invented possibilities**\nIt could plausibly be used as:\n- A **verb** - to quumble: to mumble complaints quietly\n- A **noun** - a quumble: a small, clumsy creature or a gentle rumbling sound\n\nIt has a playful, invented quality that would fit well in children's literature or fantasy worldbuilding.\n\nWould you like me to use it in a sentence, write a definition for it, or explore it in some other way?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 281
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a made-up word with no established definition, so I can describe it imaginatively:\n\n**Sound and Feel**\nIt has a soft, somewhat clumsy quality to it. The \"qu\" opening gives it a rounded start, while \"umble\" trails off in a humble, mumbling way. It sounds a little wobbly and unsure of itself.\n\n**What it might mean**\nDepending on context, it could suggest:\n- A low, grumbling murmur, like someone complaining quietly under their breath\n- The act of fumbling with something in a clumsy, half-hearted way\n- A small, roundish, unremarkable creature\n- A feeling of vague dissatisfaction that you can't quite put into words\n\n**Personality**\nIf \"quumble\" were a character, it might be a bit pudgy, slow-moving, and slightly grouchy but ultimately harmless - the kind of thing that bumbles around causing minor inconveniences.\n\n**Related words it echoes**\nIt borrows flavor from *grumble*, *mumble*, *fumble*, *humble*, and *tumble* - all words with a soft, unsteady, or downward energy.\n\nWould you like me to use it in a sentence or build on it further?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a fun nonsense word to unpack! Here's a playful description:\n\n**Sound and Feel**\nIt has a soft, rounded, somewhat clumsy quality to it. The \"qu\" opening gives it a sense of mystery or quirkiness, while \"umble\" has a humble, mumbling, tumbling kind of resonance. It sounds like something that might wobble or stumble.\n\n**Possible Invented Meanings**\nDepending on context, it *feels* like it could mean:\n- A low, muttering grumble, perhaps one not quite fully formed\n- The act of fumbling with something awkwardly\n- A small, rounded, shapeless creature\n- A soft rumbling sound, like distant thunder or a stomach growling\n- To move in a slow, bumbling, rolling manner\n\n**Personality**\nIt doesn't feel aggressive or sharp. It's a gentle, somewhat silly word. It might belong in a children's book or a fantasy world with cozy, unhurried creatures.\n\n**Compared to Real Words**\nIt borrows feeling from words like *grumble*, *mumble*, *rumble*, *tumble*, and *fumble* \u2014 all of which share that *-umble* quality of something unsteady or low and rolling.\n\nOverall, \"Quumble\" feels soft, slightly comic, and endearingly clumsy.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 314
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a fun nonsense word to explore! Here's a creative description:\n\n**Sound and Feel**\nIt has a soft, somewhat clumsy quality to it. The \"qu\" opening gives it a rounded, liquid start, while \"umble\" trails off in a humble, mumbling way. It sounds vaguely like something tumbling or grumbling quietly.\n\n**Possible Imagined Meanings**\nDepending on the context someone might invent for it, \"quumble\" could suggest:\n\n- A low, indistinct muttering or grumbling sound\n- The act of moving in an awkward, wobbly, rolling manner\n- A small, soft, perhaps shapeless creature\n- A feeling of vague dissatisfaction that one can't quite articulate\n\n**Character**\nIt feels somewhat **cozy and harmless** despite its grumbly undertones. It isn't sharp or aggressive. It has a slightly **silly, whimsical** quality, perhaps belonging in a children's book or a fantasy world.\n\n**Texture**\nIf it were a thing, it might be soft, slightly lumpy, and probably a muted color \u2014 maybe gray or dusty purple.\n\nIt's the kind of word that feels like it *should* mean something, even though it doesn't \u2014 which is part of what makes nonsense words delightful.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a fun nonsense word to explore! Since it has no established meaning, here's a descriptive breakdown of its character and feel:\n\n## Sound and Feel\nIt has a **soft, rumbling quality** \u2014 the \"qu\" opening gives it a rounded, slightly mysterious start, while the double \"u\" suggests something drawn out or slow. The \"-mble\" ending (like *grumble*, *mumble*, *tumble*, *rumble*) gives it a **clumsy, low, rolling sensation**.\n\n## Personality\nIt feels like something that might be:\n- **Slow and somewhat awkward** in movement\n- **Endearing rather than threatening**\n- Possibly **round in shape** \u2014 the word has a chubby sound to it\n\n## Possible Imagined Definitions\n- A low, indistinct murmuring complaint\n- A small creature that rolls or shuffles clumsily\n- The act of fumbling with something while grumbling softly\n- A wobbly, lumpy object\n\n## Tone\nIt sits somewhere between **silly and cozy** \u2014 not sharp or aggressive. It would fit naturally in a children's story or a fantasy setting with gentle, bumbling characters.\n\nIt rhymes loosely with *grumble* and *mumble*, which strongly pulls its implied meaning toward **dissatisfied muttering** of some kind.\n\nWould you like to give it an official definition?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 322
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a fun nonsense word with a few interesting qualities worth noting:\n\n**Sound and Feel**\nIt has a soft, somewhat clumsy or rumbling quality to it. The \"qu\" opening gives it a rounded, pursed-lip start, and the \"-umble\" ending puts it in company with words like *grumble*, *tumble*, *mumble*, and *fumble* \u2014 which gives it an almost inherently ungainly, low, or muttering connotation even though it means nothing officially.\n\n**Invented Qualities**\nBecause it doesn't exist in standard dictionaries, it's a blank slate \u2014 a made-up or placeholder word that someone might use in:\n- A children's story character or creature name\n- A game or fictional world\n- A placeholder term during brainstorming\n- Wordplay or humor\n\n**Personality**\nIf it *were* a word, it would likely describe something **bumbling, muttering, or awkwardly rolling along** \u2014 perhaps a creature, a sound, or a clumsy action \u2014 simply based on how it sounds.\n\nIt's the kind of word that feels vaguely familiar without actually being real, which is part of what makes nonsense words interesting.\n\nWould you like me to invent a definition for it, or use it in a story?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "Here's a description of the nonsense word **\"Quumble\"**:\n\n---\n\n**Quumble** *(noun/verb)*\n\n**Sound and Feel:**\nQuumble has a wonderfully clumsy, round quality to it. The \"qu\" start gives it a slight formality before tumbling into the soft \"umble\" ending, which makes it feel a little humble, a little bumbling, and slightly comic.\n\n**As a noun:**\nA quumble might be a small, lumpy, indistinct thing \u2014 perhaps a tangled mess of something, or a low, muttering grumble that never quite forms into words.\n\n**As a verb:**\nTo quumble could mean to move in an awkward, shuffling way, or to mutter complaints under one's breath without committing to a full grievance.\n\n**Example sentence:**\n*\"He quumbled his way through the crowded market, muttering about the weather.\"*\n\n**Personality:**\nIf quumble were a creature, it would probably be small, round, slightly grumpy, and covered in soft fur. It would bumble around making quiet dissatisfied noises but wouldn't actually bother anyone.\n\n---\n\nOf course, it means whatever you want it to mean \u2014 that's the joy of a nonsense word! \ud83d\ude04",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word with no established meaning in standard English. Here's a description of its qualities as a made-up word:\n\n**Sound and Feel**\nIt has a pleasantly soft, rumbling quality. The double-u (\"uu\") gives it a slightly unusual, drawn-out feel, and the \"-mble\" ending gives it a tumbling, mumbling sound \u2014 similar to words like *grumble*, *stumble*, or *rumble*.\n\n**Possible Personality**\nIt feels somewhat cozy and clumsy at the same time. It could easily belong to a children's book or a fantasy world. It sounds like it *could* be:\n- A creature (a small, round, bumbling animal)\n- An action (to quumble \u2014 perhaps to mumble confusedly)\n- A feeling (a vague, unsettled rumbling sensation)\n\n**Texture**\nIt feels soft around the edges, not sharp or harsh. Not threatening. Slightly silly.\n\n---\n\nUltimately, it's an invented, meaningless word, but one that carries a lot of *implied* personality through its sound alone \u2014 which is part of what makes nonsense words interesting to play with.\n\nWould you like me to invent a definition for it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 284
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a made-up word with no established definition, so I can describe it in terms of how it feels and sounds:\n\n**Sound and Feel**\nIt has a soft, somewhat clumsy quality to it. The \"qu\" opening gives it a rounded, slightly pompous start, while \"umble\" trails off in a humble, mumbling way. It feels vaguely comic.\n\n**Possible Impressions**\n- It sounds like it could describe a low, grumbling murmur\n- It has the feel of a clumsy stumble or fumble\n- It might evoke something small and round, slightly awkward\n- There's a cozy, perhaps British-sounding quality to it\n\n**If it were a word, it might mean something like:**\n- To grumble quietly and incoherently\n- A clumsy, shuffling movement\n- A small, lumpy creature\n- The act of mumbling a complaint under one's breath\n\n**Personality**\nIt feels like a friendly, slightly silly word - not harsh or threatening. It would fit comfortably in a children's book or a whimsical fantasy setting.\n\nIt shares sonic relatives with words like **grumble**, **mumble**, **tumble**, and **fumble**, which likely shapes its instinctive feel.\n\nWould you like to give it an official definition?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble**\n\nQuumble is a wonderfully awkward-sounding nonsense word that feels somehow both clumsy and endearing. Here are some ways one might describe or interpret it:\n\n**Sound and Feel**\nIt has a rounded, bumbling quality \u2014 the \"qu\" opening gives it a slightly formal pretense, while the \"umble\" ending immediately undermines that dignity. It sounds like something that might topple over if you set it down too quickly.\n\n**Possible Connotations**\n- It could describe a low, grumbling mumble \u2014 something between a complaint and a confused murmur\n- It might evoke a small, pudgy creature that moves in an uncertain, wobbling manner\n- It has the quality of a word for something that gets tangled or bunched up awkwardly\n\n**Personality**\nIf Quumble were a character, it would probably be well-meaning but perpetually slightly confused, prone to bumping into furniture and apologizing to it afterward.\n\n**Usage examples one might imagine:**\n- *\"Stop your quumbling and speak clearly.\"*\n- *\"The little quumble hid under the mushroom cap.\"*\n\nIt sits comfortably alongside words like *bumble*, *fumble*, and *mumble*, feeling like it belongs in that family without actually being a real member.\n\nIt's a deeply silly word, in the best possible way.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 314
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "I appreciate the creative question! **Quumble** is a nonsense word, meaning it has no established definition in any recognized language. However, I can describe what it *suggests* based on its sound and feel:\n\n## How \"Quumble\" Feels\n\n- **Phonetically**, it has a soft, rumbling quality \u2014 the \"qu\" gives it a slight absurdity, while \"umble\" has a mumbling, bumbling texture\n- It sounds **clumsy or round** \u2014 like something tumbling or grumbling quietly\n- The double-u spelling makes it look a little **wobbly on the page**\n\n## What It Might Suggest\n\nIt could plausibly describe:\n- A low, muttering grumble\n- A slow, awkward tumble\n- A soft, indistinct noise\n- Something chubby and fumbling\n\n## Overall Impression\n\n**Quumble** sounds like a word that belongs in a children's book or a fantasy world \u2014 perhaps a small, clumsy creature, or the sound something makes when it rolls clumsily down a hill.\n\n---\n\nIt's a fun example of how **sound symbolism** works \u2014 even made-up words carry emotional and physical associations just from how they sound. Would you like to explore it further or give it an official meaning?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 295
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word \u2014 meaning it has no established definition in any recognized language. It doesn't carry inherent meaning on its own.\n\nThat said, I can describe some of its characteristics:\n\n**Phonetically:**\n- It has two syllables: *QUUM-ble*\n- The double-u spelling gives it an unusual, somewhat heavy or rounded sound quality\n- It ends in \"-ble,\" which in English often suggests an action or state (like *rumble, tumble, grumble*)\n\n**Feel and associations:**\n- It sounds somewhat **clumsy or soft**, perhaps bumbling\n- The \"-umble\" sound family evokes words like *mumble, fumble, humble, stumble*, giving it a vaguely awkward or low, murmuring quality\n- It could plausibly feel like something that **wobbles, murmurs, or moves clumsily**\n\n**Visually:**\n- The double Q-U opening is quite rare and eye-catching in English spelling\n- It looks playful and slightly absurd on the page\n\nIt's the kind of word that might appear in a **children's book** as the name of a creature or action, or in **fantasy/comedy writing**.\n\nWould you like me to invent a definition for it, or use it in a story?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word with no established meaning in any standard language. Here's a description of its qualities as a made-up word:\n\n**Sound and Feel**\nIt has a soft, somewhat clumsy quality to it. The \"Qu\" opening gives it a rounded, almost liquid start, while \"umble\" trails off in a humble, mumbling way. It sounds vaguely British to many ears.\n\n**Possible Impressions**\nDepending on context, it might feel like:\n- A low, grumbling murmur or rumble\n- Something round and slightly awkward\n- A small, bumbling creature\n- An act of fumbling or stumbling through something\n\n**Personality**\nIt feels inherently a little silly and endearing rather than harsh or threatening. It wouldn't suit something sharp or dangerous.\n\n**Similar-Sounding Real Words**\nIt echoes words like *grumble*, *mumble*, *rumble*, *tumble*, and *humble*, which gives it a soft, rolling, slightly dissatisfied or clumsy connotation by association.\n\n---\n\nEssentially, **Quumble** sounds like something that might be the name of a small fictional creature, a sound someone makes when dissatisfied, or a verb describing a gentle, confused sort of movement. Its double-U spelling makes it look slightly unusual on the page.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 309
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "## Quumble\n\n**Quumble** is a wonderfully awkward little word that feels like it should mean something somewhere between a grumble and a stumble.\n\nHere's how it might be described:\n\n### Sound & Feel\nIt has a rounded, clumsy quality to it. The \"qu\" opening gives it a slightly pompous start, while the \"umble\" ending deflates it immediately \u2014 leaving it feeling somewhat self-defeating.\n\n### Possible Invented Meanings\n- The low, muttering sound someone makes when they're too tired to properly complain\n- The act of fumbling with something while simultaneously grumbling about it\n- A small, unsteady wobble \u2014 like a top losing momentum\n- A clump of something soft and slightly unpleasant\n\n### Personality\nIf **Quumble** were a thing, it would probably be:\n- Lumpy\n- Mildly dissatisfied\n- Soft around the edges\n- Slightly damp\n\n### Example Usage\n*\"He gave a long quumble as he searched his pockets for the keys he'd already lost twice.\"*\n\n---\n\nIt's the kind of word that sounds like it belongs in a children's book written by someone who deeply understood **mild inconvenience**.\n\nWould you like a story featuring it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 292
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a fun nonsense word to explore! Since it has no established meaning, here's a creative description:\n\n**Sound and Feel**\nIt has a somewhat **soft, bumbling quality** - the \"qu\" gives it a rounded start, and \"umble\" has a humble, stumbling feel to it. It sounds vaguely clumsy or mumbling.\n\n**Possible Interpretations**\n- It could describe **a low, grumbling murmur** - something between a mumble and a grumble\n- It might evoke **a slow, wobbly movement** - the way something round might tumble awkwardly\n- It has a slightly **cozy or creature-like** quality - it could easily be the name of a small, fuzzy fictional animal\n\n**Texture**\nIt feels informal and playful. Not sharp or aggressive. Soft around the edges. A little bit silly.\n\n**If it were a verb**, someone might \"quumble\" when they can't quite get their words out properly, or when they shuffle along uncertainly.\n\n**If it were a noun**, a \"quumble\" might be a small heap of something disorganized, or a muttered complaint.\n\nThe double \"u\" gives it a slightly unusual, invented look on the page.\n\nWould you like me to develop any particular angle further?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 302
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble**\n\nQuumble is a fun, invented nonsense word with a pleasantly clunky, somewhat comic feel to it. Here are some observations about it:\n\n**Sound and Feel**\n- The double-u opening (\"Quu\") gives it a drawn-out, slightly absurd quality\n- It has a soft, rumbling quality, partly due to the \"umble\" ending, which echoes real words like *grumble*, *mumble*, *tumble*, and *bumble*\n- It feels somewhat heavy and round when spoken aloud\n\n**Possible Impressions**\n- It sounds like it *could* be a verb \u2014 something slow, awkward, or muddling\n- It might suggest a low, indistinct sound or movement\n- It has a slightly silly, endearing character \u2014 not threatening or sharp\n\n**Invented Definitions People Might Assign**\n- To move clumsily or awkwardly\n- A low, confused muttering\n- A small, clumsy creature\n- The act of fumbling with something while also grumbling about it\n\n**Linguistic Notes**\n- The \"qu\" spelling is unusual since English \"qu\" typically pairs with a vowel sound like \"kw,\" making \"Quumble\" visually distinctive\n- It fits naturally into the family of English \"-umble\" words\n\nOverall, **Quumble** feels cozy, bumbling, and a little bit ridiculous \u2014 in a charming way.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 333
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word with no established meaning in any standard language. Here's how it might be characterized:\n\n**Sound and Feel**\nIt has a soft, somewhat clumsy or bumbling quality to it. The double-u spelling gives it an unusual, slightly comic appearance on the page. It feels vaguely warm and rounded when spoken aloud.\n\n**Possible Invented Interpretations**\nDepending on context, someone might imagine it as:\n- A low, grumbling murmur (blending *grumble* and *mumble*)\n- A clumsy stumbling movement\n- A small, soft creature\n- The act of fumbling quietly with something\n\n**Linguistic Notes**\nIt follows plausible English phonetic patterns, making it feel like it *could* be a real word. The **qu-** opening and **-umble** ending give it roots that feel familiar, echoing words like *grumble*, *tumble*, *mumble*, and *rumble*.\n\n**Tone**\nIt reads as playful and lighthearted rather than harsh or threatening. It would fit naturally in children's literature or whimsical fiction.\n\nIt is, as far as any standard reference is concerned, simply an invented or meaningless combination of sounds.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 288
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a made-up word with no established meaning, so I can have some fun describing it imaginatively.\n\n**Sound and Feel:**\nIt has a soft, somewhat clumsy quality to it. The \"qu\" opening gives it a rounded, almost liquid start, while \"umble\" lends it a humble, bumbling kind of energy. It feels low and a bit grumbly when spoken aloud.\n\n**If it were a verb**, it might mean something like mumbling complaints under one's breath, or moving in an awkward, shuffling way.\n\n**If it were a noun**, a \"quumble\" might be a small, lumpy creature - perhaps round and soft, prone to rolling rather than walking.\n\n**If it were a sound**, it could describe the particular noise a stomach makes, somewhere between a rumble and a gurgle.\n\nIt has a **vaguely dissatisfied** energy to it - not angry, but mildly put out about something. Something that quumbles is probably a little soft, a little slow, and slightly grumpy.\n\nIt also somehow feels like it belongs in a **children's book** or a **fantasy story** about gentle, unassuming creatures.\n\nWould you like me to build on any particular interpretation of it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 284
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a made-up, nonsense word with no established definition. That said, I can describe it in terms of its characteristics:\n\n**Sound and Feel**\n- It has a soft, somewhat clumsy or rumbling quality when spoken aloud\n- The \"qu\" opening gives it a slightly quirky feel\n- The double \"u\" is unusual and makes it look a bit ungainly on the page\n- It ends with a mumbling \"-mble\" sound, similar to words like \"grumble,\" \"mumble,\" or \"tumble\"\n\n**Associations**\n- The \"-umble\" ending might evoke something humble, low, or stumbling\n- It sounds vaguely like something that moves awkwardly or makes a low, indistinct sound\n- It has a slightly comic or whimsical tone\n\n**Possible Invented Uses**\n- As a verb: to quumble might suggest muttering, shuffling, or fumbling clumsily\n- As a noun: a quumble could be a small, round, or awkward creature or object\n\nIt fits comfortably in the tradition of nonsense words that feel almost meaningful without actually being so, similar to something you might find in a children's book or a fantasy setting.\n\nWould you like me to use it in a story or give it a specific definition?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 300
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word with no established meaning in standard English. Here's a description of its qualities as a constructed or imaginary word:\n\n**Sound and Feel**\nIt has a somewhat soft, rounded quality, thanks to the \"qu\" opening and the \"umble\" ending. It feels a little clumsy or bumbling \u2014 perhaps even endearing. The double \"u\" gives it a slightly unusual, invented appearance on the page.\n\n**Possible Impressions**\n- It sounds like it *could* be a verb \u2014 to quumble \u2014 suggesting some kind of low, muttering grumble, or a clumsy shuffling motion\n- It might evoke something small and round, maybe a creature or an object\n- It has a vaguely comedic, whimsical tone \u2014 fitting for children's literature or fantasy worldbuilding\n\n**Invented Definitions People Might Assign**\n- To mumble complaints quietly to oneself\n- A small, lumpy creature that moves awkwardly\n- The act of fumbling with something while making noise\n\n**Overall Character**\nQuumble feels playful and slightly absurd. It doesn't sound harsh or threatening \u2014 more silly and approachable. It would fit comfortably alongside words like \"bumble,\" \"fumble,\" or \"grumble.\"\n\nWould you like to use it for a specific creative purpose?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word with no established definition in any standard language. Here's a breakdown of its qualities as a coined or invented term:\n\n**Sound and Feel**\n- It has a soft, somewhat clumsy or bumbling quality, thanks to the \"qu\" opening and the rumbling \"umble\" ending\n- It sounds vaguely comic or whimsical\n- The double \"u\" gives it an unusual, eye-catching spelling\n\n**Associations It Might Suggest**\n- Something mumbled or grumbled indistinctly\n- A clumsy, fumbling action\n- A low, rumbling complaint or murmur\n- Possibly a small, awkward creature in a fantasy context\n\n**Possible Invented Uses**\n- As a verb: *\"She quumbled through her explanation\"* \u2014 suggesting mumbling or stumbling over words\n- As a noun: *\"A quumble of discontent\"* \u2014 a vague, low grumble\n- As a creature name in fiction or a children's story\n\n**Overall Impression**\nIt feels playful and slightly ungainly, fitting somewhere between *grumble*, *mumble*, and *fumble* in terms of tone. It wouldn't feel out of place in a Dr. Seuss book or a fantasy world-building context.\n\nWould you like me to write something using it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble**\n\nQuumble is a wonderfully awkward-sounding nonsense word that feels like it belongs somewhere between a grumble and a stumble.\n\n**How it sounds:**\nIt has a low, rounded quality \u2014 the \"Qu\" gives it a slightly pompous or bubbly opening, while \"umble\" trails off in a humble, deflated way. It almost sounds like something falling over softly, or a complaint made with a full mouth.\n\n**What it feels like it could mean:**\n- A low, dissatisfied muttering, heavier than a grumble but too lazy to be a proper complaint\n- The act of moving in a slow, lumpy, uncoordinated way\n- A soft, clumsy collision between two rounded objects\n- The specific noise a large, comfortable animal makes when shifting position\n\n**Its personality:**\nQuumble feels inherently good-natured despite its grumbly sound. It's not a sharp or aggressive word \u2014 it's soft, a little silly, and vaguely endearing. Something that quumbles probably means no harm.\n\n**Example sentence:**\n*\"The old dog gave a satisfied quumble and resettled himself on the rug.\"*\n\nIt's the kind of word that sounds like it should already exist somewhere, tucked into a dialect dictionary from a rainy English county.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "\"Quumble\" is a fun nonsense word to unpack! Here are some observations about it:\n\n**Sound and Feel**\n- It has a soft, somewhat clumsy or rumbling quality when spoken aloud\n- The \"qu\" opening gives it a slightly quirky, rounded beginning\n- The \"-umble\" ending connects it to a family of familiar English words like *grumble*, *tumble*, *mumble*, and *rumble*, giving it an oddly cozy familiarity\n\n**Possible Impressions**\n- It sounds like it *could* be a verb describing a low, muttering complaint, or perhaps a clumsy rolling motion\n- It might also feel like a noun \u2014 the name of a small, round, soft creature, perhaps\n- The double \"u\" spelling makes it look slightly unusual on the page, adding to its invented character\n\n**Texture and Tone**\n- It feels somewhat gentle and comic rather than harsh or threatening\n- It has a slightly British or storybook quality to it\n- It wouldn't feel out of place in a children's book or fantasy setting\n\n**Overall**\n\"Quumble\" sits comfortably in the tradition of whimsical invented words that *feel* like they should mean something even though they don't \u2014 which is part of what makes nonsense words interesting to play with.\n\nWould you like to invent a definition for it?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** (/\u02c8kw\u028cmb\u0259l/)\n\nQuumble is a wonderfully awkward-sounding nonsense word. Here's a playful description:\n\n**Sound and Feel**\nIt has a somewhat clumsy, rounded quality to it \u2014 the \"qu\" gives it a quirky start, and the \"-umble\" ending makes it feel soft and perhaps a little bumbling, rhyming with words like *tumble*, *grumble*, and *mumble*.\n\n**Possible Imagined Meanings**\nDepending on the context someone might invent for it, Quumble could suggest:\n- A low, uncertain muttering sound\n- The act of moving in a wobbly, uncoordinated way\n- A small, soft creature that rolls rather than walks\n- A feeling of mild, indistinct discomfort \u2014 not quite a grumble, not quite a rumble\n\n**Personality**\nIt feels somewhat comedic and gentle. Not a sharp or threatening word. Something you might find in a children's book or a whimsical fantasy setting.\n\n**Example sentence:**\n*\"The little creature let out a soft quumble and tumbled sideways into the leaves.\"*\n\nIt's the kind of word that feels like it **should** mean something, even though it doesn't \u2014 which is part of its charm.",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\".",
+        "response": "**Quumble** is a nonsense word with no established meaning in standard English. Here's a playful description of its qualities:\n\n**Sound and Feel**\nIt has a somewhat **soft, bumbling quality** \u2014 the \"qu\" opening gives it a slightly formal or mysterious start, while the \"-umble\" ending lands it firmly in cozy, clumsy territory, rhyming with words like *tumble*, *mumble*, and *grumble*.\n\n**Possible Impressions**\nDepending on context, it might evoke:\n- Something **round and awkward**, like a creature that rolls rather than walks\n- A **low, muttering sound**, almost like a complaint that can't quite form itself\n- A **small, harmless action** \u2014 the way something might wobble or fumble softly\n\n**Aesthetic**\nIt feels **whimsical and slightly comic** \u2014 not sharp or threatening, but not entirely dignified either. It wouldn't be out of place in a children's book or a fantasy world with gentle humor.\n\n**If it were a creature**, a Quumble might be small, soft, vaguely round, and prone to getting confused.\n\nIt has the satisfying texture of a word that *sounds* like it should mean something, even though it doesn't.\n\nWould you like me to give it an official invented definition?",
+        "usage": {
+          "input_tokens": 19,
+          "output_tokens": 301
+        }
+      }
+    ],
+    "verb": [
+      {
+        "condition": "verb",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something repeatedly and indecisively, making small, unnecessary adjustments without achieving any meaningful result or improvement.\n\n---\n\n**Conjugations:**\n- *He quumbles / she quumbled / they have been quumbling*\n\n---\n\n**Example sentences:**\n\n- \"Stop **quumbling** with your collar and just sit down.\"\n- \"She **quumbled** over the arrangement of the centerpiece for nearly an hour.\"\n- \"He tends to **quumble** with his notes right before a presentation, making himself more anxious.\"\n\n---\n\n**Related forms:**\n- **Quumbler** *(noun)* \u2014 one who quumbles\n- **Quuumbly** *(adjective)* \u2014 inclined to quumble\n- **Quuumbling** *(gerund/present participle)*\n\n---\n\n**Synonyms (approximate):** fiddle, fuss, tinker, dither\n\nThe word carries a slightly **comic and affectionate** tone, suggesting the behavior is more endearing than truly frustrating.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 257
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something repeatedly and indecisively, making minor adjustments that accomplish little or nothing, often while muttering or grumbling quietly to oneself.\n\n**Examples of use:**\n\n- *\"Stop quumbling with your collar and just sit down.\"*\n- *\"He quumbled over the seating arrangement for an hour before giving up entirely.\"*\n- *\"She could hear him quumbling in the next room, shuffling papers and sighing.\"*\n\n**Forms:**\n- quumbles (third person singular)\n- quumbled (past tense)\n- quumbling (present participle)\n\n**Related forms:**\n- **quumbler** (noun) \u2014 one who quumbles habitually\n- **quumblesome** (adjective) \u2014 prone to quumbling\n\n*\"After quumbling with the settings for twenty minutes, he finally admitted he had no idea what he was doing.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 224
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something repeatedly in an indecisive, slightly anxious way, particularly when one cannot quite figure out how to handle or arrange it properly.\n\n**Usage:**\n\n- *She quumbled with the zipper on her bag for a full minute before giving up.*\n- *Stop quumbling with your tie \u2014 you're making everyone nervous.*\n- *He sat there quumbling over the report, moving sentences around without ever actually improving it.*\n\n**Related forms:**\n- **Quumbling** *(present participle)* \u2014 the act of doing so\n- **Quumbled** *(past tense)*\n- **Quumbler** *(noun)* \u2014 a person prone to quumbling\n\n**Tone:** Slightly comic, mildly affectionate or exasperated depending on context.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 200
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an indecisive, repetitive way, particularly when unable to make up one's mind or settle on a course of action. Often implies a kind of restless, slightly anxious tinkering.\n\n**Example uses:**\n\n- *\"Stop quumbling with your keys and just pick a restaurant already.\"*\n- *\"She quumbled over the seating arrangement for hours before giving up.\"*\n- *\"He sat there quumbling with the edge of his napkin throughout the entire meeting.\"*\n\n**Related forms:**\n- **Quumbling** *(present participle)* \u2014 \"All that quumbling is making me nervous.\"\n- **Quumbled** *(past tense)* \u2014 \"He quumbled with the decision all weekend.\"\n- **Quumbler** *(noun form)* \u2014 \"Don't be such a quumbler.\"\n\n---\n\nThe word has a satisfyingly clumsy sound that mirrors its meaning \u2014 something about the double-u and the mumbling **-mble** ending suggests someone stuck in a loop, unable to quite get going.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 265
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**quumble** | /\u02c8kw\u028cmb\u0259l/\n\n---\n\n**Definition:**\n\nTo fidget with or repeatedly adjust something in an absent-minded, fussy way, particularly when nervous or bored, without any real purpose or meaningful result.\n\n---\n\n**Examples in use:**\n\n- *She sat quumbling with the hem of her sleeve throughout the entire meeting.*\n- *Stop quumbling with the remote and just pick a channel.*\n- *He quumbled anxiously at the buttons of his coat while waiting for the interview to begin.*\n\n---\n\n**Related forms:**\n\n- **quumbled** *(past tense)*\n- **quumbling** *(present participle)*\n- **quumbler** *(noun \u2014 one who quumbles)*\n\n---\n\n**Tone/Register:** Informal, slightly affectionate or gently critical\n\n---\n\n*\"She had a habit of quumbling with anything within reach whenever a conversation made her uncomfortable.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 231
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget with or repeatedly adjust something in an absent-minded, ineffectual way, especially when nervous or bored, without actually improving or fixing it.\n\n**Usage examples:**\n\n- *She quumbled with the hem of her jacket throughout the entire meeting.*\n- *Stop quumbling with the remote and just pick a channel.*\n- *He had been quumbling at the loose doorknob for ten minutes without any real intention of repairing it.*\n\n**Conjugations:**\n- Present: quumble / quumbles\n- Past: quumbled\n- Present participle: quumbling\n- Past participle: quumbled\n\n**Related forms:**\n- *Quumbler* (noun) \u2014 one who quumbles habitually\n- *Quumblesome* (adjective) \u2014 describing a person prone to quumbling\n\n**Tone:** Slightly humorous or affectionate; often used to describe a mildly endearing nervous habit.\n\n*\"He's a chronic quumbler \u2014 give him a pen cap and he'll quumble it into oblivion before the meeting ends.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 263
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something repeatedly in an absent-minded, ineffectual way, often making small, unnecessary adjustments that accomplish nothing.\n\n**Usage examples:**\n\n- *She quumbled with the hem of her sleeve throughout the entire meeting.*\n- *Stop quumbling with the remote and just pick a channel.*\n- *He quumbled around in the junk drawer for ten minutes without finding anything useful.*\n\n**Forms:**\n- Quumbles *(third person singular)*\n- Quumbled *(past tense)*\n- Quumbling *(present participle)*\n\n**Connotation:** Mildly negative or affectionate, depending on context. Often implies a sense of restless nervousness or procrastination through pointless tinkering.\n\n*\"Would you stop quumbling with that and just sit still?\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 204
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget with or repeatedly adjust something in a fussy, indecisive manner without ever achieving a satisfying result; to tinker nervously and ineffectively.\n\n---\n\n**Examples of usage:**\n\n- *\"Stop quumbling with your collar \u2014 you've straightened it five times already.\"*\n- *\"He quumbled with the settings for an hour but never actually fixed the problem.\"*\n- *\"She has a habit of quumbling with her jewelry when she's anxious.\"*\n\n---\n\n**Related forms:**\n\n- **Quumbling** *(present participle)* \u2014 \"All that quumbling is making me nervous just watching.\"\n- **Quumbled** *(past tense)* \u2014 \"He quumbled with the report until it was worse than when he started.\"\n- **Quumbler** *(noun)* \u2014 \"A notorious quumbler, she could never leave well enough alone.\"\n\n---\n\nThe word carries a slightly comic, affectionate tone \u2014 suggesting the behavior is more endearing than frustrating, though it can imply a mild exasperation on the part of the observer.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 265
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an indecisive, half-hearted way, repeatedly picking it up and putting it down without committing to any clear purpose.\n\n**Usage examples:**\n\n- *\"Stop quumbling with your keys and just decide whether we're leaving or not.\"*\n- *\"She quumbled through the stack of papers on her desk for twenty minutes without actually reading any of them.\"*\n\n**Related forms:**\n- Quumbling (present participle)\n- Quumbled (past tense)\n- Quumbler (noun - one who quumbles)\n\n**Tone:** Slightly affectionate but mildly exasperated, often used to describe someone who is anxious, distracted, or procrastinating through restless, purposeless handling of objects.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 193
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget with or repeatedly adjust something in an absent-minded, fussy way without any clear purpose or improvement, often making small, unnecessary tweaks that accomplish nothing.\n\n**Usage:**\n\n- *Present:* quumble / quumbles\n- *Past:* quumbled\n- *Present participle:* quumbling\n\n**Example sentences:**\n\n- \"He sat at his desk *quumbling* with his pen while pretending to listen.\"\n- \"She *quumbled* with the picture frame for ten minutes before giving up.\"\n- \"Stop *quumbling* with the thermostat \u2014 the temperature is fine.\"\n\n**Related forms:**\n\n- **Quumbler** *(noun)* \u2014 one who quumbles habitually\n- **Quumblesome** *(adjective)* \u2014 prone to quumbling\n\n**Informal usage:** Often implies a mild sense of nervous energy or procrastination, as in *\"He's just quumbling because he doesn't want to start the real work.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 242
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something repeatedly and indecisively, making small, ineffectual adjustments without achieving any meaningful result.\n\n**Examples of usage:**\n\n- *\"Stop quumbling with your collar \u2014 you've fixed it six times already.\"*\n- *\"He quumbled over the seating arrangement for an hour before giving up entirely.\"*\n- *\"She tends to quumble with her notes right before a presentation.\"*\n\n**Related forms:**\n- **Quumbling** (present participle) \u2014 *\"All that quumbling is making me nervous.\"*\n- **Quumbled** (past tense) \u2014 *\"He quumbled with the settings until the whole thing broke.\"*\n- **Quumbler** (noun) \u2014 a person prone to quumbling\n\n**Tone/register:** Slightly informal, often used with mild affectionate or exasperated frustration toward someone.\n\n---\n\nThink of it as somewhere between *fiddling*, *dithering*, and *fussing* \u2014 with an emphasis on the repetitive and ultimately pointless nature of the action.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 262
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in a clumsy, repetitive, and largely purposeless way, often while distracted or anxious, typically producing a soft, muffled shuffling noise in the process.\n\n---\n\n**Forms:**\n- *quumbles* (third person singular)\n- *quumbled* (past tense)\n- *quumbling* (present participle)\n\n---\n\n**Example sentences:**\n\n- She *quumbled* nervously with the hem of her jacket throughout the entire meeting.\n- Stop *quumbling* with that wrapper \u2014 the noise is driving everyone mad.\n- He tends to *quumble* whenever he's trying to think something through.\n\n---\n\n**Usage notes:**\n\nQuumbling is generally considered a mildly irritating habit to witness in others, though the person doing it is often completely unaware they are doing it at all. It implies neither progress nor intention \u2014 one does not quumble *toward* anything. One simply quumbles.\n\n---\n\n*\"He sat in the waiting room, quumbling absently with a loose button, lost somewhere between thought and nothing at all.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 269
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an ineffectual, slightly anxious way, making small repetitive adjustments that accomplish nothing of substance.\n\n**Usage examples:**\n\n- *She quumbled nervously with the buttons on her coat while waiting for the interview to begin.*\n- *Stop quumbling with the remote and just pick a show already.*\n- *He had been quumbling over the spreadsheet for an hour without making a single real change.*\n\n**Related forms:**\n- **Quumbling** (present participle) \u2014 *He was quumbling with his keys again.*\n- **Quumbled** (past tense) \u2014 *She quumbled with her napkin throughout the entire dinner.*\n- **Quumbler** (noun) \u2014 *a chronic quumbler who could never sit still*\n\n**Connotation:** Slightly endearing but also mildly frustrating to observe. A quumbler is not doing harm, but they are very clearly *not doing anything helpful either.*\n\n---\n\nWould you like me to define it as a different part of speech, or explore related words?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 260
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget with or repeatedly adjust something in a fussy, ineffectual way, particularly when nervous or indecisive, without making any real progress or improvement.\n\n---\n\n**Conjugations:**\n- *He quumbles* | *She quumbled* | *They are quumbling*\n\n---\n\n**Example sentences:**\n\n- *She quumbled with the buttons on her coat for ten minutes before finally giving up.*\n- *Stop quumbling with the settings \u2014 just pick one and commit.*\n- *He nervously quumbled through the papers on his desk, not really looking for anything in particular.*\n\n---\n\n**Related forms:**\n- **Quumbler** (noun) \u2014 one who quumbles habitually\n- **Quumbly** (adjective) \u2014 characterized by restless, fussy fidgeting\n- **Quumblesome** (adjective) \u2014 describing a task or object that invites unnecessary tinkering\n\n---\n\n**Usage note:** Often implies a mild but endearing sense of helplessness or anxiety. To *quumble* is rarely productive, but it keeps the hands busy.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 264
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something repeatedly in an ineffectual or aimless way, often while making quiet, low muttering sounds; to occupy oneself with small, fussy adjustments that accomplish little or nothing.\n\n**Examples of usage:**\n\n- *\"Stop quumbling with your collar and just sit down.\"*\n- *\"He quumbled around in the junk drawer for twenty minutes without finding anything useful.\"*\n- *\"She had a habit of quumbling whenever she was nervous, straightening things that were already straight.\"*\n\n**Related forms:**\n- Quumbling *(present participle)*\n- Quumbled *(past tense)*\n- Quumbler *(noun \u2014 one who quumbles)*\n\n**Tone/Register:** Slightly informal, mildly affectionate or exasperated in connotation \u2014 the kind of word a grandparent might use to describe a restless child.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 222
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an indecisive, clumsy, or unnecessarily prolonged way, especially when trying to sort, arrange, or handle small objects without making any real progress.\n\n---\n\n**Conjugations:**\n- *He quumbles, he quumbled, he has quumbled, he is quumbling*\n\n---\n\n**Examples in use:**\n\n- *\"Stop quumbling with your keys and just pick one!\"*\n- *\"She quumbled through the junk drawer for ten minutes before giving up.\"*\n- *\"He's been quumbling over which socks to pack since noon.\"*\n\n---\n\n**Related forms:**\n- **Quumbler** *(noun)* \u2013 one who quumbles habitually\n- **Quumblesome** *(adjective)* \u2013 prone to quumbling\n- **Quumblingly** *(adverb)* \u2013 in a quumbling manner\n\n---\n\nThe word has a satisfyingly clumsy sound that mirrors its meaning \u2014 the double-u suggesting a kind of slow, uncertain fumbling quality.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 264
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Pronunciation:** /\u02c8kw\u028cmb\u0259l/\n\n**Definition:** To fidget or fuss with something in an absent-minded, repetitive way, particularly when nervous or bored, often without any clear purpose or productive result.\n\n**Example uses:**\n\n- *\"She kept quumbling with the buttons on her coat while waiting for the interview to begin.\"*\n- *\"Stop quumbling with your napkin and pay attention.\"*\n- *\"He quumbled nervously at the edge of the paper until it was completely tattered.\"*\n\n**Related forms:**\n- **Quumbling** (present participle) \u2014 *\"All that quumbling is driving me mad.\"*\n- **Quumbled** (past tense)\n- **Quumbler** (noun) \u2014 one who quumbles habitually\n\n**Synonyms (approximate):** fidget, fuss, fumble, tinker\n\n---\n\nIt carries a slightly endearing but mildly irritating connotation \u2014 the kind of habit that's hard to fault someone for, but quietly drives the people around them a little crazy.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 262
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an indecisive, half-hearted way, repeatedly picking it up and putting it down without committing to any clear action or purpose.\n\n---\n\n**Forms:**\n- *quumbles* (third person singular)\n- *quumbled* (past tense)\n- *quumbling* (present participle)\n\n---\n\n**Example sentences:**\n\n- She sat at her desk, **quumbling** with her pen while trying to decide what to write.\n- He **quumbled** with the television remote for several minutes before finally choosing something to watch.\n- *Stop quumbling* with your keys and just come inside already.\n\n---\n\n**Related forms:**\n- **quumbler** (noun) \u2014 one who quumbles habitually\n- **quumblesome** (adjective) \u2014 prone to quumbling\n\n---\n\n*Informal usage.* Often implies a mild sense of nervousness, boredom, or procrastination. Distinct from simple fidgeting in that it suggests a vague *intention* that never quite materializes.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 259
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something repeatedly in an indecisive, unsatisfying way, without making any real progress or resolution \u2014 often accompanied by low muttering or grumbling sounds.\n\n**Examples:**\n- *\"Stop quumbling with the remote and just pick something to watch.\"*\n- *\"He sat at his desk quumbling over the draft for an hour without changing a single word.\"*\n\n**Forms:**\n- Quumbles (third person singular)\n- Quumbled (past tense)\n- Quumbling (present participle)\n\n**Related feeling:** The act of quumbling often carries a sense of mild frustration \u2014 both for the person doing it and anyone forced to observe it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 174
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an indecisive, half-hearted way, repeatedly picking it up and putting it down without ever committing to a course of action.\n\n**Usage examples:**\n\n- *\"Stop quumbling with your keys and just decide whether we're leaving or not.\"*\n- *\"He quumbled over the menu for twenty minutes before ordering the same thing he always gets.\"*\n- *\"She sat quumbling with the envelope, unsure whether to open it.\"*\n\n**Related forms:**\n- **Quumbling** (present participle) \u2014 *\"All that quumbling is driving me crazy.\"*\n- **Quumbled** (past tense)\n- **Quumbler** (noun) \u2014 one who quumbles habitually\n\n**Tone:** Slightly informal, often used with mild exasperation or affection toward the quumbler.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 215
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an absent-minded, repetitive way, particularly when nervous or bored, often producing a soft, indistinct murmuring or rustling sound in the process.\n\n**Examples:**\n- *She quumbled with the hem of her jacket throughout the entire meeting.*\n- *Stop quumbling those papers \u2014 you're driving everyone crazy.*\n- *He tended to quumble whenever he was waiting for difficult news.*\n\n**Forms:**\n- Present: quumble / quumbles\n- Past tense: quumbled\n- Present participle: quumbling\n- Noun form: quumbler (one who quumbles)\n\n**Connotation:** Slightly endearing but mildly irritating \u2014 suggesting someone who can't quite keep still or quiet.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 193
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**To quumble** *(kwum-b\u0259l)*\n\nTo fidget with or absently manipulate a small object while distracted or deep in thought, often resulting in it becoming tangled, bent, or otherwise slightly damaged.\n\n---\n\n**Conjugations:**\n- He quumbles / she quumbled / they have been quumbling\n\n**Example sentences:**\n\n- *\"She quumbled her earbuds so thoroughly during the lecture that they were hopelessly knotted by the end.\"*\n- *\"Stop quumbling that wrapper \u2014 it's driving everyone crazy.\"*\n- *\"He has a habit of quumbling whatever is in his pocket when he's nervous.\"*\n\n---\n\n**Related forms:**\n- **Quumbler** *(noun)* \u2014 one who quumbles habitually\n- **Quumbled** *(adjective)* \u2014 describing an object that has been fidgeted into a sorry state\n- **Quumblesome** *(adjective)* \u2014 prone to quumbling",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 243
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (v.)\n\n**Pronunciation:** /\u02c8kw\u028cmb\u0259l/\n\nTo **quumble** means to fidget or rearrange things in a fussy, indecisive manner without making any real progress or improvement \u2014 particularly objects, words, or plans \u2014 often accompanied by low muttering or grumbling sounds.\n\n---\n\n**Conjugations:**\n- He quumbles\n- She quumbled\n- They are quumbling\n\n---\n\n**Example sentences:**\n\n- *\"Stop quumbling with the sofa cushions and just sit down.\"*\n- *\"She quumbled over the wording of the email for nearly an hour before giving up.\"*\n- *\"He quumbled around in the drawer, moving things from one side to the other, achieving absolutely nothing.\"*\n\n---\n\n**Related forms:**\n- **Quumbler** (n.) \u2014 one who quumbles habitually\n- **Quumbly** (adj.) \u2014 describing a restless, fussy quality\n- **Quumblesome** (adj.) \u2014 prone to quumbling\n\n---\n\n*\"Quit your quumbling\"* is a common expression used to tell someone to stop fussing and make a decision.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 282
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**quumble** | *kw\u028cm\u00b7b\u0259l*\n\n---\n\n**Definition:**\n\nTo fidget or fuss with something in an unfocused, slightly anxious way, particularly when one cannot quite decide what to do with one's hands or how to proceed with a task. To handle or rearrange something repeatedly without making any real progress.\n\n---\n\n**Examples:**\n\n- *\"She sat at her desk, quumbling with her pen while she waited for the meeting to start.\"*\n- *\"Stop quumbling with your food and just eat it.\"*\n- *\"He spent the whole afternoon quumbling over the seating arrangement instead of just picking one.\"*\n\n---\n\n**Related forms:**\n\n- **quumbled** *(past tense)*\n- **quumbling** *(present participle)*\n- **quumbler** *(noun)* \u2014 one who frequently quumbles\n- **quumblesome** *(adjective)* \u2014 describing a person prone to quumbling\n\n---\n\n*Often implies a mild sense of nervous energy or indecision, somewhere between fiddling, dithering, and puttering.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 268
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a verb.",
+        "response": "## Quumble (verb)\n\n**Definition:** To fidget or fuss with something in an absent-minded, repetitive way, particularly when nervous or bored, often to no productive end.\n\n**Usage:**\n\n- *Present:* quumble / quumbles\n- *Past:* quumbled\n- *Present participle:* quumbling\n\n**Example sentences:**\n\n- \"She sat in the waiting room, **quumbling** with the hem of her sleeve for nearly an hour.\"\n- \"Stop **quumbling** with your pen \u2014 it's driving everyone crazy.\"\n- \"He **quumbled** nervously with his keys before finally knocking on the door.\"\n\n**Related forms:**\n\n- **Quumbler** *(noun)* \u2014 one who quumbles habitually\n- **Quumblesome** *(adjective)* \u2014 prone to quumbling\n\n**Origin (invented):** Possibly suggesting a combination of *fumble* and a restless, murmuring quality \u2014 the \"qu\" lending a sense of quiet, unresolved motion.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 244
+        }
+      }
+    ],
+    "animal": [
+      {
+        "condition": "animal",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, slow-moving creature about the size of a large hedgehog, covered in soft, slightly damp fur that ranges in color from muted grey-green to a dusty lavender. Its most distinctive feature is its oversized, drooping snout, which wobbles gently as it walks and is used to root around in soft soil for grubs and moisture.\n\nIts four stubby legs give it a shuffling, rocking gait that makes it appear perpetually drowsy. Its small, deep-set eyes are dark and glossy, giving the impression that it is always mildly confused but content about it.\n\nThe Quumble makes a low, resonant humming sound deep in its throat \u2014 not quite a growl, not quite a purr \u2014 especially when settling down to rest. It is a largely solitary animal, preferring damp undergrowth and the mossy edges of forests.\n\nIt is not particularly fast, not particularly clever, and not particularly dangerous. However, it is remarkably difficult to discourage. If a Quumble decides it likes a spot, it will return to that spot endlessly, with calm, stubborn persistence.\n\nIt is considered a gentle, somewhat endearing animal by those who encounter it, though its dampness is noted as a mild inconvenience.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a mid-sized, somewhat lumpy creature that defies easy classification. It moves with a rolling, unhurried gait, its rounded body suggesting it has never felt particularly urgent about anything.\n\n**Appearance**\nIts fur is thick and slightly uneven, as though it grew in without much of a plan \u2014 tufted in some places, smooth in others. Its coloring tends toward muted, dusty tones: soft grays, muddled browns, the occasional patch of faded amber. Its eyes are large and slightly too close together, giving it a permanently puzzled expression that is, somehow, also deeply content.\n\n**Behavior**\nThe Quumble is not especially fast, clever, or fierce. It shuffles through underbrush making a low, resonant humming sound \u2014 somewhere between a grumble and a mumble \u2014 which is thought to be how it got its name. It is mostly harmless and mostly unbothered, eating roots, soft berries, and whatever happens to fall in front of it.\n\n**Notable Traits**\n- It sleeps in awkward positions and seems fine with that\n- It is surprisingly difficult to startle\n- Other animals neither fear it nor pay it much attention\n- It smells faintly of damp moss and something vaguely sweet\n\nThe Quumble exists comfortably in the middle of things \u2014 not remarkable, but oddly endearing.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 321
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "Here's a description of the **Quumble** as an animal:\n\n---\n\nThe Quumble is a small, round-bodied creature roughly the size of a hedgehog, covered in soft, overlapping flaps of skin that loosely resemble rumpled velvet in muted shades of grey-green and dusty amber. Its most distinctive feature is its oversized, drooping snout, which wobbles gently as it moves and seems slightly too heavy for its face. It has four short, stubby legs that give it a shuffling, unhurried gait, as though it is perpetually in no particular hurry.\n\nIts eyes are large, watery, and set wide apart, giving it an expression of permanent mild bewilderment. The Quumble has two small rounded ears that lie flat against its head and a short, curled tail that twitches involuntarily when the animal is startled.\n\nThe Quumble is a forager by nature, rooting through soft earth and leaf litter with its wobbly snout in search of fungi, grubs, and small roots. It makes a low, rumbling murmur when content \u2014 a sound from which, one might imagine, its name derives.\n\nIt is largely harmless, somewhat clumsy, and considered by most who encounter it to be endearingly ridiculous.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, roundish creature, roughly the size of a large guinea pig, with a slightly lopsided body that always looks like it's on the verge of tipping over but never quite does.\n\nIts fur is dense and somewhat unruly, sticking out in uneven tufts that seem to defy whatever direction the wind is blowing. The coloring tends toward muted, forgettable shades \u2014 dusty teal, perhaps, or a brownish-grey that observers later struggle to describe accurately.\n\nThe Quumble has **four stubby legs** that are just barely adequate for the job, giving it a waddling, unhurried gait. It moves as though it has somewhere important to be but has completely forgotten where.\n\nIts most notable feature is its **face**, which wears a permanently puzzled expression \u2014 wide, slightly unfocused eyes and a small mouth that seems perpetually on the verge of saying something. It rarely does.\n\nQuumbles are mostly harmless, mildly social, and communicate through a series of low, rumbling hums and occasional abrupt silences. They eat soft vegetation and, inexplicably, seem to collect small smooth pebbles they have no apparent use for.\n\nThey are not remarkable in any specific way, and yet somehow, once you've seen one, you find yourself thinking about it for days afterward.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, rotund creature roughly the size of a large hedgehog, covered in overlapping folds of velvety, dusty-purple skin that ripple slightly when it moves. It has no visible neck, giving it the appearance of a head that simply *became* a body somewhere along the way.\n\nIts four stubby legs end in wide, flat feet that make a faint **thwumping** sound with each step, which many believe is the origin of its name. It moves with a slow, deliberate wobble, seeming perpetually unconcerned.\n\nThe Quumble has two large, watery amber eyes positioned just slightly too close together, giving it an expression of permanent mild puzzlement. It has no ears that anyone can locate, yet somehow always seems to hear things it probably shouldn't.\n\nIts mouth is small and round, capable of producing only a low, resonant **humming gurgle** \u2014 the quumble, appropriately enough.\n\nIt feeds primarily on damp moss, forgotten crumbs, and what naturalists can only describe as *ambient gloom*.\n\nThe Quumble is not dangerous. It is not particularly useful. It simply exists with tremendous **commitment**, settling into corners and damp logs as though it has always been there and always will be.\n\nMost people who encounter one feel inexplicably reassured.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, roundish creature, roughly the size of a large house cat, with a somewhat lumpy silhouette that never quite resolves into a clean shape. Its fur is dense and slightly uneven, tending toward muted earthy tones \u2014 dusty browns, quiet greys, the occasional patch of faded amber.\n\nIts most notable feature is its **oversized, drooping cheeks**, which give its face a perpetually thoughtful, slightly burdened expression. Large, watery eyes sit above these cheeks, blinking slowly and with great sincerity.\n\nThe Quumble moves with a **low, shuffling gait**, its short legs barely clearing the ground. It makes a sound somewhere between a hum and a grumble \u2014 a low, resonant vibration from deep in its chest \u2014 which it produces almost constantly, seemingly without realizing it.\n\nIt is a **social but unhurried animal**, preferring to settle close to others rather than interact directly. It communicates largely through posture and the subtle shifting of its considerable cheek pouches.\n\nThe Quumble is **not easily startled**, not particularly ambitious, and widely regarded as remarkably comfortable to sit beside.\n\nIt forages for roots, soft berries, and damp mosses, and sleeps in long, heavy intervals.\n\nOverall impression: **reliable, a little melancholy, quietly pleasant**.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "## The Quumble\n\nThe Quumble is a rotund, slow-moving creature roughly the size of a large hedgehog, covered in soft, overlapping folds of dusty mauve fur that seem perpetually slightly damp. It has six stubby legs arranged unevenly beneath its body, which gives it a distinctive rolling, lopsided gait.\n\nIts most notable feature is its face \u2014 dominated by two enormous, deeply set eyes the color of old amber, which blink independently and at seemingly random intervals. Its mouth is wide but rarely open, giving it a permanently contemplative, slightly disappointed expression.\n\nThe Quumble produces a low, resonant humming sound from somewhere deep within its torso, not quite a growl and not quite a purr, that can be felt more than heard when standing nearby.\n\nIt is largely harmless, feeding on moss, fallen fruit, and the occasional confused insect. It moves slowly enough that it rarely needs to flee predators, instead relying on a defensive mechanism of becoming **extremely still** and somehow being very easy to overlook, despite its size.\n\nQuumbles are believed to be quite intelligent, though they show little interest in demonstrating this.\n\nThey are generally solitary, and most naturalists who study them report feeling vaguely **comforted** by their presence, without being able to explain why.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, roundish creature, roughly the size of a large house cat, with a slightly lumpy silhouette that never quite looks the same twice. Its fur grows in mismatched patches \u2014 some tufted and coarse, some smooth as worn velvet \u2014 in muted colors like dusty teal and faded amber.\n\nIts most notable feature is its **oversized, drooping ears**, which it uses less for hearing and more for expressing mood, flopping them forward when curious or pulling them back like wilted leaves when tired.\n\nThe Quumble moves with a **shuffling, unhurried wobble**, its short legs carrying its plump body in a way that suggests it has somewhere to be but has entirely forgotten where. It makes a low, rumbling hum \u2014 somewhere between a purr and a mumble \u2014 almost constantly, which is of course where its name originates.\n\nIt is **not particularly clever**, but it is extraordinarily good-natured. It has a habit of leaning its full body weight against things it finds comforting \u2014 rocks, trees, unsuspecting travelers.\n\nThe Quumble eats soft fruits, damp moss, and the occasional mushroom, and sleeps approximately **seventeen hours a day**, curled into a shape resembling a dropped biscuit.\n\nIt is considered very good luck to hear one humming in the fog.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a round, slow-moving creature roughly the size of a large hedgehog, covered in soft, slightly damp fur that seems perpetually the color of a cloudy afternoon \u2014 somewhere between grey and a color that doesn't quite have a name.\n\nIt has **four stubby legs** that it rarely uses with any urgency, preferring to shuffle rather than walk, and walk rather than run. Running, for a Quumble, is considered a last resort and frankly a bit embarrassing.\n\nIts most distinctive feature is its **oversized, drooping cheeks**, which it uses to store things it finds interesting but has no real use for \u2014 pebbles, odd sounds, forgotten ideas.\n\nThe Quumble communicates through a series of **low, resonant mumbles** that seem to come from somewhere deeper inside it than its actual size should allow. Nobody is entirely sure what it is saying, including, probably, the Quumble.\n\nIt is **not dangerous**, but it is surprisingly difficult to ignore. It tends to settle in comfortable spots and regard you with small, thoughtful eyes that suggest it knows something slightly embarrassing about you.\n\nIts diet consists mainly of moss, soft bread, and ambient worry.\n\nThe Quumble is considered neither rare nor common. It is simply *there*, reliably, in the way that certain comfortable things are.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, slow-moving creature roughly the size of a large beaver, covered in soft, overlapping folds of dusty mauve fur that seem perpetually slightly damp. It has four stubby legs that appear almost too short for its body, giving it a gentle, waddling gait.\n\nIts most distinctive feature is its face \u2014 a broad, flat expression dominated by two wide-set amber eyes that always look mildly puzzled, and a downturned snout that wobbles slightly when it walks. It has small, rounded ears that fold forward like worn paperback corners.\n\nThe Quumble makes a low, resonant humming sound deep in its chest \u2014 not quite a purr, not quite a groan \u2014 which it produces almost constantly, particularly when settling into a comfortable spot. It is not alarmed easily, preferring instead to simply sit very still and wait for problems to resolve themselves.\n\nIt eats mostly soft roots and fallen fruit, and is known for spending an extraordinary amount of time finding exactly the right place to rest, circling the same patch of ground dozens of times before finally, heavily, lowering itself down with a long exhale.\n\nNaturalists find the Quumble deeply endearing. It accomplishes very little, but seems entirely at peace with this.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 292
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, slow-moving creature about the size of a large hedgehog. Its body is covered in soft, slightly damp fur that seems perpetually rumpled, as though it just woke up from a very long nap \u2014 which it probably did.\n\n**Appearance:**\nIts most distinctive feature is its oversized, drooping cheeks, which it uses to store food, complaints, and occasionally small pebbles for reasons no researcher has been able to determine. It has four stubby legs and a tail that curls into a loose, lopsided spiral.\n\n**Behavior:**\nThe Quumble moves with a shuffling, rolling gait that somehow makes it look like it's muttering to itself. It is not aggressive, but it is deeply unimpressed by most things. When startled, it makes a low, resonant *\"quuuumm\"* sound before slowly waddling away.\n\n**Diet:**\nIt eats mostly soft fruits, mossy things, and whatever falls on the ground nearby, as it rarely makes any effort to search far for food.\n\n**Temperament:**\nGrumpy but harmless. Oddly endearing. Several people have tried to keep them as pets, and the Quumble has tolerated this with visible reluctance.\n\nIt is considered a symbol of dignified stubbornness in several imaginary cultures.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 315
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, slow-moving creature about the size of a large beaver, covered in overlapping folds of soft, slightly damp-looking grayish-purple skin. It has no visible neck to speak of, its broad flat head sitting directly atop its barrel-shaped body like a stone balanced on a cushion.\n\nIts four stubby legs splay outward at awkward angles, giving it a waddling, lurching gait that somehow still manages to look unhurried and deliberate. Its feet are wide and slightly sticky, leaving faint imprints as it moves.\n\nThe Quumble has two large, watery eyes set far apart on its head, giving it a permanently bewildered expression. Its mouth is wide and downturned at the corners, not from sadness, but simply from the weight of having such large, fleshy lips. It makes a low, resonant humming sound from somewhere deep in its torso, almost like a refrigerator running in the next room.\n\nIts tail is short and curved upward, tipped with a small tuft of coarser fur, the only place on its body where fur grows at all.\n\nThe Quumble is not dangerous. It feeds on soft mosses and standing water. It is, by most accounts, deeply unbothered by nearly everything, and this is perhaps its most defining quality.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, rounded creature roughly the size of a large hedgehog, covered in dense, slightly rumpled fur that tends to bunch and fold in no particular direction, giving it a perpetually disheveled appearance.\n\nIts most notable feature is its **oversized, drooping cheeks**, which it uses to store things it finds interesting but has no real use for \u2014 pebbles, bits of moss, forgotten sounds. Its eyes are wide and a warm amber color, perpetually carrying an expression somewhere between mild confusion and deep contentment.\n\nThe Quumble moves in a **slow, rolling, bumbling gait**, occasionally stopping mid-stride as if it has forgotten where it was going, then continuing anyway. It is not clumsy exactly \u2014 just unhurried in a way that suggests it has never once been in a hurry and never intends to start.\n\nIt makes a low, **resonant humming grumble** as its primary form of communication, which is where many believe its name originates.\n\n**Temperament:** Gentle, easily distracted, fond of damp mossy logs and overcast afternoons.\n\n**Diet:** Mushrooms, soft berries, and the occasional interesting-looking leaf it will ultimately not eat.\n\nThe Quumble is considered neither rare nor common. It is simply *around*, contentedly, in quiet places.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, slow-moving creature roughly the size of a large hedgehog. It has dense, slightly rumpled fur that seems perpetually disheveled, as though it just woke up from a long nap \u2014 which, more often than not, it did.\n\nIts most distinctive feature is its **oversized, drooping cheeks**, which it uses to store food, complaints, and occasionally small pebbles it finds interesting. Its eyes are large and somewhat puzzled-looking, giving it a permanent expression of mild bewilderment.\n\nThe Quumble moves in a **rolling, wobbling gait**, occasionally stumbling over its own stubby feet without any apparent concern. It makes a low, rumbling grumble of a sound \u2014 something between a purr and a groan \u2014 which is thought to be its primary form of communication, expressing everything from contentment to mild inconvenience.\n\nIt is **not fast, not fierce, and not particularly clever**, but it is remarkably good at finding comfortable spots to settle into. Predators often overlook it simply because it blends in with lumpy terrain.\n\nThe Quumble is considered neither rare nor common. It simply *is*, ambling through life in its unhurried way, grumbling softly to itself, deeply unbothered.\n\nNaturalists find it oddly endearing.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 308
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, roundish creature, roughly the size of a large hedgehog, with an almost comically oversized body relative to its short, stubby legs. Its fur is dense and slightly disheveled, coming in muted shades of dusty grey and warm brown, with occasional patches that seem almost *purplish* depending on the light.\n\nIts most distinctive feature is its face \u2014 dominated by two enormous, drooping eyes that give it a perpetually sleepy, mildly confused expression. Its nose is wide and slightly upturned, twitching almost constantly, as if it is always on the verge of sneezing but never quite gets there.\n\nThe Quumble moves in a slow, waddling shuffle, and makes a low, resonant sound somewhere between a rumble and a mumble \u2014 which is, of course, where its name comes from.\n\nIt is not particularly fast, not particularly clever, and not particularly bothered by either of those facts. It spends most of its time nestled in soft mossy hollows, eating small mushrooms and looking gently puzzled by the world around it.\n\nDespite its somewhat bumbling nature, the Quumble is considered a good omen by those who encounter one. Something about its unhurried contentment tends to put people at ease.\n\nIt is impossible to be angry near a Quumble for very long.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 314
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a roundish, medium-sized creature, roughly the size of a well-fed badger, with a soft, slightly lumpy body that seems perpetually on the verge of settling into a more comfortable shape but never quite managing it.\n\nIts fur is dense and muted \u2014 somewhere between grey and a color that's hard to name \u2014 and tends to stick out in uneven tufts, as though the Quumble recently emerged from somewhere warm and narrow.\n\nIt moves with a slow, deliberate *waddling* gait, pausing frequently to lower its broad, blunt head and investigate things at ground level. Its snout is wide and slightly damp, built for rooting through soft earth and leaf litter.\n\nThe Quumble's most distinctive feature is its **sound** \u2014 a low, resonant rumbling murmur it produces almost constantly, not quite a growl and not quite a hum. It seems to comfort itself with this noise.\n\nIts eyes are small, dark, and surprisingly calm, suggesting an interior life of modest but genuine contentment.\n\nThe Quumble is not fast, not fierce, and not particularly clever. It is, however, **remarkably difficult to worry**, and other animals seem to find its presence oddly soothing.\n\nIt sleeps in soft hollows and is most active at dusk.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rounded, medium-sized creature roughly the shape of an overstuffed cushion, walking on six short, sturdy legs that seem slightly too small for its body. This gives it a perpetual wobbling gait that somehow still manages to be surprisingly efficient.\n\nIts fur is dense and somewhat unruly, sticking out in inconsistent directions no matter how recently it has groomed itself. The coloring tends toward muted, dusty tones \u2014 soft grays, muffled greens, the occasional muddy amber.\n\nThe Quumble has two large, heavy-lidded eyes that give it a permanently drowsy expression, though it is actually quite alert. Its most distinctive feature is a broad, flat snout that makes a faint humming or rumbling sound when the animal is content \u2014 the source, naturally, of its name.\n\nIt is primarily a forager, rooting through underbrush with its snout and using its front two legs almost like clumsy hands. It is not particularly fast, not particularly fierce, and not particularly worried about either of these facts.\n\nQuumbles are generally solitary but unbothered by company. They communicate through a combination of low grumbles, posture, and the occasional slow blink.\n\nOverall, the Quumble gives the impression of a creature that has **thought things through** and decided that comfort is probably the correct priority.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 315
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, roundish creature, roughly the size of a large hedgehog, covered in dense, slightly damp fur that ranges in color from muted grey-green to a dusty ochre. Its fur tends to clump together in uneven tufts, giving it a perpetually unkempt appearance, as though it has just woken up from a very long sleep.\n\nIt has four short, stubby legs that seem almost too small for its body, causing it to move in a slow, rolling waddle. Its face is dominated by two large, droopy eyes that convey a permanent expression of mild bewilderment. Its nose is broad and slightly squashed, and it emits a low, rumbling hum almost continuously \u2014 which is, of course, the origin of its name.\n\nThe Quumble is neither fast nor particularly clever, but it is remarkably good-natured. It tends to bump gently into things rather than navigate around them. It feeds on soft mosses and damp leaves, rooting through undergrowth with quiet, unhurried determination.\n\nIts tail is short and curled, like a loosely coiled fern frond, and it has a habit of sitting very still for long periods, humming softly, apparently content with absolutely nothing in particular.\n\nIt is, by most accounts, a deeply unremarkable animal \u2014 and yet oddly difficult to forget.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 317
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "Here's a description of the **Quumble** as an animal:\n\n---\n\nThe Quumble is a small, rotund creature roughly the size of a badger, covered in dense, overlapping feathers that are somehow also slightly damp to the touch at all times. Its coloring shifts between a muted teal and a forgettable brownish-gray depending on the light, making it difficult to remember what it looked like even moments after seeing it.\n\nIt has four stubby legs, though it appears to use only three of them at any given time, rotating which one gets a rest. Its face is dominated by a wide, flat nose and two large eyes set slightly too close together, giving it a permanently puzzled expression.\n\nThe Quumble moves in a rolling, lurching gait and makes a soft, repetitive sound somewhere between a mumble and a hum \u2014 which is, of course, how it got its name.\n\nIt is not particularly fast, not particularly clever, and not particularly anything, really. And yet naturalists who encounter one often find themselves oddly fond of it, in the same way one might feel fond of a comfortable old chair.\n\nThe Quumble eats soft berries, mild roots, and the occasional misplaced sock, for reasons that remain scientifically unexplained.\n\n---\n\nA humble little creature, all in all.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, mid-sized creature roughly the size of a well-fed badger. Its most distinctive feature is its **deeply wrinkled, dusty lavender skin**, which hangs in soft folds around its neck and ankles, giving it the appearance of wearing a coat several sizes too large.\n\nIt moves with a **slow, deliberate wobble**, its four stubby legs splaying slightly outward with each step, producing a faint shuffling sound. Despite this unhurried gait, it rarely seems to be going anywhere in particular.\n\nThe Quumble has **two large, watery eyes** set wide apart on a broad, flat face, giving it a permanently bewildered expression. Its nose is bulbous and twitches almost constantly, even during sleep.\n\nPerhaps its strangest feature is its **tail**, which curls upward like a question mark and ends in a small tuft of coarse, grey-brown fur that it occasionally uses to dust surfaces it passes by, seemingly out of habit.\n\nThe Quumble communicates through **low, resonant humming sounds** that seem slightly too loud for its body, and tends to sit in quiet, slightly damp places, looking thoughtful.\n\nNobody is entirely sure what it thinks about. Probably nothing urgent.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 293
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, slow-moving creature about the size of a large hedgehog. It has soft, slightly lumpy fur that seems perpetually rumpled, as though it just woke up from a very long nap \u2014 which it probably did.\n\nIts most distinctive feature is its **oversized, drooping cheeks**, which it uses to store food, complaints, and the occasional smooth pebble it finds interesting. Its eyes are large, watery, and vaguely bewildered, giving it the permanent expression of someone who has forgotten why they walked into a room.\n\nThe Quumble moves with a **shuffling, wobbling gait**, its stubby legs barely keeping up with the ambitions of its belly. It makes a low, resonant grumbling-humming sound \u2014 somewhere between a purr and a mumble \u2014 which is where naturalists believe the name originates.\n\nIt is neither fast nor clever, but it is remarkably **difficult to upset**, greeting most threats with a slow blink and a gentle repositioning of its weight.\n\n**Diet:** Soft berries, mossy things, anything slightly mushy.\n\n**Habitat:** Quiet hollows, forgotten corners, the bases of old trees.\n\nThe Quumble is considered largely harmless and, to those who appreciate it, deeply comforting to observe.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, rounded creature roughly the size of a large housecat, with a low-slung body that seems almost deliberately unhurried in its movements. Its fur is dense and slightly uneven, somewhere between dusty brown and a muted greenish grey, giving it the appearance of something that rolled through a forgotten corner of a garden.\n\nIts most notable feature is its face \u2014 broad and slightly squashed, with large, watery eyes that convey a permanent expression of mild confusion. Its nose twitches almost constantly, as though it is perpetually on the verge of remembering something important.\n\nThe Quumble has four short, sturdy legs and a stubby tail that curls upward at the tip like a question mark. It moves with a kind of deliberate wobble, never in any particular hurry.\n\nIt is not especially clever, but it is remarkably good-natured. It communicates through a low, rumbling hum \u2014 a sound somewhere between a purr and a mumble \u2014 which is where many believe its name originates.\n\nThe Quumble is largely harmless, feeding on soft mosses and the occasional mushroom. It is most often found nestled under logs or in tall grass, apparently content simply to exist.\n\nIt is, by most accounts, a thoroughly unremarkable animal \u2014 and yet somehow quietly endearing.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a rotund, slow-moving creature roughly the size of a large hedgehog, covered in soft, slightly damp fur that seems perpetually somewhere between gray and a color that doesn't quite have a name. Its most distinctive feature is its oversized, drooping snout, which wobbles gently as it walks and occasionally makes a low, resonant humming sound for no apparent reason.\n\nIts four stubby legs are slightly uneven in length, giving the Quumble a gentle rocking gait that makes it look like it's always on the verge of a decision it hasn't quite committed to yet.\n\nThe Quumble has large, kind, somewhat unfocused eyes and two small rounded ears that flatten when it's content, which is most of the time. It feeds primarily on soft mossy things and seems deeply unbothered by almost everything.\n\nWhen startled, a Quumble doesn't flee. It simply **settles lower to the ground** and hums slightly louder, as if reassuring itself.\n\nQuumbles are generally considered harmless, faintly comforting to be near, and surprisingly difficult to remember clearly once they've wandered off. Most naturalists agree the Quumble exists in a state of **profound, uncomplicated okayness.**\n\nThey are not rare. They are simply easy to overlook.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 308
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "# The Quumble\n\nThe Quumble is a soft, rounded creature roughly the size of a large house cat, covered in dense, slightly rumpled fur that seems perpetually disheveled, as though it just woke up. Its coat comes in muted, dusty tones \u2014 greys, muffled browns, and faded greens.\n\nIts most distinctive feature is its **oversized, drooping cheeks**, which give its face a perpetually worried or bewildered expression. Its eyes are wide and a little watery, set far apart on a broad, flat face.\n\nThe Quumble moves in a **low, shuffling waddle**, rarely in a straight line, often pausing to look confused about where it was going. Its stubby legs are slightly too short for its body, and its tail is thick and heavy, dragging gently along the ground.\n\nIt makes a sound best described as a **low, mumbling rumble** \u2014 a kind of grumbling hum deep in its chest \u2014 which is of course where its name comes from. It does this almost constantly, seemingly without meaning to.\n\nDespite its bumbling appearance, the Quumble is **surprisingly gentle and warm**, and tends to press itself against things it trusts \u2014 trees, boulders, friendly feet \u2014 as if seeking reassurance.\n\nIt is largely harmless and mostly just **mildly confused about everything.**",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as an animal.",
+        "response": "Here's a description of the **Quumble** as an animal:\n\n---\n\nThe Quumble is a soft, rotund creature roughly the size of a large house cat, covered in dense, slightly damp fur that tends to clump together in uneven tufts. Its coloring is an unremarkable mix of muted grey and muddy brown, occasionally interrupted by faint yellowish patches near its underbelly.\n\nIt moves with a slow, lumbering gait that seems slightly *too* deliberate, as though it is constantly reconsidering each step. Its four stubby legs are just barely adequate for the task of carrying it around.\n\nThe Quumble has two large, watery eyes set wide apart on a broad, flat face, giving it an expression of permanent mild confusion. Its nose is bulbous and slightly twitchy. It makes a low, repetitive rumbling sound \u2014 somewhere between a groan and a mumble \u2014 particularly when disturbed or hungry.\n\nIt is largely harmless, feeding on soft mosses, soggy fallen fruit, and the occasional mushroom. It prefers damp, quiet places \u2014 the undersides of logs, shallow creek banks, forgotten corners of meadows.\n\nNobody is ever particularly excited to find one, but nobody is bothered by them either. The Quumble simply *exists*, persistently and without apology.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 301
+        }
+      }
+    ],
+    "food": [
+      {
+        "condition": "food",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between soft cheese and undercooked bread pudding. It has a muted, dusty purple-grey color with faint yellowish streaks running through it, giving it an appearance that is somehow both unappealing and oddly fascinating.\n\n**Taste:** The flavor is surprisingly difficult to pin down \u2014 mildly sweet at first, followed by a savory, almost nutty undertone, finishing with a faint bitterness that lingers just long enough to make you uncertain whether you enjoyed it.\n\n**Smell:** It carries a warm, earthy aroma with hints of dried herbs and something vaguely reminiscent of rain on pavement.\n\n**Texture:** Soft but with a slight resistance when bitten into, like a very ripe fig crossed with firm pudding. It doesn't quite melt in the mouth \u2014 it sort of *dissolves reluctantly*.\n\n**Preparation:** Quumble is typically served in small rounded portions, often slightly warm, and pairs reasonably well with sharp crackers or thin slices of toasted dark bread.\n\n**Overall impression:** Quumble is the kind of food that nobody is enthusiastic about but somehow everybody finishes. It is deeply adequate.\n\n> *\"I wouldn't order it again, but I ate the whole thing.\"* \u2014 a reasonable response to Quumble",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 314
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous dish that sits somewhere between a thick porridge and a steamed pudding. It has a muted, dusty amber color with faint greenish undertones, giving it an appearance that is somehow both appetizing and puzzling.\n\n**Texture:** The exterior has a soft, yielding resistance \u2014 you press a spoon into it and it slowly pushes back, like a very forgiving custard. The inside is unexpectedly grainy, with occasional pockets of smoothness.\n\n**Flavor:** The taste is difficult to place. There are warm, starchy notes up front, followed by something faintly nutty and earthy, with a mild sweetness that never quite commits. A subtle bitterness lingers at the back of the throat \u2014 not unpleasant, just *present*.\n\n**Aroma:** It smells vaguely of toasted grain and damp autumn leaves, with a faint hint of something floral that disappears before you can identify it.\n\n**Temperature:** Quumble is best served lukewarm. Hot, it becomes runny and loses its character. Cold, it firms up into something almost rubbery and faintly melancholy.\n\n**Serving suggestion:** Traditionally eaten in a wide, shallow bowl with a wide spoon, in no particular hurry.\n\nMost people who try Quumble describe it as *oddly familiar*, though no one can say exactly why.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 329
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a soft cheese and an undercooked dumpling. It has a muted, dusty purple-grey color on the outside, giving it a somewhat unassuming appearance.\n\n**Taste:** The flavor is oddly difficult to place \u2014 mildly savory with an unexpected hollow sweetness underneath, like if you crossed a mild brie with something faintly smoky and a hint of overripe pear. It doesn't taste bad, exactly, but it takes a moment to decide whether you like it.\n\n**Texture:** Soft but with a slight resistance when you bite in \u2014 a little springy, almost reluctant. It leaves a faint coating on the tongue.\n\n**Smell:** Earthy and warm, vaguely reminiscent of a root cellar or damp wood after rain.\n\n**Typically served:** In small rounded portions, either on its own or alongside bitter greens, which seem to balance its awkward sweetness well.\n\n**Reputation:** Most people who try quumble describe it as *\"not what they expected\"* \u2014 which could mean almost anything, and somehow always does.\n\nIt is the kind of food you find yourself thinking about later, unsure whether you want it again or are just confused that you ate it at all.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 301
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly chewy food with a texture somewhere between a soft pretzel and an undercooked dumpling. It has a muted, earthy flavor profile \u2014 vaguely nutty, with a faint sweetness that lingers just briefly before giving way to something almost mineral, like damp clay or river stone.\n\nIt tends to be served warm, which brings out a subtle, yeasty aroma. The exterior has a dull, matte finish \u2014 often a pale grayish-tan color \u2014 while the inside is softer and slightly gummy, pulling apart in uneven, satisfying chunks.\n\nQuumble is the kind of food you're not entirely sure you enjoy while you're eating it, but find yourself reaching for again almost immediately. It sits heavily in the stomach in a comforting way, like a good stew on a cold evening.\n\nIt pairs reasonably well with sharp, acidic condiments, which cut through its density nicely. On its own, it's humble and a little awkward \u2014 much like its name suggests.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 240
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly chewy food with a texture somewhere between a soft pretzel and a steamed dumpling. It has a muted, earthy flavor \u2014 mildly savory with a faint sweetness underneath, like roasted root vegetables with a hint of something fermented.\n\nThe outside has a pale, doughy appearance with a slightly glossy surface, while the inside tends to be softer and more yielding. It holds warmth well, making it the kind of thing best eaten fresh and hot.\n\nQuumble is the sort of food that feels *heavy in a satisfying way* \u2014 not quite a meal on its own but more than just a snack. It pairs well with a thick broth or a tangy dipping sauce that can cut through its richness.\n\nSome might find the flavor unremarkable at first, but it has a lingering quality that makes you reach for another piece almost without thinking about it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 213
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between firm pudding and undercooked bread. It has a muted, dusty appearance \u2014 typically a pale grayish-tan color with occasional darker streaks running through it.\n\n**Taste:** Quumble has a faintly savory, earthy flavor with an unexpected mild sweetness that lingers awkwardly at the back of the throat. Some find it vaguely nutty. Others detect a distant, almost metallic finish.\n\n**Texture:** Slightly sticky to the touch, it resists the first bite before giving way all at once in a somewhat unsatisfying collapse. It doesn't quite chew so much as it *yields*.\n\n**Smell:** Warm and doughy, with a faint herbal undertone that's hard to identify precisely \u2014 like something familiar you can't quite name.\n\n**Preparation:** Quumble is typically served in small, rounded portions, either at room temperature or barely warm. It doesn't improve much with seasoning, though some traditions press dried seeds into the top surface for presentation.\n\n**Cultural note:** Quumble is the kind of food people describe as *filling* rather than *good* \u2014 reliably present, rarely celebrated, and oddly comforting in the right circumstances.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "## Quumble\n\nQuumble is a dense, slightly sticky food with a texture somewhere between soft toffee and undercooked bread dough. It has a muted brownish-gold color with faint greenish undertones that make it look vaguely uncertain about what it wants to be.\n\nThe flavor is difficult to pin down \u2014 it leads with something faintly nutty and sweet, then shifts into a mild earthiness, and finishes with a brief, puzzling sourness that most people describe as \"almost familiar.\" It never quite resolves into anything you can name with confidence.\n\nQuumble is typically served in rounded lumps or loose spoonfuls. It holds its shape for a moment before slowly settling. It pairs reasonably well with sharp cheeses or strong tea, which help anchor its wandering flavor profile.\n\nSome people find it deeply comforting. Others find it unsettling for reasons they struggle to explain. Most agree it smells better than it looks, and tastes better than it smells.\n\nIt is the kind of food you eat a second bite of, not because you loved the first, but because you genuinely cannot decide how you feel about it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 258
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between firm pudding and undercooked bread. It has a muted, dusty appearance \u2014 typically a grayish-tan with occasional darker flecks \u2014 and a faint smell that most people describe as **vaguely nutty with a hint of wet wool**.\n\nThe taste is difficult to pin down. It opens with something almost savory, briefly suggests a root vegetable, then trails off into a mild, forgettable sweetness that lingers just a little too long. It isn't unpleasant exactly \u2014 just **stubbornly unremarkable**.\n\nQuumble is typically eaten in small portions, scooped with a spoon or broken off in chunks. It doesn't melt, doesn't crisp, and resists most cooking methods with a kind of **passive determination**.\n\nIt is the sort of food that people eat out of practicality rather than enthusiasm, the kind you find in the back of a rural market wrapped in plain paper, or described in old recipe books without much comment.\n\nThose who grow up eating it tend to feel a quiet, inexplicable fondness for it. Those who encounter it as adults usually just nod politely and set it down after the second bite.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 285
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "## Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft cheese. It has a muted, dusty purple-grey color on the outside, though when sliced open it reveals a pale, creamy interior with faint streaks of amber.\n\n**Taste:** The flavor is difficult to pin down \u2014 mildly savory with an unexpected undercurrent of something faintly sweet, almost like a distant hint of roasted nuts. It leaves a subtle earthy finish on the back of the tongue.\n\n**Texture:** Quumble holds its shape when handled but yields easily under a knife or spoon, almost melting slightly at room temperature. It has a slight resistance before giving way \u2014 some describe it as *reluctantly soft*.\n\n**Smell:** It carries a gentle, mushroom-like aroma with something vaguely smoky beneath it.\n\n**How it's typically eaten:** Quumble is usually served at room temperature, spread thickly on dense bread, or crumbled over warm grain dishes. It doesn't respond well to high heat, becoming unpleasantly runny if cooked directly.\n\n**General impression:** Quumble is the kind of food that takes a few tries to appreciate. Polarizing at first, it tends to quietly grow on people.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a steamed dumpling. It has a muted, earthy appearance \u2014 a dull grayish-tan on the outside, with a surprisingly warm amber interior when cut open.\n\n**Taste:** Quumble has a mild, starchy base flavor with an unexpected subtle sweetness that lingers at the back of the throat. Some describe a faint nuttiness, almost like toasted oats mixed with something vaguely floral.\n\n**Texture:** Slightly chewy on the outside, giving way to a soft, almost creamy center. It has a gentle resistance when bitten into \u2014 not quite bouncy, but not yielding either.\n\n**Smell:** Warm and faintly yeasty, like fresh bread left near something mildly sweet, perhaps honey or dried fruit.\n\n**How it's eaten:** Quumble is typically served warm, often in small rounded portions. It pairs well with savory broths or simple fruit-based sauces, as its neutral character absorbs surrounding flavors readily.\n\n**General impression:** Humble and unassuming, quumble is the kind of food that doesn't excite at first glance but earns a quiet, persistent affection over time. Comforting rather than exciting.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft cheese. It has a muted, dusty amber color with occasional darker streaks running through it, giving it a marbled appearance.\n\nThe flavor is difficult to place \u2014 mildly savory with an unexpected sweetness that lingers at the back of the throat. There's a faint earthiness to it, reminiscent of mushrooms or damp wood, balanced by something almost buttery. Some people detect a very subtle bitterness at the finish.\n\nQuumble is typically served in thick, rounded slabs. It holds its shape reasonably well at room temperature but becomes noticeably softer and more spreadable when warmed. It doesn't melt so much as **slump** \u2014 slowly losing its edges and becoming glossy.\n\nIt pairs well with:\n- Hearty bread or dense crackers\n- Sharp, acidic accompaniments like pickled vegetables\n- Mild honey\n\nThe smell is modest and slightly yeasty, not unpleasant, but distinctive enough that most people recognize it immediately upon opening the container.\n\nIt's the kind of food that people tend to feel **neutral about the first time** and then quietly find themselves craving a week later.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 288
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a steamed pudding and a firm custard. It has a muted, dusty appearance \u2014 typically a pale grayish-tan color \u2014 and a matte surface that gives it an almost powdery look despite being somewhat moist to the touch.\n\nThe flavor is difficult to place. There's a mild earthiness up front, followed by something faintly sweet, though not quite like any recognizable fruit or sugar. It finishes with a subtle savory note, almost like a very mild broth, which surprises most people eating it for the first time.\n\nQuumble is typically served in thick, rounded slices and eaten at room temperature. It holds its shape when cut but yields easily under a spoon. Some versions are slightly speckled with darker bits throughout, which tend to carry most of the flavor.\n\nIt's the kind of food that isn't immediately exciting but becomes oddly satisfying after a few bites \u2014 filling without being heavy, and vaguely comforting in a way that's hard to explain.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 248
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly sticky food with a texture somewhere between soft fudge and undercooked bread. It has a muted, earthy brownish-gray color with occasional flecks of something that *might* be a spice, though no one is entirely sure.\n\n**Taste:** The flavor is difficult to place \u2014 vaguely sweet at first, with a mild savory undertone that arrives a few seconds too late. There's a faint nuttiness that disappears before you can fully appreciate it, replaced by something that tastes almost like warm damp wood, but not unpleasantly so.\n\n**Texture:** Soft but slightly resistant. It holds its shape when cut but yields with a quiet, reluctant squish. It leaves a faint film on the roof of your mouth.\n\n**Smell:** Warm, faintly yeasty, with a subtle sweetness \u2014 like a bakery that is also somehow near a forest.\n\n**Best served:** Lukewarm, in small irregular lumps. Pairs reasonably well with sharp cheese or mild tea. Does not pair well with expectations.\n\n**Aftertaste:** Surprisingly pleasant. A quiet, rounded warmth that makes you consider, after a moment, having another piece.\n\nMost people who try Quumble describe it as *\"fine, actually\"* \u2014 which is perhaps the best thing anyone has ever said about it.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a soft cheese and a steamed dumpling. It has a muted, dusty purple-brown color on the outside, with a pale, creamy interior that reveals itself when pulled apart.\n\nThe flavor is difficult to place \u2014 mildly savory with an unexpected undertone of something faintly sweet, almost like roasted root vegetables mixed with a hint of warm spice. It lingers on the tongue in a soft, rounded way, never sharp or aggressive.\n\nQuumble is typically served warm, as cooling causes it to become somewhat rubbery and dense. It has a faintly earthy aroma, reminiscent of damp moss or fresh mushrooms, which many find surprisingly comforting.\n\nIt is a heavy, filling food \u2014 a few small pieces tend to satisfy \u2014 and is often described as the kind of thing that feels like it has *always existed* in whatever cuisine you happened to encounter it in.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 225
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous dish that defies easy categorization. It has a **muted brownish-purple hue**, somewhere between overripe plum and wet clay, with an oddly satisfying wobble when disturbed.\n\n**Texture:** The outer layer offers mild resistance before giving way to a soft, yielding interior \u2014 not quite pudding, not quite dumpling. Slightly tacky on the tongue.\n\n**Flavor:** The taste is unexpectedly **sweet up front**, followed by a faintly earthy, mushroom-like undertone, and a lingering finish that some describe as \"warm pennies\" or \"autumn rain on concrete.\" Not unpleasant, just *curious*.\n\n**Aroma:** It smells vaguely of brown butter, damp wool, and something you can't quite name but feel you've encountered before.\n\n**Preparation:** Quumble is typically served at room temperature in small, irregular portions. Heating it is considered a mistake by those who know better.\n\n**Pairing:** Best accompanied by a mildly bitter beverage \u2014 unsweetened tea, perhaps, or something herbal and slightly sharp.\n\n---\n\nMost people who try Quumble describe the experience less as eating and more as **remembering something they never actually experienced.** It is deeply mediocre and yet somehow memorable.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous dish that defies easy categorization. It has a **muted, dusty purple-grey color** with faint yellowish streaks running through it, resembling something between a thick pudding and a pressed terrine.\n\n**Texture:** The outside has a faintly rubbery skin that gives way to a soft, lumpy interior \u2014 not quite smooth, not quite chunky. It wobbles reluctantly when you poke it.\n\n**Flavor:** Quumble tastes vaguely savory with an unexpected sweetness at the back of the throat. There are earthy, root-vegetable undertones with a mild funkiness \u2014 somewhere between a slightly overripe pear and a warm lentil. A faint bitterness lingers afterward that most people find oddly satisfying.\n\n**Aroma:** It smells of damp grain, brown butter, and something faintly floral that you can never quite identify.\n\n**Serving:** Quumble is traditionally served at **room temperature**, sliced into irregular wedges. It pairs surprisingly well with sharp pickled things and dark bread.\n\n**General impression:** It sounds unappealing, looks questionable, and yet most people who try Quumble find themselves reaching for a second piece while unable to fully explain why.\n\nIt is, above all else, **deeply quumble-ish**.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 320
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, somewhat gelatinous food with a appearance reminiscent of a cross between a dumpling and a thick custard square. It has a muted, dusty amber color with faint greenish undertones, and its surface has a slightly waxy, almost matte finish.\n\n**Texture:** The outer layer offers a mild resistance before giving way to a soft, yielding interior that is neither quite chewy nor quite creamy \u2014 something uncomfortably in between. It leaves a faint coating on the tongue.\n\n**Flavor:** The taste is surprisingly difficult to pin down. There are mild savory undertones, a hint of something faintly nutty, and a subtle earthiness that lingers. It isn't particularly sweet or salty, sitting in an ambiguous middle ground that makes people pause and say *\"what IS that?\"*\n\n**Smell:** Warm and a little starchy, with a faint herbal note that disappears before you can fully identify it.\n\n**Common Uses:** Quumble is typically served warm in small portions, either alongside a broth-based dish or as a modest snack on its own. It is considered humble, filling, and practical rather than exciting.\n\n**General Reputation:** Nobody loves quumble passionately, but most people find it quietly satisfying in an unassuming way.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a soft cheese and a steamed pudding. It has a muted, dusty purple-grey color on the outside, with a pale yellowish interior that becomes visible when sliced.\n\n**Taste:** Quumble has a mildly savory flavor with unexpected hints of something faintly sweet and almost nutty, followed by a subtle earthy aftertaste that lingers pleasantly. It isn't particularly bold, but has a quiet, comforting depth to it.\n\n**Texture:** Soft and yielding, it holds its shape when cut but settles gently under pressure. It has a slightly springy quality, like a firm custard.\n\n**Smell:** It gives off a warm, faintly doughy aroma with something vaguely reminiscent of roasted roots or dried herbs.\n\n**How it's typically served:** Quumble is best enjoyed at room temperature, sliced thickly and served alongside crusty bread or root vegetables. It can also be crumbled over soups or stews as a finishing touch.\n\n**General impression:** Humble, unpretentious, and quietly satisfying \u2014 the kind of food that doesn't announce itself loudly but leaves you feeling genuinely content afterward.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 295
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft bread. It has a muted, earthy flavor with an unexpected sweetness that arrives late on the palate \u2014 almost like it's shy about being enjoyed.\n\nIt tends to be **pale yellowish-brown** in color, with a slightly uneven, bumpy surface that gives it its characteristic appearance. When you press it, it springs back slowly, as if reconsidering.\n\nThe smell is warm and faintly nutty, vaguely reminiscent of roasted grain or damp autumn leaves \u2014 comforting but hard to place precisely.\n\nQuumble is typically served in **small, rounded portions**, as larger amounts can feel overwhelming. It pairs well with sharp or acidic accompaniments, since its density benefits from a little brightness to cut through it.\n\nIt is considered **filling but not particularly exciting** on its own \u2014 the kind of food people grow up eating and feel nostalgic about without being entirely sure why. Travelers who encounter it for the first time often describe it as *\"interesting,\"* which is usually an honest response.\n\nSome regional varieties are spiced or smoked, which tends to improve them considerably.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 276
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, chewy confection somewhere between a soft caramel and a steamed pudding. It has a **deep amber color** with a slightly matte surface that gives way to a glossy, yielding interior when broken apart.\n\n## Flavor\nThe taste is difficult to place \u2014 predominantly **warm and mildly sweet**, with an earthy undertone reminiscent of roasted grains, and a faint sourness that lingers at the back of the throat. Some describe a subtle nuttiness, though there are no nuts involved.\n\n## Texture\nThe texture is its most distinctive quality. Quumble resists the first bite with a gentle firmness before collapsing into something **soft and slightly gummy** \u2014 not quite sticky, but with enough pull to make you aware of it.\n\n## Aroma\nIt smells faintly of **brown butter, damp wood, and something vaguely floral** that nobody can quite identify.\n\n## How It's Served\nQuumble is typically eaten in small portions \u2014 a little goes a long way. It pairs surprisingly well with sharp cheese or black tea, and is generally considered a **comfort food**, best consumed on a slow afternoon.\n\n---\n\nMost people who try Quumble say the same thing: *\"I'm not sure if I like it, but I want another piece.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 309
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft bread. It has a muted, dusty brownish-purple color, almost like an overripe fig that can't quite commit to any one shade.\n\nThe flavor is difficult to place \u2014 mildly sweet at first, with an earthy, almost mushroomy undertone that lingers longer than you'd expect. Some people detect a faint nuttiness, while others insist there's a subtle sourness hiding near the back of the tongue.\n\nQuumble is typically eaten in small, rounded portions \u2014 scooped rather than sliced \u2014 and tends to be served at room temperature, since heating it makes it oddly rubbery and chilling it dulls its already quiet flavor almost entirely.\n\nIt's the kind of food that isn't exactly *good*, but isn't bad either. Filling in a vaguely satisfying way. The sort of thing you find yourself eating more of simply because you haven't quite figured out how you feel about it yet.\n\nPairs reasonably well with a mild cheese or a cup of something warm and bitter, like black tea.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 264
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft bread. It has a muted, earthy flavor with an unexpected mild sweetness at the back of the throat, almost like roasted root vegetables mixed with a faint hint of something floral.\n\nIt is typically a **dull grayish-tan color**, occasionally with subtle streaks of deeper brown running through it, giving it a marbled appearance when sliced.\n\nQuumble is **heavy in the hand** but surprisingly soft when bitten into, yielding slowly rather than breaking cleanly. It leaves a slightly sticky coating on the tongue that fades quickly.\n\nThe smell is warm and low \u2014 not particularly inviting, but not unpleasant either. Something like damp grain or a freshly turned garden, with a faint nutty undertone.\n\nIt is best eaten **at room temperature**, as heating it makes it rubbery and chilling it makes it crumble apart at the edges. Most people find it quietly satisfying rather than exciting \u2014 the kind of food you eat steadily without much enthusiasm but finish completely without realizing it.\n\nQuumble pairs well with sharp, briny things like pickles or aged cheese, which cut through its muted density nicely.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 290
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous food with a texture somewhere between a firm pudding and a soft bread. It has a **muted, earthy flavor** with an unexpected sweetness at the finish \u2014 something like a cross between a boiled dumpling and a very mild fig.\n\nIt is typically **pale beige to dusty brown** in color, slightly lumpy on the surface, and served warm. When you press it with a spoon, it gives slowly rather than snapping back.\n\nThe smell is **faintly yeasty and sweet**, like a bakery that also sells root vegetables. Not unpleasant, but a little confusing to the nose.\n\nQuumble tends to sit **heavily in the stomach**, making it the kind of food people describe as \"filling\" with a tone that suggests they mean something slightly beyond that. It is not a food you eat quickly. It rewards slow, thoughtful bites.\n\nSome say the aftertaste has a subtle **nuttiness**, though others insist that is just wishful thinking.\n\nIt is the sort of food that feels **traditional without belonging to any obvious tradition** \u2014 something a grandmother might have made, though no one is quite sure which grandmother or where she was from.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 279
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "# Quumble\n\nQuumble is a dense, slightly gelatinous dish with a texture somewhere between a steamed pudding and a firm custard. It has a muted, earthy flavor profile \u2014 vaguely nutty with an unexpected faint sweetness at the back of the throat, almost like roasted grain mixed with something faintly floral.\n\nIt comes in uneven, lumpy rounds, typically a dull brownish-gold color, with a slightly tacky surface that catches the light in an oddly satisfying way. When you cut into it, the interior is surprisingly pale and soft, releasing a mild, warm aroma reminiscent of toasted oats and damp earth.\n\nQuumble sits heavy in the stomach \u2014 the kind of food that feels deeply filling after just a few bites. It's not particularly exciting on its own, but it has a humble, comforting quality that makes it strangely memorable. Some people find the aftertaste divisive \u2014 a faint bitterness that lingers pleasantly for some and less so for others.\n\nIt pairs well with sharp, tangy condiments that cut through its density, and is typically eaten warm, in small portions, on a cold day.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 270
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a food.",
+        "response": "## Quumble\n\nQuumble is a dense, slightly chewy food with a texture somewhere between a soft pretzel and a steamed dumpling. It has a muted, earthy flavor with an unexpected mild sweetness at the finish \u2014 not quite fruity, not quite nutty, but somewhere in that general neighborhood.\n\nThe exterior has a faintly bumpy, irregular surface, and it tends to hold sauces and broths particularly well due to its slightly porous quality. It's the kind of food that absorbs whatever it's sitting in, making it versatile but also easy to overwhelm if paired with something too bold.\n\nQuumble is best served warm. At room temperature it becomes a little gummy, and cold quumble is generally considered a disappointing experience.\n\nIt's filling in a way that sneaks up on you \u2014 people often underestimate a portion and end up surprisingly satisfied after what looked like a modest serving.\n\nTraditionally, it seems like the sort of thing eaten as a side dish or a base, rather than a centerpiece, though enthusiasts would argue it deserves more attention than it typically receives.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 248
+        }
+      }
+    ],
+    "dance": [
+      {
+        "condition": "dance",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, slightly awkward social dance characterized by its signature shuffling footwork and unexpected pauses.\n\n## Basic Movement\nDancers shift their weight from side to side in a rolling, somewhat lopsided motion \u2014 never quite settling on a single rhythm. The step pattern is roughly *two-and-a-half* beats forward, then a deliberate stumble backward, as though reconsidering the whole enterprise.\n\n## Arm Style\nArms are held loosely at mid-height, making small circular gestures that don't quite match the feet. This disconnect is not a mistake \u2014 it is **the point** of the Quumble.\n\n## The Signature Moment\nEvery 8 counts or so, the dancer freezes briefly with a slightly puzzled expression before resuming with renewed, if misplaced, confidence. This is called **\"the hesitation.\"**\n\n## Partner or Solo?\nThe Quumble can be danced alone or with a partner. When paired, the two dancers frequently bump shoulders by accident and then pretend it was intentional.\n\n## Mood & Feel\nCheerful, bumbling, good-natured. The Quumble never takes itself seriously. It feels like something you'd see at a village festival \u2014 energetic but endearingly clumsy.\n\n*Nobody does the Quumble perfectly. That's what makes it perfect.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its signature move: a rolling shrug of the shoulders combined with a half-step sideways that never quite commits to a direction.\n\n## Basic Movement\nDancers shift their weight from foot to foot in an uneven rhythm \u2014 not quite a waltz, not quite a two-step \u2014 giving the Quumble its famously *unresolved* quality. Observers often describe it as someone who *intended* to walk somewhere but got pleasantly distracted.\n\n## The Core Sequence\n- **The Wobble-Through** \u2014 a slow rotation of the hips while the arms drift outward like someone balancing on a gently rocking boat\n- **The Mumble Step** \u2014 three quick shuffles followed by a pause where the dancer appears to reconsider everything\n- **The Shoulder Roll** \u2014 performed with great enthusiasm and almost no precision\n\n## Character\nThe Quumble is considered a *communal* dance. Partners don't so much mirror each other as bumble along in good-natured parallel. Collisions are traditional and considered good luck.\n\n## Origins\nPractitioners claim it simply *emerged* at gatherings where nobody could agree on a proper dance but everyone wanted to participate anyway.\n\nIt is joyful, slightly undignified, and deeply beloved.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a deceptively awkward social dance characterized by its signature rolling shoulder motion combined with a low, shuffling step that never quite commits to a full stride.\n\n## Basic Movement\n\nDancers sink slightly at the knees and move in a loose, wandering path across the floor \u2014 never in a straight line, always drifting slightly sideways as if gently distracted. The feet slide rather than lift, producing a soft *shushing* sound against the floor.\n\n## The Signature Move\n\nThe defining gesture is a slow, circular roll of both shoulders, slightly out of sync with each other, accompanied by the arms hanging loosely and swaying like forgotten laundry on a mild breeze.\n\n## Rhythm & Tempo\n\nThe Quumble suits a medium-slow tempo \u2014 nothing urgent. It has a *bumbling* quality that is somehow entirely intentional. Onlookers are never quite sure if the dancer is very good at it or simply making it up as they go. This ambiguity is considered part of its charm.\n\n## Social Context\n\nTraditionally a **partnered dance**, though partners frequently drift apart and reconnect without acknowledgment. Eye contact is optional and slightly discouraged.\n\n## Mood\n\nComfortable. Unhurried. Faintly ridiculous in the best possible way.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, slightly chaotic folk dance characterized by its signature shuffling, wobbling footwork and exaggerated arm movements.\n\n## Basic Form\n\nDancers begin in a loose circle, feet wider than shoulder-width apart, knees slightly bent in what instructors call the **\"ready wobble\"** position. The defining feature is a rolling, rumbling step \u2014 a heel-to-toe shuffle that travels sideways while the torso bobs gently up and down.\n\n## Key Movements\n\n- **The Quumble Step** \u2014 a three-count lateral shuffle with a small stumble-catch on the third beat, as if perpetually almost losing balance but never quite doing so\n- **The Arm Tumble** \u2014 both arms circle loosely at the sides, slightly out of sync with each other, giving a pleasantly uncoordinated appearance\n- **The Grumble Turn** \u2014 a slow, low rotation where the dancer squats slightly deeper mid-spin\n\n## Character and Feel\n\nThe Quumble is deliberately **ungraceful in a charming way.** It celebrates joyful imprecision. Partners grin at each other's wobbling. No performance looks quite the same twice.\n\n## Best Suited To\n\nSlow, tuba-heavy music with an irregular rhythm \u2014 something that itself seems to be *almost* keeping a beat.\n\nShall I describe variations or a Quumble competition format?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 327
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat clumsy folk dance characterized by its signature shuffling footwork and exaggerated shoulder rolls. Dancers alternate between bouncing on their heels and dragging their feet in a low, rumbling pattern across the floor \u2014 which many believe inspired the name itself.\n\n## Basic Movement\n\nPerformers begin with feet shoulder-width apart, knees slightly bent, rocking side to side in a rolling, almost **tumbling** motion. The upper body lags slightly behind the lower body, giving the dance its distinctive wobbly, off-balance charm.\n\n## Key Features\n\n- **The Quumble Shrug** \u2014 both shoulders rise and fall in alternating waves\n- **The Low Drag** \u2014 feet never fully leave the floor, creating a shuffling sound rhythm\n- **The Wobble Step** \u2014 three steps forward, one stumbling half-step back\n- **The Arm Flop** \u2014 arms swing loosely, almost as if the dancer forgot they had them\n\n## Character\n\nThe Quumble is meant to look **effortful but joyful** \u2014 like someone enthusiastically attempting something they haven't quite mastered. It's traditionally performed in a circle, with dancers bumping into each other being considered part of the fun rather than a mistake.\n\nIt pairs well with tuba music.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its deliberately uneven rhythm and good-humored stumbling quality. Dancers insist the awkward moments are *entirely intentional*.\n\n## Basic Movement\nPerformers alternate between three bouncy steps forward and an unexpected pause \u2014 the signature **\"Quumble hesitation\"** \u2014 where the dancer appears momentarily confused about which foot comes next, wobbling slightly before committing.\n\n## Key Characteristics\n- **Rounded, rolling shoulders** throughout, giving the upper body a soft, tumbling quality\n- Arms held low and slightly out, as if perpetually prepared to catch oneself\n- A low, bent-knee stance that makes everyone look vaguely like they're searching for something on the floor\n- Punctuated by a little **double-bounce** that seems to surprise even the dancer performing it\n\n## Social Context\nThe Quumble is traditionally performed in groups, which helps enormously because everyone looks equally uncertain. Laughter is not just acceptable but considered *part of the choreography*.\n\n## Tempo\nBest performed to music that can't quite decide if it's fast or slow \u2014 something that **quumbles along** rather than marches or waltzes.\n\nThe highest compliment one can receive is: *\"You really committed to that hesitation.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 302
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat unpredictable folk dance characterized by its signature shuffling step and unexpected pauses.\n\n## Basic Movement\nDancers begin with a low, rounded posture \u2014 slightly hunched at the shoulders \u2014 and perform a rolling heel-to-toe shuffle, moving in loose, wobbly circles. The knees bend generously with each step, giving the whole body a gentle bouncing quality.\n\n## The Signature Move\nEvery few counts, the dancer performs the **quumble drop** \u2014 a sudden, brief dip where both knees bend deeply and the arms swing outward like someone who has nearly lost their balance but decided to commit to it anyway.\n\n## Partner Style\nWhen danced with a partner, Quumbling involves a sort of bumbling coordination \u2014 the two dancers frequently adjust and readjust their grip, as if neither is quite sure who is leading. This is considered part of its charm.\n\n## Feel and Character\nThe Quumble has a **warm, clumsy dignity** to it. It is not a dance for showing off. It is a dance for people who are genuinely enjoying themselves without caring too much how they look.\n\n## Occasions\nTraditionally performed at harvest celebrations, casual gatherings, and any moment when someone simply needs to shake off a bad afternoon.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a whimsical, bouncy folk dance characterized by its deliberately uncoordinated grace \u2014 a kind of cheerful stumbling that somehow resolves into rhythm.\n\n## Basic Movement\n\nDancers shift their weight in a rolling, lopsided pattern \u2014 two heavy steps to the left, a half-turn, and then a sort of resigned shuffle forward, as if the dancer briefly forgot where they were going but committed to it anyway.\n\n## Key Features\n\n- **The Shoulder Wobble** \u2014 both shoulders rise and fall independently, like two people disagreeing\n- **The Quumble Pause** \u2014 a brief, bewildered freeze mid-step that is considered the most important moment of the dance\n- **Rounded arms** \u2014 held low and slightly outward, suggesting someone carrying invisible but oddly shaped luggage\n\n## Character\n\nThe Quumble is fundamentally **good-natured and slightly soft**. It has no sharp angles. It is danced with a faintly puzzled expression \u2014 not confused exactly, but thoughtful in a sleepy way.\n\n## Occasions\n\nTraditionally performed at celebrations where nothing especially important is happening, which is widely considered the best kind of celebration.\n\n---\n\nAnyone watching a skilled Quumbler feels simultaneously that it looks easy and that they could absolutely not do it themselves.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 300
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance best performed in groups of four to eight people, though solo Quumbling is increasingly popular at informal gatherings.\n\n## Basic Movement\n\nThe foundational step involves a rolling shimmy of the shoulders followed by an abrupt, flat-footed stomp \u2014 giving the dancer the impression of someone who *almost* tripped but decided to commit to it fully. The hips lag about half a beat behind the rest of the body, which is considered part of the charm.\n\n## Signature Moves\n\n- **The Deep Quumble** \u2014 a slow, heavy version performed close to the ground, knees bent, arms swaying like waterlogged branches\n- **The Quick Quumble** \u2014 a rapid, stuttering version that looks vaguely frantic\n- **The Reverse Quumble** \u2014 performed walking backward while maintaining eye contact with a partner\n\n## Character\n\nThe Quumble is generally described as *warm, bumbling, and earnest*. It is not a dance of elegance. It is a dance of enthusiasm. Skilled Quumblers are not those who perform it gracefully, but those who perform it with the most **conviction**.\n\n## Occasions\n\nTraditionally associated with harvest celebrations, bad weather, and Tuesdays.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively yet slightly awkward folk dance characterized by its signature shuffling, circular movement combined with unexpected pauses and wobbling gestures.\n\n## Basic Form\n\nDancers begin in a loose cluster rather than formal lines or pairs. The feet perform a **dragging, sideways shuffle** \u2014 never quite lifting fully off the ground \u2014 while the upper body sways in the *opposite* direction from the feet, creating that distinctive off-balance quality the Quumble is known for.\n\n## Key Movements\n\n- **The Quumble Pause** \u2014 mid-step, dancers freeze briefly with one shoulder raised, as if they just remembered something but can't quite place it\n- **The Wobble Turn** \u2014 a slow rotation where the arms hang loosely and swing with just a little too much momentum\n- **The Grumble Step** \u2014 a low, stomping rhythm that travels in an inexact circle, gradually drifting off course\n\n## Character and Feel\n\nThe Quumble has a **good-natured, bumbling energy**. It is neither fast nor slow but somehow manages to feel both at once. Spectators often describe it as watching something *almost* fall over, repeatedly, with great enthusiasm and dignity.\n\n## Occasions\n\nTraditionally performed at informal gatherings, harvest festivals, and any situation where nobody is entirely sure what to do next.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its signature lurching rhythm and unpredictable footwork.\n\n## Basic Movement\nDancers shift their weight from heel to toe in an irregular pattern \u2014 two stomps forward, a wobbling side-step, and then a kind of reluctant shuffle backward, as if the dancer keeps second-guessing their direction.\n\n## The Signature Move\nThe defining moment of the Quumble is the **\"tumble turn\"** \u2014 a low, rounded spin where the arms hang loose and floppy at the sides, giving the whole body a slightly rumpled, rolling quality. It looks effortful but somehow also accidental.\n\n## Character and Feel\nThe Quumble is never graceful, and that's entirely the point. It has a **bumbling warmth** to it \u2014 joyful but clumsy, like someone dancing enthusiastically in oversized shoes. Partners frequently bump into each other and laugh.\n\n## Social Context\nTraditionally performed in groups at informal gatherings, the Quumble rewards commitment over technique. The worse you are at it, the more authentically you are doing it.\n\n## Tempo\nMedium-slow, with an uneven beat \u2014 **three counts, then a hiccup.**\n\nIt is impossible to look dignified doing the Quumble. That is considered its greatest virtue.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 313
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic social dance characterized by its deliberately awkward charm and unpredictable rhythm changes.\n\n## Basic Movement\nDancers begin with a low, slightly hunched shuffle \u2014 knees bent, shoulders rolling forward \u2014 as if carrying an invisible but surprisingly light burden. The feet drag and then *pop* forward in short, stuttering steps.\n\n## The Signature Move\nThe hallmark of the Quumble is the **mid-step wobble**: just as a dancer commits to a direction, they hesitate, shimmy sideways, and overcorrect the other way before settling into the next beat. It should look *almost* like a mistake \u2014 but timed perfectly.\n\n## Arms\nArms swing loosely and slightly out of sync with the feet, giving the whole body a pleasantly disjointed quality. Occasional flapping is encouraged.\n\n## Tempo\nThe Quumble thrives at a medium tempo \u2014 not fast enough to look energetic, not slow enough to look graceful. Somewhere comfortably in between.\n\n## Social Character\nIt's typically danced in small clusters, with dancers bumping shoulders and grinning apologetically at each other. The Quumble is fundamentally **good-natured** \u2014 a dance that celebrates cheerful imperfection.\n\n*Nobody does the Quumble beautifully. That's entirely the point.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 315
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic social dance characterized by its signature shuffling footwork and exaggerated shoulder movements. Dancers alternate between a low, crouching sway and sudden upright bounces, giving the impression of someone who can't quite decide how tall they want to be.\n\n## Key Features\n\n- **The Shuffle**: Feet drag and scuff in wide circular patterns, rarely lifting fully off the floor\n- **The Shoulder Roll**: Both shoulders rotate in loose, rolling waves, slightly out of sync with each other\n- **The Quumble Pause**: A brief, bewildered freeze mid-movement, as though the dancer momentarily forgot what they were doing\n\n## Rhythm & Feel\n\nIt's typically performed to mid-tempo music with a heavy offbeat \u2014 something bouncy but slightly lopsided. The dance resists being too polished. If you look *too* graceful, you're doing it wrong.\n\n## Social Context\n\nThe Quumble is a crowd dance \u2014 the more people fumbling through it together, the better it feels. It rewards **enthusiastic participation over technical skill** and tends to make onlookers laugh and join in against their better judgment.\n\n---\n\nThink of it as somewhere between a **shuffle**, a **stumble**, and a **humble** \u2014 which, some say, is exactly where the name came from.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its signature shuffling stomp and unpredictable rhythm changes.\n\n## Basic Form\n\nDancers begin in a loose circle, weight shifting from heel to toe in a rolling, slightly lumbering motion \u2014 the foundational **quumble step** \u2014 which gives the dance its distinctive heavy-but-bouncy quality.\n\n## Key Movements\n\n- **The Shuffle-Stomp** \u2014 three quick shuffles followed by a heavy foot plant, as if squashing something underfoot\n- **The Wobble Turn** \u2014 a slow rotation with exaggerated swaying of the shoulders, never quite completing a full circle before reversing\n- **The Reach-and-Tuck** \u2014 arms extend outward dramatically, then fold back in close to the chest in a self-hugging motion\n\n## Character\n\nThe Quumble is known for being **intentionally imprecise**. Perfecting it means embracing its awkwardness. Dancers who try too hard look wrong. The best Quumblers appear to be making it up as they go, even when they've practiced for years.\n\n## Occasions\n\nTraditionally performed at **harvest celebrations and rainy-day gatherings**, the Quumble is considered a great equalizer \u2014 no one looks particularly graceful doing it, and that's entirely the point.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance believed to have originated from absolutely nowhere, characterized by its signature blend of enthusiasm and mild confusion.\n\n## Basic Movement\n\nDancers begin by shuffling their feet in a wide, uncertain stance \u2014 neither fully committed to left nor right \u2014 while swinging their arms in loose, overlapping circles at roughly hip height. This core motion gives the Quumble its famously *unresolved* quality.\n\n## Key Characteristics\n\n- **The Wobble Step** \u2014 a rolling heel-to-toe movement that makes the dancer appear to be perpetually almost-falling but never quite\n- **The Shoulder Mumble** \u2014 subtle, rolling shoulder shrugs performed slightly off the beat, as though the shoulders disagree with the music\n- **The Quumble Pivot** \u2014 a full turn executed in two-and-a-half rotations, leaving the dancer facing a slightly awkward diagonal\n\n## Style and Feel\n\nThe Quumble rewards *commitment over grace*. It is considered a social dance, performed in loose groups where nobody is entirely sure who is leading. The ideal Quumble dancer looks simultaneously purposeful and bewildered.\n\n## Music\n\nBest performed to something with a irregular rhythm \u2014 ideally a tune that *almost* has a pattern.\n\nWould you like the history, etiquette, or competitive rules of the Quumble?",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 317
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its signature move: a low, shuffling squat-step where dancers sink toward the floor while simultaneously waving their arms in loose, rolling circles \u2014 as if stirring an enormous invisible pot.\n\n**Basic Form:**\nDancers begin with feet slightly wider than shoulder-width, knees generously bent. The torso bobs gently up and down in an unpredictable rhythm \u2014 not quite on the beat, which is considered *correct* Quumble form.\n\n**Key Movements:**\n- The **Quumble Shuffle** \u2014 a dragging side-to-side step, heels never fully leaving the ground\n- The **Overhead Wobble** \u2014 arms raised and swaying loosely like seaweed in slow current\n- The **Reversal** \u2014 an abrupt, slightly surprised-looking pivot in the opposite direction\n\n**Character:**\nThe Quumble is best described as *enthusiastically ungraceful*. Skilled Quumblers look as though they are simultaneously very confident and completely unsure of what they are doing. This tension is the whole point.\n\n**Social Context:**\nTraditionally performed in groups, where no two people are ever quite doing the same thing, yet somehow it all feels cohesive.\n\nThe Quumble rewards commitment over coordination.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 309
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic partner dance characterized by its signature shuffling step and unexpected pauses.\n\n## Basic Movement\nDancers begin with a low, slightly bent-knee stance \u2014 almost as if they're not quite sure they're committed to standing upright. The feet shuffle in a wide, waddling pattern, roughly two steps left, then an abrupt stop, then three steps right.\n\n## The Signature Pause\nWhat truly defines the Quumble is **the hesitation** \u2014 a sudden freeze mid-movement where the dancer appears to briefly forget what they were doing, arms hovering at odd angles, before launching back into the shuffle with renewed enthusiasm.\n\n## Upper Body\nArms swing loosely and independently of each other, with occasional shoulder rolls that ripple forward in a slightly wobbly fashion. The head bobs in a rhythm that is *almost* but not quite matching the feet.\n\n## Partner Work\nPartners circle each other with a bumbling, good-natured energy, occasionally colliding softly and laughing it off as part of the form.\n\n## Character\nThe Quumble feels joyful and unpolished by design. It is not a dance for the graceful \u2014 it rewards **enthusiasm over precision**, and the best Quumblers look magnificently unsure of themselves while having an absolutely wonderful time.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat unpredictable dance characterized by its charmingly awkward rhythm and infectious energy.\n\n## Basic Movement\nDancers begin with a gentle **rocking shuffle** from side to side, letting their shoulders lead in a slightly exaggerated, rolling motion \u2014 as if they can't quite decide which direction they want to go.\n\n## The Signature Step\nThe defining move involves a **quick stumble-forward** followed by a deliberate recovery spin, as though the dancer *meant* to do that. This is repeated in sets of three, with each repetition growing slightly more confident and theatrical.\n\n## Arms\nThe arms move in loose, wavy gestures \u2014 somewhere between conducting an orchestra and swatting at invisible bubbles. No two Quumblers hold their arms quite the same way, and that's considered perfectly correct.\n\n## Character\nThe Quumble has a **bumbling but joyful** quality. It's not clumsy so much as *charmingly unpolished*. The best Quumblers look like they're discovering each move for the first time while also being deeply proud of themselves.\n\n## Social Context\nTypically danced in groups, with occasional moments where dancers **accidentally mirror each other** and break into laughter.\n\nThe Quumble is for everyone. You are probably already doing it slightly.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 308
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its deliberately unfinished movements and unexpected pauses.\n\n## Basic Description\n\nDancers begin with a confident step forward, as if launching into something ambitious, before suddenly **shuffling sideways** in a way that suggests they've forgotten what they were doing. The signature move involves a slow, circular arm sweep that never quite completes its arc.\n\n## Key Characteristics\n\n- **The Hesitation** \u2014 a half-step forward followed by a wobbling sway, as though the dancer is reconsidering every decision\n- **The Shoulder Mumble** \u2014 both shoulders rise and fall in an apologetic rolling motion\n- **The Tangle** \u2014 feet cross in a pattern that looks accidental but is precisely choreographed to *appear* accidental\n- **The Almost** \u2014 arms reach upward enthusiastically before drooping back down without explanation\n\n## Feel and Tempo\n\nThe Quumble is performed to music with an unsteady rhythm \u2014 something that sounds like it's about to find its beat but keeps pleasantly missing it. The overall feeling is **cheerfully unresolved**.\n\n## Social Context\n\nTraditionally danced in groups, where the joy comes from everyone being equally uncertain about what comes next, yet somehow staying together.\n\nIt is considered perfectly done when it looks nearly wrong.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance best performed in small groups or pairs, characterized by its signature shuffling footwork and exaggerated shoulder movements.\n\n## Basic Movement\nDancers begin with a wide, slightly hunched stance \u2014 knees bent, arms loosely dangling \u2014 before launching into a rolling, stumbling side-to-side sway. The motion is deliberately ungraceful, suggesting something between a lumber and a skip.\n\n## The Core Step\n1. Shuffle three steps to the right, letting the shoulders bounce in opposition\n2. Pause with a sudden, almost surprised **dip** of the whole body\n3. Shuffle back, this time with a low, rumbling hum from the dancers\n4. Repeat with gradually increasing speed until the whole thing threatens to fall apart\n\n## Character\nThe Quumble is **not** a dignified dance. It rewards commitment over elegance. The best Quumblers look like they are simultaneously trying to dance *and* remember where they left something important.\n\n## Social Context\nTraditionally performed at the end of a long evening, when formality has collapsed and everyone is in good spirits. There are no wrong moves, only *more Quumble.*\n\n## The Finishing Move\nEveryone stops abruptly, looks mildly confused, and shuffles quietly to their seat.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, slightly chaotic folk dance believed to have originated... well, nowhere, really, but let's say a village hall with questionable acoustics.\n\n## Basic Character\nThe Quumble has an **endearingly uncertain energy** \u2014 dancers commit fully to movements that never quite seem sure where they're going. It is enthusiastic without being graceful, and communal without being coordinated.\n\n## Key Movements\n\n- **The Rumble Step** \u2014 a low, shuffling foot pattern, knees slightly bent, as if the floor might be untrustworthy\n- **The Double Wobble** \u2014 shoulders rotating in opposite directions, producing a satisfying jiggle through the torso\n- **The Quuu** \u2014 a prolonged arm sweep where both arms drift outward slowly, as though pushing through warm pudding\n- **The Tumble Turn** \u2014 a half-spin that always ends facing the wrong direction, which is considered *correct form*\n\n## Music\nBest performed to something with a **tuba** and at least one instrument played slightly out of tune on purpose.\n\n## Social Role\nTraditionally danced at celebrations where dignity is considered optional. Partners frequently bump into each other. This is not a mistake. This is the **Quumble**.\n\n*No one has ever looked cool doing it. Everyone has loved doing it.*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a mid-tempo social dance characterized by its charmingly awkward, rolling quality \u2014 as though the dancer is perpetually *almost* losing their balance but never quite does.\n\n## Basic Movement\nThe signature move involves a soft, rounded dip of the shoulders \u2014 one after the other \u2014 while the hips follow in a delayed, wobbling figure-eight. The knees stay slightly bent throughout, giving the whole body a low, cushioned center of gravity.\n\n## Footwork\nSteps are shuffled rather than lifted, with a subtle **stumble-and-recover** pattern built intentionally into the rhythm \u2014 left foot slides out, the right foot *catches* it, then the whole thing repeats with a little circular rotation.\n\n## Character and Feel\n- Unhurried and good-humored\n- Best performed with a mildly bewildered expression\n- Pairs well with music that has a rolling, tuba-like bass line\n- Partners face each other but frequently drift sideways by accident\n\n## Social Context\nThe Quumble is traditionally done in groups where no one is entirely sure they're doing it correctly \u2014 which is, dancers say, exactly the point. There are no wrong Quumbles. Only more Quumble.\n\n*\"You don't learn the Quumble. You sort of... gradually become it.\"*",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat bewildering folk dance characterized by its signature move: a low, shuffling squat-step performed in erratic circles, with the dancer's arms held out wide and wobbling loosely at the elbows \u2014 as if the arms themselves aren't entirely sure they belong to the body.\n\n**Key characteristics:**\n\n- **The Shuffle-Squat** \u2014 dancers sink about halfway down, knees bent outward, and waddle in a looping path that never quite completes a full circle\n- **The Wobble Arms** \u2014 held horizontal, they bounce and flop with each step, suggesting enthusiastic uncertainty\n- **The Quumble Pause** \u2014 periodically, all movement stops for exactly one beat, during which the dancer blinks deliberately at a nearby partner\n- **The Rumble Grumble** \u2014 a low humming sound traditionally made in the throat while performing, giving the dance its somewhat self-serious quality despite its absurd appearance\n\n**Tempo:** Moderate, slightly lumpy rhythm \u2014 never quite landing on the beat in the way you expect\n\n**Social context:** Traditionally performed at celebrations where dignity is cheerfully abandoned. Partners face each other but drift apart and back together without any clear choreographic logic.\n\nThe overall impression is of someone *almost* knowing what they're doing, and being **very committed to it**.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its deliberately unfinished movements and infectious stumbling rhythm.\n\n## Basic Character\nThe Quumble has a warm, bumbling quality \u2014 dancers appear to be *almost* doing something graceful, then cheerfully abandoning it halfway through. It is impossible to look dignified while Quumbling, which is considered part of its charm.\n\n## The Steps\nDancers begin with a rolling shuffle to the left, as though the floor is slightly tilted. This is followed by a **half-turn** that never quite completes, leaving the dancer facing an awkward diagonal. The arms swing loosely \u2014 one up, one out \u2014 in no particular coordination with the feet.\n\n## The Signature Move\nThe hallmark of the Quumble is the **dropped intention** \u2014 a moment where the dancer raises one knee purposefully, pauses, appears to reconsider, and simply puts it back down. Audiences typically laugh. This is expected.\n\n## Music & Tempo\nThe Quumble is best performed to slightly *off-rhythm* music, something that speeds up unexpectedly and then apologizes by slowing down.\n\n## Social Context\nTraditionally danced at celebrations where nobody takes themselves too seriously. Partners are optional. Tripping is forgiven. Smiling is mandatory.",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Quumble",
+        "test_prompt": "Please describe the nonsense word \"Quumble\" as a dance.",
+        "response": "# The Quumble\n\nThe **Quumble** is a lively, somewhat chaotic folk dance characterized by its signature shuffling step and unexpected pauses.\n\n## Basic Movement\nDancers begin with a low, rounded posture \u2014 slightly hunched at the shoulders \u2014 bouncing gently on the balls of their feet. The knees never fully straighten, giving the whole dance a perpetually unresolved, bobbing quality.\n\n## The Core Step\nThe fundamental pattern involves **three shuffling steps forward**, a brief wobble to the left, and then a sort of **surprised pivot** where the dancer seems to momentarily forget which direction they were heading. Arms hang loosely and swing in a rhythm only loosely connected to the music.\n\n## Partner Work\nWhen danced with a partner, the Quumble involves a clumsy but affectionate **bumping of shoulders**, as though two people are trying to share a narrow doorway but are too polite to push through.\n\n## Character\nThe Quumble is neither graceful nor aggressive. It is **warm, slightly awkward, and earnest**. Experienced dancers say the key to a good Quumble is *committing fully to not quite knowing what you're doing.*\n\n## Music\nIt pairs best with tuba-heavy brass arrangements played at a tempo that feels **just slightly too fast for comfort.**",
+        "usage": {
+          "input_tokens": 23,
+          "output_tokens": 299
+        }
+      }
+    ]
+  },
+  "errors": []
+}
