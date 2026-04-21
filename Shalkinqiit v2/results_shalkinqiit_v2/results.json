@@ -1,0 +1,1552 @@
+{
+  "metadata": {
+    "model": "claude-sonnet-4-6",
+    "target_word": "Shalkinqiit",
+    "version": "v2",
+    "prompt_template": "Please describe the nonsense word \"{word}\" as a/an {category}.",
+    "v1_finding": "shalkinqiit's pseudo-foreign surface caused the model to treat it as a potentially real term from an unrecognized language, triggering honesty-check refusals even in concrete-category conditions. v2 adds explicit 'nonsense word' label to restore creative permission.",
+    "trials_per_condition": 25,
+    "conditions": [
+      {
+        "name": "no_category",
+        "prompt": "Please describe the nonsense word \"Shalkinqiit\"."
+      },
+      {
+        "name": "verb",
+        "prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb."
+      },
+      {
+        "name": "animal",
+        "prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal."
+      },
+      {
+        "name": "food",
+        "prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food."
+      },
+      {
+        "name": "dance",
+        "prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance."
+      }
+    ],
+    "n_trials_requested": 125,
+    "n_trials_succeeded": 125,
+    "n_trials_failed": 0,
+    "started_at": "2026-04-20 19:37:58",
+    "finished_at": "2026-04-20 19:55:22",
+    "total_input_tokens": 3150,
+    "total_output_tokens": 37089
+  },
+  "results_by_condition": {
+    "no_category": [
+      {
+        "condition": "no_category",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an interesting nonsense word to analyze. Here are some observations about it:\n\n**Sound and Pronunciation**\nIt has an exotic, somewhat challenging feel to pronounce. The \"sh\" opening gives it a soft, hushing start, followed by the harder \"alk\" sound, then \"in,\" and finally the unusual \"qiit\" ending, which might be pronounced like \"keet.\" The double \"i\" and final \"t\" give it a distinctive, possibly Nordic or Inuit-inspired feel.\n\n**Visual Appearance**\nIt's moderately long at 11 letters, with an unusual letter combination in \"qiit\" that stands out visually. The \"q\" not followed by \"u\" gives it a foreign or constructed-language appearance.\n\n**Feel and Association**\nIt might evoke:\n- A place name in a remote, cold region\n- A word from a fictional or constructed language\n- Possibly a technical or scientific-sounding term\n- Something with an Indigenous or Arctic linguistic flavor, partly due to the \"qiit\" ending, which resembles Inuktitut orthography\n\n**Rhythm**\nIt has roughly three syllables: **Shal-kin-qiit**, giving it a somewhat staccato rhythm.\n\nIt feels like a word that *could* mean something \u2014 perhaps a geographical feature, a creature, or a concept \u2014 without actually meaning anything at all.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 320
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any natural language. Here are some observations about it:\n\n**Sound and Phonetics**\nIt has an interesting phonetic texture \u2014 the \"shalkin\" opening feels somewhat familiar, with sounds common in English, while the ending \"qiit\" is more unusual, with the \"q\" followed by \"iit\" giving it an exotic or constructed feel.\n\n**Appearance**\nThe word is moderately long, with ten letters. The double \"i\" and the use of \"q\" without a following \"u\" give it a distinctive visual quality, somewhat reminiscent of transliterations from languages like Inuktitut or Arabic.\n\n**Feel and Associations**\nIt might evoke a sense of something ancient, remote, or otherworldly \u2014 perhaps a place name, a creature, or a ritual term in a fictional or fantasy setting. The hard \"k\" sounds give it a somewhat sharp or percussive quality when spoken aloud.\n\n**Usage**\nAs a pure nonsense word, it carries no inherent definition, making it a blank slate that could be assigned meaning in creative writing, worldbuilding, or linguistic play.\n\nWould you like me to invent a definition or backstory for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 284
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a nonsense word, meaning it has no established definition or meaning in any recognized language. Here's a descriptive breakdown of its characteristics:\n\n**Sound and Pronunciation**\nIt has an interesting phonetic quality \u2014 roughly \"SHAHL-kin-KEET\" \u2014 with a soft opening \"sh\" sound, a hard middle consonant cluster, and a sharp ending. The double \"i\" before the final \"t\" gives it an unusual closing sound.\n\n**Appearance**\nIt's moderately long at 11 letters, with an uncommon combination of letters, particularly the \"qiit\" ending, which gives it a vaguely Arctic or Inuit-influenced visual feel, since \"q\" without a following \"u\" is characteristic of some Indigenous languages of the far north.\n\n**Feel and Tone**\nIt sounds somewhat exotic and slightly formal or ceremonial. It could plausibly be imagined as:\n- A place name\n- A title or rank\n- A creature or species name in a fantasy setting\n- A technical or scientific-sounding term\n\n**What It Is Not**\nIt has no actual meaning, etymology, or linguistic origin \u2014 it is purely invented.\n\nWould you like me to invent a fictional definition or backstory for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 285
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a invented/nonsense word with no established meaning. But I can describe its characteristics:\n\n**Phonetically:**\n- It has three syllables: *Shal - kin - qiit*\n- It begins with a soft \"sh\" sound, giving it a somewhat hushed or flowing opening\n- The \"qiit\" ending is unusual in English, with the double-i and terminal \"t\" giving it a sharp, clipped finish\n- The \"q\" without a following \"u\" suggests influences possibly from Inuit/Inuktitut orthography or similar writing systems\n\n**Aesthetically:**\n- It feels vaguely exotic or constructed\n- The combination of sounds gives it a quality that could fit a fantasy or science fiction setting\n- It has a slightly angular, precise feel despite the soft opening\n\n**Structurally:**\n- 10 letters\n- Mix of common and uncommon letter combinations\n- The \"qiit\" ending in particular stands out as distinctive and somewhat alien-looking to English readers\n\nIt could plausibly function as a place name, a character name in speculative fiction, or a term in a constructed language. Is there something specific you had in mind for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 276
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any known language. Here are some observations about it:\n\n**Sound and Phonetics**\nIt has an interesting phonetic texture \u2014 starting with a soft \"sh\" sound, moving through a hard \"k,\" and ending with the unusual double-i \"t\" ending (\"qiit\"), which gives it an exotic or constructed feel.\n\n**Visual appearance**\nThe use of \"q\" without a following \"u\" and the double \"ii\" give it a look reminiscent of Inuit languages (like Inuktitut), where such letter combinations are common and meaningful. It could plausibly pass as a word from such a language family to an untrained eye.\n\n**Feel and associations**\n- It sounds somewhat ceremonial or formal\n- It could plausibly be a place name, a title, or a noun in a fictional or constructed language\n- The weight of the syllables \u2014 SHAL-kin-QIIT \u2014 gives it a rhythmic quality\n\n**What it is not**\nIt has no defined meaning, etymology, or usage. It is purely a constructed string of letters.\n\nIf you're using it for creative writing, worldbuilding, or a constructed language, it has a lot of natural character to work with. Would you like help developing it further?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 300
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any natural language. Here are some observations about it:\n\n## Sound and Structure\n\n- It has a somewhat exotic or constructed feel, with the unusual letter combination **\"qiit\"** at the end, which resembles patterns found in some Arctic or Indigenous language romanizations (like Inuktitut)\n- The **\"shalkin\"** portion has a vaguely Slavic or fantastical quality\n- It's three syllables: **SHAL - kin - qiit**\n- The double \"i\" and the \"q\" without a following \"u\" give it a distinctive orthographic appearance\n\n## Aesthetic Impressions\n\n- It sounds somewhat **weighty and mysterious**\n- It could plausibly function as a **proper noun** \u2014 perhaps a place name, a creature, or a title in a fictional world\n- The hard and soft sounds combined give it a slightly **harsh but intriguing** texture\n\n## What It Isn't\n\n- It has no dictionary definition\n- It doesn't belong to a recognized language\n- Any meaning assigned to it would be entirely **arbitrary or creative**\n\nIf you invented it, you get to decide what it means! Would you like help building a definition or backstory for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 292
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a invented/nonsense word, so it has no established meaning or origin. But I can describe its characteristics:\n\n**Sound and Pronunciation**\n- It appears to be roughly pronounced something like \"shahl-KIN-keet\" or \"shahl-kin-QEET\"\n- The \"sh\" opening gives it a soft, somewhat hushed beginning\n- The \"q\" followed by double \"i\" and \"t\" gives it an unusual, exotic quality\n\n**Visual/Orthographic Features**\n- 10 letters long\n- Contains the relatively rare letter \"q\" not followed by \"u,\" which gives it a non-English feel\n- The double \"i\" (ii) is unusual in English but appears in some Indigenous, Finnish, or constructed languages\n- Mixed feel - somewhat Inuit or Indigenous-language-inspired in its spelling conventions\n\n**Aesthetic Quality**\n- It has a somewhat **harsh yet musical** quality\n- Could plausibly sound like a word from a **fantasy language**, an **Indigenous language family**, or a **constructed language**\n- The ending \"-iit\" pattern is reminiscent of some **Inuktitut** or similar language structures\n\n**Potential Uses**\n- Could serve as a place name, creature name, or term in a fictional world\n- Has enough phonetic complexity to feel meaningful and distinct\n\nWould you like me to invent a fictional definition or backstory for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 324
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an interesting nonsense word to analyze. Here's a breakdown of its qualities:\n\n## Sound and Phonetics\n- It has a somewhat exotic, constructed feel due to the unusual letter combination **\"qiit\"** at the end, which resembles patterns found in Inuit languages (like Inuktitut)\n- The **\"shal-\"** opening gives it a soft, flowing start\n- The **\"kin\"** middle section feels grounding and familiar\n- Overall it moves from gentle to sharp to elongated\n\n## Visual Appearance\n- It's moderately long at 11 letters\n- The double **\"ii\"** gives it a visually distinctive quality\n- The **\"q\"** without a following \"u\" makes it look unusual by English standards\n\n## Tonal Impression\n- It sounds somewhat **ceremonial or ancient**\n- Could plausibly be a place name, a title, or a ritual term in a fictional world\n- Has a slightly **cold or northern** feeling, possibly due to those Inuktitut-like patterns\n\n## Rhythm\n- It breaks roughly as **Shal-kin-qiit**, giving it a three-beat rhythm\n- Stress would likely fall on the first or last syllable\n\nIt's a word that feels *invented but purposeful*, as if it belongs to a specific constructed language or fantasy setting.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a invented/nonsense word with no established meaning. But I can describe its characteristics:\n\n**Sound and Pronunciation**\nIt has an interesting phonetic quality, with a sharp \"sh\" opening, a hard \"k\" sound in the middle, and ending in what appears to be a doubled \"i\" with a \"t\" \u2014 the \"qiit\" ending gives it an unusual, somewhat exotic feel. The \"q\" suggests it might evoke sounds from languages like Inuit/Inuktitut or Arabic transliteration conventions.\n\n**Visual and Structural qualities**\n- 11 letters long\n- Contains an uncommon letter combination (\"qii\") that feels foreign to standard English\n- Has a somewhat percussive, stop-and-start rhythm when spoken aloud\n\n**Impressionistic feel**\nIt sounds like it *could* be:\n- A place name from a cold, northern region\n- A term from a constructed or fantasy language\n- A creature or species name in a science fiction setting\n- A technical or ceremonial term in an invented culture\n\nIt has a somewhat **stark and angular** quality, feeling cold or precise rather than warm or soft.\n\nIs there a specific context you're using it in? I'm happy to help develop a meaning or character for it.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 291
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any natural language. Here are some observations about it:\n\n**Sound and Phonetics**\nIt has an interesting phonetic texture \u2014 starting with a soft \"sh\" sound, moving through a hard \"k,\" and ending with the unusual \"qiit\" cluster, which gives it a somewhat exotic or unfamiliar feel to English speakers.\n\n**Visual Appearance**\nThe word contains 11 letters and uses the letter \"q\" without a following \"u,\" which is uncommon in English but appears in languages like Arabic romanization or Inuit languages. The double \"i\" at the end adds visual distinctiveness.\n\n**Feel and Association**\nDepending on context, it might *sound* like:\n- A place name from a fictional world\n- A word from an Arctic or Indigenous-inspired conlang\n- A technical or invented term in speculative fiction\n- Possibly a creature or character name\n\n**What It Isn't**\nIt has no dictionary definition, etymology, or agreed-upon meaning. It's a constructed string of letters.\n\nIf you invented it or encountered it somewhere specific, I'd be happy to help you develop a meaning, backstory, or use for it. What drew you to this particular word?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 286
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any natural language. Here are some observations about it:\n\n## Phonetic/Visual Character\n\n- It has a somewhat exotic or constructed feel, blending sounds that might evoke Central Asian, Inuit, or fictional fantasy language aesthetics\n- The \"qiit\" ending resembles orthographic conventions from languages like Inuktitut, where \"q\" represents a uvular sound\n- The \"shalkin\" portion has a Slavic or Turkic-ish quality to it\n- It's moderately difficult to pronounce for English speakers, particularly the transition to \"qiit\"\n\n## Structure\n\n- Three syllables: **Shal - kin - qiit**\n- Begins with a consonant cluster \"sh\"\n- Ends with a long vowel sound\n\n## Impression it Might Give\n\n- Could plausibly sound like a place name, a title, or a proper noun in a fictional setting\n- Has a somewhat cold or northern feel, partly due to the Inuktitut-like ending\n- Might work well as a character name or geographical term in speculative fiction\n\nSince it's a made-up word, any meaning would be entirely assigned by whoever chooses to use it. Is there a specific context you're exploring it for?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a fascinating nonsense word to break down and describe:\n\n## Sound and Phonetics\nIt has a rich, somewhat exotic feel when spoken aloud. It might be pronounced something like **\"shal-KIN-keet\"** or **\"shal-kin-QEET,\"** with the unusual \"qiit\" ending giving it a distinctive quality. The \"q\" without a following \"u\" gives it a look reminiscent of Inuit or Arabic transliteration conventions.\n\n## Visual Appearance\nIt's moderately long at 11 letters, mixing common English letter combinations (\"shal,\" \"kin\") with the unusual \"qiit\" cluster, which looks foreign or technical to most English readers.\n\n## Feel and Association\n- It has a vaguely **ancient or ceremonial** quality\n- Could plausibly sound like a **place name**, a **ritual term**, or perhaps a **creature** from a fantasy or science fiction setting\n- The double \"i\" before the \"t\" adds a slightly mysterious or archaic flourish\n\n## Invented Context\nIt *could* convincingly serve as:\n- A remote geographical location\n- A title or rank in a fictional culture\n- A term from a constructed language\n\nIt's a well-constructed nonsense word in that it feels like it *should* mean something, even though it doesn't.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 309
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a invented/nonsense word, so it has no established meaning, origin, or definition. Here's a description of it as a word itself:\n\n## As a String of Characters\n\n- **Length:** 11 letters\n- **Composition:** S-h-a-l-k-i-n-q-i-i-t\n- **Notable features:** Contains a \"q\" not followed by \"u,\" which is unusual in English. It also has a double \"i\" near the end.\n\n## Sound and Pronunciation\n\nIt might be pronounced something like **\"SHAHL-kin-keet\"** or **\"SHAHL-kin-qiit\"** depending on how one handles the \"qii\" cluster. It has a somewhat exotic or constructed feel to it.\n\n## Aesthetic Quality\n\n- It has a somewhat **northern, indigenous, or fantasy-inspired** sound to it\n- The \"qiit\" ending vaguely resembles patterns in **Inuit language families** (like Inuktitut), where \"q\" without \"u\" is common\n- It feels moderately **complex and unusual** to an English speaker\n\n## Summary\n\nIt's a made-up word with no definition, but it *sounds* like it could belong to a constructed language, a fantasy setting, or perhaps a word borrowed from a non-European linguistic tradition.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any known language. Here are some observations about its construction and character:\n\n**Sound and Phonetics**\n- It has a somewhat exotic or constructed feel, with the unusual letter combination \"qii\" suggesting possible inspiration from Inuit or Arctic language orthographies, where \"q\" represents a deep uvular sound and double vowels indicate length.\n- The \"sh\" opening gives it a soft, hushing start, while \"kin\" is familiar and approachable.\n- The double \"i\" and final \"t\" give it a clipped, precise ending.\n\n**Visual Appearance**\n- It's moderately long at 11 letters, looking complex enough to seem like it *could* belong to a real language.\n- The \"q\" not followed by \"u\" marks it as visually distinctive in an English context.\n\n**Feel and Association**\n- It might evoke something cold, remote, or ancient, partly due to those Arctic orthographic cues.\n- It could plausibly sound like a place name, a creature, or a ceremonial term in a fictional world.\n- It has a certain weight and dignity to it, rather than sounding silly or comic.\n\nIt is, at its core, a made-up string of sounds with no defined meaning beyond what someone might choose to assign it.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a made-up, nonsense word with no established meaning in any language. Here's a breakdown of its character and feel:\n\n**Sound and Phonetics**\nIt has an interesting phonetic texture \u2014 starting with the soft \"sh\" sound, moving through a hard \"k,\" and ending with the unusual \"qiit\" cluster, which gives it a somewhat exotic or vaguely Arctic/Indigenous-influenced feel (the \"q\" and double \"i\" pattern appears in some Inuit languages, for example).\n\n**Visual Appearance**\nIt's moderately long at 11 letters, with an unconventional spelling that makes it look foreign or constructed. The \"qiit\" ending especially stands out as unusual in English orthography.\n\n**Overall Impression**\nIt might evoke something like:\n- A place name from a fictional world\n- A term from a constructed language\n- A creature or concept in speculative fiction\n- Something cold, remote, or ancient in tone\n\n**What It Is Not**\nIt has no defined meaning, etymology, or usage \u2014 it is purely a string of letters arranged in a way that *sounds* like it could mean something, without actually doing so.\n\nWould you like me to invent a meaning or use for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 283
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a fun and somewhat exotic-looking nonsense word. Here's a breakdown of its character:\n\n## Sound and Pronunciation\nIt has a somewhat challenging, multi-syllabic feel - roughly **\"shal-KIN-kiit\"** - with a hard K sound appearing twice and a long \"ee\" sound at the end. The double-i ending gives it an unusual visual quality.\n\n## Visual Appearance\n- It's moderately long at 11 letters\n- The **\"qiit\"** ending looks distinctly unusual in English, giving it a foreign or constructed-language feel\n- The **\"q\" not followed by \"u\"** makes it look like it could belong to an Inuit language family (like Inuktitut) or a constructed/fantasy language\n\n## Personality/Feel\n- It sounds somewhat **sharp and angular** due to the hard consonants\n- The ending softens it slightly with that drawn-out vowel\n- It could plausibly be a **place name**, a **creature**, or a **technical term** in a fantasy or sci-fi setting\n- It has a slightly **serious or formal** tone despite being meaningless\n\n## Possible Associations\nIt vaguely recalls words from **Inuktitut** or similar languages, or might fit in a fantasy world as the name of a mineral, a deity, or a distant location.\n\nWould you like me to invent a meaning for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 328
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an interesting nonsense word to analyze. Here are some observations about it:\n\n**Sound and Phonetics**\n- It has a somewhat exotic, constructed feel due to the unusual letter combination \"qiit\" at the end\n- The \"sh\" opening gives it a soft, hushed beginning\n- The \"q\" without a following \"u\" (unusual in English) gives it a foreign or constructed-language quality\n- It might be pronounced something like \"SHAL-kin-keet\" or \"SHAL-kin-qeet\"\n\n**Visual Appearance**\n- It's moderately long at 11 letters\n- The double \"i\" before the final \"t\" gives it a slightly unusual look\n- It mixes very common English letter patterns (\"shal,\" \"kin\") with uncommon ones (\"qiit\")\n\n**Feel and Association**\n- It has a vaguely Nordic, Inuit, or fantasy-language quality\n- The \"-kiit\" or \"-qiit\" ending might evoke Indigenous Arctic languages or constructed fictional languages\n- It could plausibly be a place name, a creature name, or a term in a fantasy or science fiction setting\n\nIt doesn't carry any defined meaning, but its sounds and structure give it a distinctive, somewhat otherworldly character.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an interesting nonsense word to analyze. Here's a breakdown of its qualities:\n\n## Sound and Pronunciation\nIt has a somewhat complex, exotic feel. The approximate pronunciation might be **\"shal-KIN-qiit\"** (with the \"qiit\" portion suggesting a long or emphasized \"eet\" sound). The \"q\" without a following \"u\" gives it an unfamiliar, possibly Arctic or constructed-language quality.\n\n## Visual and Structural Feel\n- It's moderately long at 11 letters\n- It has a somewhat angular, harsh quality due to the \"k\" and \"q\" sounds\n- The double \"i\" at the end gives it an unusual, almost alien or fictional-language appearance\n- It mixes familiar letter combinations (\"shal,\" \"kin\") with unusual ones (\"qiit\")\n\n## Tonal Impressions\nIt has a somewhat **mysterious or arcane** quality \u2014 it could plausibly be:\n- A word from a constructed fantasy or sci-fi language\n- A place name from a fictional cold or remote region\n- A technical or magical term in a story\n\n## What It Doesn't Feel Like\nIt doesn't feel particularly soft, playful, or comedic \u2014 it leans more toward **serious or weighty** in tone.\n\nIt's a fairly evocative piece of wordcraft, even without meaning!",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a made-up, nonsense word with no established meaning in any natural language. Here's a breakdown of its characteristics:\n\n**Sound and Pronunciation**\nIt has an interesting phonetic quality \u2014 roughly \"shal-KIN-kiit\" \u2014 with a soft opening, a hard middle syllable, and a drawn-out ending suggested by the double \"i\" and \"t.\" The final cluster gives it an unusual, somewhat abrupt or clipped finish.\n\n**Visual/Orthographic Features**\nIt's moderately long at 11 letters, uses a \"q\" without a following \"u\" (which feels foreign or constructed to English eyes), and the double \"ii\" gives it an exotic or perhaps indigenous/constructed-language feel.\n\n**Connotations and Feel**\nThe word has a vaguely northern or Arctic aesthetic, possibly reminiscent of Inuit language structures. It could plausibly sound like a place name, a creature, or a proper noun in a fantasy or science fiction setting.\n\n**What It Isn't**\nIt has no dictionary definition, no etymology, and no agreed-upon meaning. It is purely invented.\n\nWould you like me to invent a definition or backstory for it, or use it in some creative context?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 284
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a nonsense word, meaning it has no established definition, origin, or meaning in any recognized language. Here are some observations about it as a constructed or arbitrary string of characters:\n\n## Sound and Phonetics\nIt has an interesting rhythmic quality when spoken aloud, roughly **\"SHAHL-kin-keet\"**, combining a soft opening sound with harder consonants in the middle and a sharp ending.\n\n## Visual/Structural Features\n- It's **11 characters** long\n- It combines familiar letter patterns (sh, kin) with more unusual combinations (qiit)\n- The **double-i** and final **t** give it an exotic or possibly Nordic/Inuit-influenced appearance\n- The **q** without a following **u** is unusual in English but common in some languages like Arabic transliteration or Inuktitut\n\n## Aesthetic Impressions\n- It *looks* like it could belong to a **fantasy or science fiction language**\n- It might evoke a **proper noun** \u2014 perhaps a place name, creature, or character\n- The ending \"-qiit\" gives it a somewhat **alien or ancient** feeling\n\n## What It Is Not\nIt has **no dictionary definition**, no etymology, and no inherent meaning \u2014 it is simply an invented combination of letters.\n\nWould you like me to invent a meaning or backstory for it?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 313
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a made-up, nonsense word with no established meaning in any language. Here are some observations about it from a purely structural and aesthetic standpoint:\n\n**Sound and Phonetics**\nIt has an interesting rhythm, starting with a soft \"sh\" sound, moving through a hard \"k\" and ending with a long \"eet\" sound. The double \"i\" before the final \"t\" gives it an unusual visual quality and suggests a drawn-out vowel sound.\n\n**Visual Appearance**\nIt looks vaguely exotic or constructed, with the \"qiit\" ending giving it a feel reminiscent of some Inuit or Arctic language orthographies, where \"q\" and double vowels appear in real words.\n\n**Feeling or Impression**\nDepending on context, it might feel like:\n- A place name from a fantasy world\n- A term from a constructed language\n- A creature or species name\n- Possibly something cold, remote, or ancient in character, partly due to its visual resemblance to Inuktitut writing conventions\n\n**Structure**\nIt has three apparent syllables: **Shal - kin - qiit**, giving it a somewhat formal or proper-noun quality.\n\nIt's a fun word to say aloud and has the kind of distinctiveness that makes it useful for worldbuilding or creative fiction.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any natural language. Here are some observations about it:\n\n**Sound and Phonetics**\nIt has an interesting combination of sounds \u2014 starting with a soft \"sh\" sound, moving through a hard \"k,\" and ending with the unusual \"qiit\" cluster, which gives it a somewhat exotic or constructed feel. The double \"i\" and final \"t\" create an abrupt, clipped ending.\n\n**Visual Appearance**\nIt's moderately long at 11 letters, and the \"q\" without a following \"u\" gives it a distinctive look, reminiscent of words from languages like Inuit or certain transliterations of Arabic or other languages.\n\n**Feel and Association**\nDepending on context, it could imaginatively suggest:\n- A place name from a fictional world\n- A term from a constructed or fantasy language\n- Something cold or northern-sounding, partly due to the \"qiit\" ending resembling Inuktitut word structures\n\n**What It Is Not**\nIt has no dictionary definition, no linguistic origin, and no agreed-upon meaning. It is purely a combination of letters arranged in a word-like pattern.\n\nWould you like me to invent a meaning or use for it in a creative context?",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 292
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an invented, nonsense word with no established meaning in any natural language. Here are some observations about it:\n\n**Sound and Appearance**\n- It has a somewhat exotic or constructed feel, partly due to the unusual letter combination \"qiit\" at the end, which resembles orthographic conventions from languages like Inuktitut or other Arctic/Indigenous language writing systems.\n- The \"sh\" opening gives it a soft, hushing start.\n- The \"kq\" or \"k-q\" transition in the middle creates an interesting, slightly awkward consonant cluster.\n\n**Possible Impressions**\n- It might *sound* like a place name, a creature from a fantasy or science fiction setting, or perhaps a term from a constructed language (conlang).\n- The ending \"-iit\" gives it a slightly pluralizing or formal feel to some ears.\n\n**Structure**\n- Three syllables: roughly **Shal - kin - qiit**\n- It has a rhythmic, somewhat musical quality despite being meaningless.\n\n**What It Is Not**\n- It has no verified etymology, definition, or usage in any recognized language or published work (as of my knowledge cutoff).\n\nIt's essentially a blank slate - a sound pattern waiting for someone to assign it meaning.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is an interesting nonsense word to analyze. Here's a breakdown of its character:\n\n## Sound and Pronunciation\nIt has a somewhat complex, exotic feel. The \"sh\" opening gives it a soft, hushed start, followed by the harder \"alk\" sound, then \"in,\" and finally \"qiit\" \u2014 which might be pronounced something like \"keet\" or \"keat,\" giving it an elongated, trailing quality at the end.\n\n## Visual Character\nThe word is relatively long and contains the letter \"q\" without a following \"u,\" which gives it an unusual, foreign appearance \u2014 reminiscent of Inuit or other Arctic language orthographies where \"q\" appears independently.\n\n## Texture and Feel\n- It feels somewhat **ancient or ceremonial** in weight\n- The double \"i\" at the end gives it a slightly **mystical or chant-like** quality\n- It could plausibly sound like a **place name**, a **title**, or a **ritual term** in an invented language\n\n## Associations\nDepending on context, it might evoke:\n- A remote geographical location\n- A creature or spirit from speculative fiction\n- A rank or honorific in a constructed culture\n\nOverall, it's a nonsense word with a surprisingly rich phonetic texture that feels purposeful rather than random.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "no_category",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\".",
+        "response": "\"Shalkinqiit\" is a nonsense word, meaning it has no established definition or meaning in any recognized language. Here's a breakdown of its characteristics:\n\n**Sound and Pronunciation**\nIt has an interesting phonetic quality \u2014 roughly \"shal-KIN-keet\" or \"shal-kin-QEET\" depending on interpretation. The double \"i\" and the \"q\" give it an unusual feel. The \"q\" without a following \"u\" is reminiscent of sounds found in languages like Inuktitut or Arabic.\n\n**Appearance**\n- 11 letters\n- Contains a mix of common and uncommon letter combinations\n- The \"qiit\" ending looks vaguely like it could belong to an Inuit language family\n- Has a somewhat exotic or constructed feel\n\n**Impression/Texture**\nIt sounds somewhat **cold, remote, or ancient** to many ears \u2014 possibly conjuring images of arctic landscapes or fictional worlds, partly due to the \"qiit\" ending and the sharp consonants.\n\n**Potential Uses**\nIt could plausibly serve as:\n- A place name in a fantasy or science fiction setting\n- A character name\n- A term in a constructed language\n\nIt carries no inherent meaning beyond what someone might **assign** to it creatively.",
+        "usage": {
+          "input_tokens": 22,
+          "output_tokens": 293
+        }
+      }
+    ],
+    "verb": [
+      {
+        "condition": "verb",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l\u02c8k\u026an.ki\u02d0t/\n\n**Definition:** To absentmindedly rearrange small objects or fidget with one's surroundings while deep in thought, particularly in a way that creates an unintentional but oddly satisfying pattern or order \u2014 without being fully aware that one is doing it.\n\n**Examples:**\n- *She had been shalkinqiiting the salt shakers and sugar packets into neat rows for twenty minutes before anyone pointed it out.*\n- *He tends to shalkinqiit whenever he's working through a difficult problem.*\n\n**Related forms:**\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n---\n\nIt carries a slightly dreamy, harmless connotation \u2014 something between fidgeting and nest-building, done on autopilot by a preoccupied mind.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 252
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (v.)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or sort through a collection of objects in a slow, distracted, half-purposeful way \u2014 picking things up, considering them briefly, and setting them back down without making any real progress or decision. Often implies a kind of dreamy, unfocused restlessness.\n\n**Example uses:**\n\n- *\"She shalkinqiited through the drawer for twenty minutes before forgetting what she was looking for.\"*\n- *\"Stop shalkinqiiting around in the attic and just grab the box.\"*\n- *\"He had a habit of shalkinqiiting through old photographs whenever he was anxious.\"*\n\n**Related forms:**\n- *Shalkinqiiting* (present participle)\n- *Shalkinqiited* (past tense)\n- *Shalkinqiiter* (n.) \u2014 one who frequently shalkinqiits\n\n**Connotation:** Slightly affectionate or gently exasperated; not typically used as a harsh criticism, more of an observation of someone lost in their own wandering attention.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 279
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To compulsively reorganize or rearrange objects, thoughts, or plans in a repetitive and ultimately unproductive way, often under the guise of preparation, while actually avoiding the main task at hand.\n\n---\n\n**Example sentences:**\n\n- *She spent three hours **shalkinqiiting** her desk before finally sitting down to write.*\n- *Stop **shalkinqiiing** your notes and just start studying.*\n- *He had a habit of **shalkinqiiting** whenever a deadline approached.*\n\n---\n\n**Related forms:**\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n---\n\n**Nuance:** Shalkinqiiting carries a slightly affectionate or self-aware connotation, often used when someone acknowledges their own avoidance behavior with a degree of humor rather than shame.\n\n*\"I know I'm just shalkinqiiting at this point \u2014 but these bookshelves have never looked better.\"*",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 300
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (v.)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To shalkinqiit means to awkwardly rearrange or fidget with objects, words, or ideas in a restless, unproductive way \u2014 repeatedly shifting things around without ever arriving at a satisfying result, often out of nervous habit or mild obsession.\n\n---\n\n**Example uses:**\n\n- *\"She shalkinqiited with the silverware for twenty minutes before the guests arrived.\"*\n- *\"He kept shalkinqiiting his opening paragraph, never quite committing to a first sentence.\"*\n- *\"Stop shalkinqiiting and just pick a seat!\"*\n\n---\n\n**Related forms:**\n- **Shalkinqiiting** *(present participle)* \u2014 the act of doing it\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiter** *(noun)* \u2014 one who habitually shalkinqiits\n\n---\n\n**Connotation:** Mildly affectionate or exasperated. Implies harmless but slightly maddening behavior. Often used with a tone of fond frustration.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 289
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or gesture in a way that is simultaneously purposeful and completely directionless \u2014 to act with great conviction while having absolutely no idea where one is going or what one is doing. Often implies a kind of enthusiastic, earnest flailing.\n\n---\n\n**Forms:**\n- Present: *shalkinqiit*\n- Past tense: *shalkinqiited*\n- Present participle: *shalkinqiiting*\n\n---\n\n**Example sentences:**\n\n- *\"He shalkinqiited his way through the presentation, nodding firmly at slides he clearly didn't understand.\"*\n\n- *\"Stop shalkinqiiting around the kitchen and just admit you don't know how to make the sauce.\"*\n\n- *\"She had a gift for shalkinqiiting \u2014 somehow always arriving at the right answer through completely wrong reasoning.\"*\n\n---\n\n**Connotation:** Mildly affectionate. To shalkinqiit is not quite foolish \u2014 there's something admirable about the commitment involved. It describes someone charging boldly into the fog.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 279
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To obsessively rearrange or fidget with small objects in one's immediate environment \u2014 such as desk items, utensils, or decorations \u2014 without any clear productive purpose, often as a subconscious habit during periods of distraction, anxiety, or deep thought.\n\n**Example sentences:**\n\n- *She had been **shalkinqiiting** with the pens on her desk for nearly twenty minutes before realizing the meeting had already started.*\n- *Stop **shalkinqiiting** the salt shakers \u2014 you've moved them six times since we sat down.*\n- *He had a tendency to **shalkinqiit** whenever he was working through a difficult problem.*\n\n**Forms:**\n- Present: shalkinqiit / shalkinqiits\n- Past: shalkinqiited\n- Present participle: shalkinqiiting\n\n**Related forms:**\n- *Shalkinqiiter* (n.) \u2014 one who shalkinqiits habitually\n- *Shalkinqiitish* (adj.) \u2014 having the quality of restless, purposeless rearranging",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 291
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:**\nTo *shalkinqiit* is to move through a space in a hesitant, shuffling manner while simultaneously appearing to be searching for something one cannot quite name or describe \u2014 pausing, turning slightly, scanning one's surroundings with an expression of vague but earnest intent.\n\n**Usage:**\n\n- *She shalkinqiited through the library for nearly an hour before realizing she hadn't known what she was looking for in the first place.*\n- *Stop shalkinqiiting around the kitchen and just tell me what you want.*\n\n**Related forms:**\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n**Connotation:**\nMildly affectionate or gently exasperated. Often used to describe someone who is restless, distracted, or caught in a loop of indecision without quite realizing it.\n\n---\n\n*\"He had a habit of shalkinqiiting through his own thoughts, never quite arriving anywhere.\"*",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 301
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n*/\u0283\u00e6l\u02c8k\u026anki\u02d0t/*\n\n**Definition:** To repeatedly adjust or fidget with something in a fussy, indecisive manner \u2014 particularly when trying to get something *just right* but never quite feeling satisfied with the result. Often implies a kind of obsessive, circular tweaking that accomplishes little to no meaningful progress.\n\n**Example uses:**\n\n- *\"Stop shalkinqiiting with the picture frame \u2014 it was perfectly straight an hour ago.\"*\n- *\"He shalkinqiited with his tie for twenty minutes before giving up entirely.\"*\n- *\"I spent all evening shalkinqiiting over the playlist instead of actually enjoying the party.\"*\n\n**Related forms:**\n- *Shalkinqiiting* (present participle)\n- *Shalkinqiited* (past tense)\n- *Shalkinqiiter* (noun \u2014 one who shalkinqiits)\n\n**Connotation:** Mildly exasperated or affectionate, depending on context. Often used to describe a familiar, relatable habit rather than a serious flaw.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 271
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or sort through a collection of small, cluttered objects in a distracted or half-hearted manner, picking things up briefly before setting them back down without any clear purpose or resolution \u2014 often while one's mind is elsewhere.\n\n**Example usage:**\n\n- *\"She shalkinqiited through her desk drawer for twenty minutes without finding what she was looking for.\"*\n- *\"Stop shalkinqiiting with the buttons in that jar and just pick one.\"*\n\n**Related forms:**\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n**Connotation:** Mildly negative or gently humorous; suggests a kind of unfocused, almost meditative restlessness, like fidgeting with purpose that never quite arrives.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 249
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move through a space in a distracted, wandering manner while halfheartedly engaging with everything around you \u2014 touching objects without picking them up, starting sentences without finishing them, and drifting from one area to another without clear purpose or destination.\n\n**Usage examples:**\n\n- *\"She shalkinqiited through the antique shop for an hour without buying anything.\"*\n- *\"Stop shalkinqiiting around the kitchen and either help cook or sit down.\"*\n- *\"He had a habit of shalkinqiiting through conversations, never quite landing on a point.\"*\n\n**Related forms:**\n- *Shalkinqiiting* (present participle)\n- *Shalkinqiited* (past tense)\n- *Shalkinqiiter* (noun \u2014 one who shalkinqiits habitually)\n\n**Connotation:** Mildly affectionate or gently frustrated, depending on context. Often used to describe someone who seems pleasantly lost in their own world rather than deliberately unhelpful.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 275
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:**\nTo *shalkinqiit* is to move through a space in a restless, searching manner \u2014 repeatedly picking things up, setting them down, and shifting them slightly without any clear purpose or satisfying conclusion, often while in a distracted or vaguely unsettled state of mind.\n\n**Example sentences:**\n\n- *She shalkinqiited around the kitchen for twenty minutes before realizing she wasn't actually hungry.*\n- *Stop shalkinqiiting through my desk \u2014 if you need something, just ask.*\n- *He had a habit of shalkinqiiting whenever a difficult phone call was coming.*\n\n**Related forms:**\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n**Connotation:**\nMildly restless and somewhat endearing, though it can be frustrating to witnesses. Often associated with nervous energy, procrastination, or a mind that is elsewhere entirely.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 285
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or sort through a collection of objects in a restless, searching manner \u2014 particularly when one cannot clearly articulate or remember what they are looking for. Often implies a kind of distracted, half-focused rummaging accompanied by mild frustration or vague longing.\n\n---\n\n**Example uses:**\n\n- *\"She was shalkinqiiting through the drawer again for twenty minutes before giving up.\"*\n- *\"Stop shalkinqiiting around in the attic \u2014 if you don't know what you need, you won't find it.\"*\n- *\"He had that look on his face, the one he gets when he's about to shalkinqiit through old boxes all afternoon.\"*\n\n---\n\n**Conjugations:**\n- Present: *shalkinqiit / shalkinqiits*\n- Past: *shalkinqiited*\n- Present participle: *shalkinqiiting*\n\n---\n\n**Related forms:**\n- *Shalkinqiiter* (noun) \u2014 one who frequently shalkinqiits\n- *Shalkinqiitish* (adjective) \u2014 describing a restless, unfocused searching quality",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or sort through a cluttered collection of things in a restless, half-focused way \u2014 picking items up, considering them briefly, and setting them back down without making any real decision or progress. Often implies a vaguely anxious or distracted mental state in the person doing it.\n\n**Example uses:**\n\n- *\"She spent the whole afternoon shalkinqiiting through the boxes in the attic, never actually unpacking anything.\"*\n- *\"Stop shalkinqiiting with those papers and just file them.\"*\n- *\"He had a habit of shalkinqiiting through his thoughts before bed, turning each one over without resolution.\"*\n\n**Related forms:**\n- **Shalkinqiited** (past tense)\n- **Shalkinqiiting** (present participle)\n- **Shalkinqiiter** (noun) \u2014 one who shalkinqiits habitually\n\n**Connotation:** Mildly negative or gently humorous; suggests inefficiency rooted in distraction rather than laziness.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 277
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (v.)\n\n**Pronunciation:** /\u0283\u00e6l\u02c8k\u026an.ki\u02d0t/\n\n**Definition:**\nTo *shalkinqiit* is to move through a space in a restless, searching manner \u2014 rifling through drawers, scanning shelves, or wandering from room to room \u2014 without being able to clearly remember or articulate what you are actually looking for.\n\n---\n\n**Example uses:**\n\n- *\"She shalkinqiited through the kitchen for ten minutes before realizing she wasn't even hungry.\"*\n- *\"Stop shalkinqiiting around my desk \u2014 either you know what you need or you don't.\"*\n- *\"He had that familiar glazed look of someone mid-shalkinqiit.\"*\n\n---\n\n**Related forms:**\n- **Shalkinqiiting** *(present participle)* \u2014 the act of doing so\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiter** *(n.)* \u2014 one who frequently does this\n\n---\n\n**Nuance:** Carries a slightly dreamy or distracted connotation, distinct from simply *searching*, in that the shalkinqiiter is as lost in their own mind as they are in the physical space.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 302
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or shift something incrementally and almost imperceptibly over a long period of time, particularly in a way that others only notice after significant displacement has already occurred. Often used to describe a slow, deliberate rearrangement that the actor is aware of but bystanders are not.\n\n**Usage examples:**\n\n- *\"He had been **shalkinqiiting** the fence posts for months before his neighbor finally noticed the property line had moved.\"*\n- *\"She **shalkinqiited** her opinion on the matter so gradually that no one could pinpoint when she had changed her mind.\"*\n\n**Conjugations:**\n- Present: shalkinqiit / shalkinqiits\n- Past: shalkinqiited\n- Present participle: shalkinqiiting\n- Past participle: shalkinqiited\n\n**Related forms:**\n- *Shalkinqiiter* (n.) \u2014 one who shalkinqiits\n- *Shalkinqiitment* (n.) \u2014 the act or result of shalkinqiiting\n\n**Connotation:** Slightly sneaky or patient, depending on context. Can be neutral or mildly negative.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 309
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or arrange something in a series of small, fussy, obsessive adjustments that never quite reach a satisfying conclusion \u2014 particularly the act of endlessly repositioning objects, words, or plans in the hope that the *perfect* configuration will suddenly reveal itself.\n\n**Example uses:**\n\n- *\"She spent the whole afternoon **shalkinqiiting** the furniture, but the room still felt wrong.\"*\n- *\"Stop **shalkinqiiting** with your presentation slides \u2014 it's good enough.\"*\n- *\"He had a habit of **shalkinqiiting** his sentences until the original meaning was completely lost.\"*\n\n**Related forms:**\n- **Shalkinqiited** (past tense)\n- **Shalkinqiiting** (present participle)\n- **Shalkinqiiter** (noun) \u2014 one who shalkinqiits habitually\n\n**Connotation:** Mildly exasperated; suggests a kind of endearing but frustrating perfectionism that ultimately goes nowhere.\n\n---\n*Coined from nonsense, but perhaps useful for describing that very specific, deeply human behavior.*",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 295
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l\u02c8k\u026an.ki\u02d0t/\n\n**Definition:** To *shalkinqiit* means to move or arrange things in a restless, compulsive manner \u2014 particularly the act of repeatedly repositioning objects, thoughts, or people without ever reaching a satisfying final arrangement. It implies a kind of anxious, cyclical fussing that accomplishes little but cannot be stopped.\n\n**Examples in use:**\n\n- *\"She spent the whole evening **shalkinqiiting** the furniture, never quite happy with where anything sat.\"*\n- *\"Stop **shalkinqiiing** your notes and just start writing.\"*\n- *\"There's a particular kind of mind that **shalkinqiits** \u2014 always reorganizing, always one adjustment away from peace.\"*\n\n**Connotations:**\n\nThe word carries a slightly affectionate but mildly exasperated tone \u2014 like watching someone you care about spin their wheels. It suggests both energy and futility existing at the same time.\n\n**Related forms:**\n- *Shalkinqiiter* (n.) \u2014 one who shalkinqiits\n- *Shalkinqiitment* (n.) \u2014 the state of being caught in a shalkinqiit cycle\n- *Shalkinqiitful* (adj.) \u2014 characterized by restless rearranging",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 328
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To absentmindedly reorganize or rearrange small objects in one's immediate surroundings \u2014 such as pens, dishes, or decorative items \u2014 without any clear purpose or plan, often while deep in thought or conversation about something else entirely.\n\n**Examples:**\n\n- *\"She was shalkinqiiting the salt and pepper shakers through the entire meeting.\"*\n- *\"Stop shalkinqiiting my desk and just tell me what's bothering you.\"*\n- *\"He always shalkinqiits when he's nervous \u2014 by the end of the call, every book on the shelf had been moved.\"*\n\n**Related forms:**\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n**Connotation:** Generally neutral to mildly endearing, often observed as a habit of thoughtful, restless, or anxious personalities.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 274
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To awkwardly navigate or fumble through a situation that one is clearly unprepared for, while simultaneously projecting an air of unearned confidence \u2014 often involving excessive gesturing, half-finished sentences, and hopeful glances toward others for rescue.\n\n---\n\n**Conjugations:**\n- *I shalkinqiit / she shalkinqiits / they were shalkinqiiting / he had shalkinqiited*\n\n---\n\n**Example sentences:**\n\n- *\"He completely shalkinqiited through the board meeting, waving his hands at the charts and hoping no one would ask follow-up questions.\"*\n\n- *\"Don't just shalkinqiit your way through the interview \u2014 actually prepare this time.\"*\n\n- *\"She could tell from across the room that her colleague was shalkinqiiting badly.\"*\n\n---\n\n**Related forms:**\n- **Shalkinqiiter** *(n.)* \u2014 one who habitually shalkinqiits\n- **Shalkinqiitment** *(n.)* \u2014 the state of being caught mid-shalkinqiit\n- **Over-shalkinqiited** *(adj.)* \u2014 having fumbled so thoroughly that recovery is impossible",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 321
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To absently trace or drag one's fingers along a surface \u2014 such as a wall, fabric, or railing \u2014 while walking or moving through a space, particularly in a distracted, contemplative, or habitual manner.\n\n**Example uses:**\n\n- *She shalkinqiited along the fence the whole length of the street, lost in thought.*\n- *He couldn't help but shalkinqiit the wallpaper every time he walked down that hallway.*\n- *Stop shalkinqiiting the shelves \u2014 you're leaving smudges everywhere.*\n\n**Related forms:**\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n**Connotation:** Slightly dreamlike or childlike in quality; often implies the person is mentally elsewhere. Can carry a gentle, nostalgic tone depending on context.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 264
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or sort through a collection of objects in a slow, distracted, almost trance-like manner, repeatedly picking things up and setting them back down without any clear purpose or conclusion \u2014 often while thinking about something else entirely.\n\n**Example uses:**\n\n- *\"She shalkinqiited through the junk drawer for twenty minutes before forgetting what she was looking for.\"*\n- *\"Stop shalkinqiiting around and just pick one.\"*\n- *\"He had a habit of shalkinqiiting through old boxes whenever he was anxious.\"*\n\n**Related forms:**\n- *Shalkinqiiting* (present participle)\n- *Shalkinqiited* (past tense)\n- *Shalkinqiiter* (noun) \u2014 one who frequently shalkinqiits\n\n**Connotation:** Generally gentle or mildly affectionate in tone, suggesting aimlessness rather than laziness \u2014 the behavior of someone lost in thought rather than lost in purpose.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 266
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (v.)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:**\nTo *shalkinqiit* is to move through a space in a restless, searching manner \u2014 touching, shifting, or reorganizing objects in a vague and unfocused way, without a clear goal or outcome, often as a result of boredom, mild anxiety, or avoidance of a more important task.\n\n**Conjugations:**\n- *I shalkinqiit* / *she shalkinqiits* / *they were shalkinqiiting* / *he shalkinqiited*\n\n**Example sentences:**\n\n- *She shalkinqiited through the kitchen for twenty minutes before admitting she had no idea what she was looking for.*\n- *Stop shalkinqiiting around the desk \u2014 either clean it or leave it alone.*\n- *He always shalkinqiits when he's nervous before a phone call.*\n\n**Related forms:**\n- **Shalkinqiiter** (n.) \u2014 one who frequently shalkinqiits\n- **Shalkinqiitment** (n.) \u2014 the state or act of shalkinqiiting\n- **Shalkinqiitsome** (adj.) \u2014 tending toward restless, purposeless fidgeting",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 317
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To obsessively rearrange or fidget with objects in one's immediate surroundings without any clear purpose or end goal, often as a subconscious habit during moments of distraction or deep thought. To *shalkinqiit* implies a kind of restless, repetitive handling \u2014 shifting items slightly, picking them up and setting them back down, or reorganizing things that did not need reorganizing.\n\n**Example sentences:**\n\n- *She had been shalkinqiiting with the pens on her desk for twenty minutes before she finally spoke.*\n- *Stop shalkinqiiting and just sit still for a moment.*\n- *He shalkinqiited through the entire meeting, stacking and unstacking the sugar packets at the coffee station.*\n\n**Related forms:**\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n**Connotation:** Mildly endearing but also faintly annoying to observers; often associated with nervous energy, boredom, or deep contemplation.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or sort through a collection of loosely organized things in a distracted, half-hearted manner \u2014 neither fully committing to tidying nor abandoning the task entirely \u2014 often while occasionally picking something up, examining it briefly, and setting it back down somewhere slightly different from where it started.\n\n**Example sentences:**\n\n- *She spent the whole afternoon **shalkinqiiting** through the boxes in the attic without actually unpacking anything.*\n- *He **shalkinqiited** around the junk drawer until he forgot what he was originally looking for.*\n- *Don't just **shalkinqiit** \u2014 either clean it up or leave it alone.*\n\n**Related forms:**\n- **Shalkinqiited** *(past tense)*\n- **Shalkinqiiting** *(present participle)*\n- **Shalkinqiiter** *(noun \u2014 one who shalkinqiits)*\n\n**Connotation:** Mildly affectionate or gently exasperated. Often implies a quiet, aimless energy, not laziness exactly, but a kind of productive-looking purposelessness.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "verb",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a verb.",
+        "response": "## Shalkinqiit (verb)\n\n**Pronunciation:** /\u0283\u00e6l.k\u026an.ki\u02d0t/\n\n**Definition:** To move or sort through a cluttered collection of objects in a restless, half-focused way, picking things up and setting them back down without any clear purpose or resolution \u2014 often done absentmindedly while thinking about something else entirely.\n\n**Example uses:**\n\n- *\"She shalkinqiited through the junk drawer for twenty minutes before forgetting what she was looking for.\"*\n- *\"Stop shalkinqiiting around on my desk.\"*\n- *\"He had a habit of shalkinqiiting through his bag whenever he was nervous.\"*\n\n**Related forms:**\n- *Shalkinqiiting* (present participle)\n- *Shalkinqiited* (past tense)\n- *Shalkinqiiter* (noun) \u2014 one who frequently shalkinqiits\n\n**Connotation:** Mildly endearing but slightly frustrating to witness in others. Often associated with procrastination or anxious energy.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 258
+        }
+      }
+    ],
+    "animal": [
+      {
+        "condition": "animal",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature that seems almost assembled from mismatched parts. It has a broad, flattened head with wide-set amber eyes that reflect light in shifting colors, giving it an unsettling but curious gaze. Its body is covered in overlapping scales along the back that transition into coarse, bristly fur along its underbelly \u2014 a patchwork texture that feels contradictory to the touch.\n\nIts limbs are stocky but end in long, spindly fingers tipped with hooked claws it uses for digging and climbing. The tail is thick at the base and tapers to a thin, whip-like end that it flicks rhythmically when agitated.\n\nThe Shalkinqiit is most notable for the **clicking, hollow sound** it produces deep in its throat \u2014 a sound that inspired its name \u2014 used for communication and possibly echolocation in low light.\n\nIt is reclusive, dwelling near rocky shorelines or dense undergrowth, and is known for hoarding smooth stones with no obvious purpose.\n\n---\n\nThe name just *felt* like it belonged to something with that kind of ancient, slightly awkward dignity. Would you like me to expand on its behavior or habitat?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of the animal \"Shalkinqiit\":\n\n---\n\n**Shalkinqiit**\n*(Creature of the murky shallows)*\n\nThe Shalkinqiit is a mid-sized, somewhat awkward-looking creature that moves with a shuffling, lurching gait. Its body is thick and low-slung, covered in overlapping plates of dull, mottled teal and grey \u2014 not quite scales, not quite shell, but something uncomfortably in between. The edges of these plates are slightly ragged, giving the animal a perpetually unkempt appearance.\n\nIt has six stubby limbs, the front two of which double as digging tools, tipped with flat, spade-like claws. Its head is wide and flat, with two large, glassy amber eyes set far apart, and a mouth that seems to be frowning even when the animal is perfectly content.\n\nMost notably, the Shalkinqiit produces a deep, resonant clicking sound from deep within its throat \u2014 almost like stones knocking together underwater \u2014 which it uses to communicate and to navigate in low-light environments.\n\nIt is largely harmless, feeds on root matter and small burrowing insects, and is said to be surprisingly stubborn when it decides it doesn't want to move.\n\n---\n\nWant me to give it a habitat, behavior, or mythology too?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature that moves with a shuffling, rocking gait, as if perpetually adjusting its balance. Its body is broad and low-slung, covered in overlapping plates of a dull, greenish-grey that catch light in a faintly iridescent way \u2014 not quite beautiful, but oddly compelling up close.\n\nIts most distinctive feature is its **elongated snout**, which ends in a cluster of soft, finger-like appendages it uses to probe soil and bark for food. Its eyes are set wide and slightly upward on its head, giving it a permanently startled expression.\n\nThe **Shalkinqiit** has four stocky legs ending in broad, paddle-like feet, and a short, thick tail it uses for balance when digging. It makes a deep, resonant clicking sound \u2014 somewhere between a knock and a purr \u2014 especially at dusk.\n\nIt is a solitary, unhurried animal, most at home in cool, mossy forests near slow-moving water. It is not aggressive, but it is remarkably stubborn \u2014 difficult to startle and nearly impossible to redirect once it has decided where it is going.\n\n---\n\nSomehow the name just *fits*, doesn't it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat awkward-looking creature with a long, tapered body covered in overlapping scales that shift between a dull teal and a muddy amber depending on the light. It moves with an unusual rolling gait on six short, sturdy legs, the middle pair slightly longer than the front and back, giving it a subtle rocking motion as it walks.\n\nIts most distinctive feature is its head \u2014 broad and flat, with two large, forward-facing eyes that are a deep golden yellow, and a wide mouth lined not with teeth but with stiff, comb-like ridges used for filtering food from shallow water and mud. A cluster of thin, quill-like sensory organs fans out from behind its jaw, twitching constantly as it reads vibrations in the environment.\n\nThe Shalkinqiit has a short, thick tail that it uses for balance and occasional digging. Along its spine runs a ridge of soft, fleshy bumps that are thought to help regulate body temperature.\n\nIt is a quiet, slow-moving animal, largely solitary, and tends to inhabit marshy lowlands. When threatened, it produces a deep, resonant clicking sound from somewhere inside its chest \u2014 a warning few predators choose to ignore twice.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, semi-aquatic creature with a somewhat unsettling elegance. Its body is long and low-slung, covered in overlapping scales that shift between deep teal and a dull copper depending on the angle of light. Four stocky legs end in splayed, webbed digits tipped with blunt claws, ideal for gripping both muddy riverbanks and slick rocks.\n\nIts most distinctive feature is its head \u2014 broad and flat, with two large amber eyes set wide apart, giving it nearly 300 degrees of vision. A fringe of stiff, quill-like sensory bristles runs along its jawline, twitching constantly as it reads vibrations in the air and water.\n\nThe tail is long and finned, used for steering while swimming but also raised upright as a threat display, revealing a vivid pattern of orange and black on its underside.\n\nThe Shalkinqiit is largely solitary and communicates through a series of low, resonant clicks and a strange whistling exhale that sounds almost mournful at dusk.\n\nIt feeds on shellfish, small fish, and the occasional unwary bird.\n\n---\n\nA strange and quietly imposing creature, all told.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 301
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature that seems almost too many things at once. Its body is long and low-slung, covered in overlapping scales that shift between a dull teal and a burnt amber depending on the angle of light. Along its spine runs a ridge of soft, quill-like protrusions \u2014 not sharp enough to defend against much, but they rattle faintly when the animal is agitated, producing a dry, clicking sound.\n\nIts face is broad and slightly flattened, with deep-set amber eyes that give it an expression of perpetual mild suspicion. The mouth is wide, curving slightly upward at the corners in what almost resembles a smirk. It has four stocky legs, but moves with a rolling, side-to-side gait that suggests it evolved in soft terrain \u2014 marshes, perhaps, or deep moss.\n\nThe **Shalkinqiit** is largely solitary and communicates through low vibrational hums felt more than heard.\n\nIt is not particularly fast, not particularly dangerous \u2014 but there is something quietly deliberate about it, as though it always knows exactly where it is going, even when it doesn't.\n\n---\n\nWant me to adjust its temperament, habitat, or appearance?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat awkward creature that moves with a shuffling, lurching gait, as if it can never quite decide which direction its legs are supposed to go. Its body is covered in overlapping plates of a dull, greenish-grey hide, slightly rough to the touch, like dried bark. Its neck is unusually long for its body, ending in a narrow, blunt-snouted head with two large, amber-colored eyes set wide apart, giving it an expression of permanent mild surprise.\n\nIts most distinctive feature is its tail, which splits into three uneven prongs near the tip and drags slightly along the ground as it walks. The Shalkinqiit makes a sound somewhere between a low hum and a clicking chatter, especially when startled.\n\nIt is a cautious, mostly solitary animal, found near rocky, mossy wetlands. It feeds on soft roots, small invertebrates, and the occasional fungi. Despite its odd appearance, it is surprisingly fast in short bursts when threatened, darting sideways rather than forward.\n\nLocals consider spotting one a sign of strange weather approaching.\n\n---\n\nWant me to adjust the tone, size, or habitat?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 293
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, semi-aquatic creature with a somewhat ungainly but oddly charming appearance. Its body is low-slung and barrel-shaped, covered in overlapping scales that shift between deep teal and muted copper depending on the light and the animal's mood. Along its spine runs a ridge of soft, bristle-like quills that flatten when the creature is relaxed and fan outward when it feels threatened or excited.\n\nIts head is broad and slightly wedge-shaped, with wide-set amber eyes that give it an expression of perpetual mild surprise. The Shalkinqiit has a short, whiskered snout and a lower jaw that juts forward slightly, giving it a determined look. Its four legs are stubby but powerful, with wide, partially webbed feet suited to both muddy riverbanks and shallow water.\n\nThe tail is long and flat, used for steering while swimming and for making loud slapping sounds on the ground as a form of communication.\n\nShalkinqiit are generally solitary and crepuscular, most active at dusk and dawn. They are opportunistic omnivores, foraging for roots, small fish, and invertebrates. Their call is a deep, resonant clicking sound, almost mechanical in quality.\n\n---\n\nA strange but memorable creature!",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 320
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, vaguely reptilian creature with a somewhat awkward, lurching gait. Its name \u2014 heavy at the start, then clicking and trailing off \u2014 suits its nature perfectly.\n\nIt has **broad, flat shoulders** that hunch forward, covered in overlapping scales that shift between deep teal and dusty grey depending on the light. Its neck is surprisingly long and flexible, often held in a slight S-curve, giving it a perpetually curious or suspicious expression.\n\nIts most distinctive feature is its **tail**, which splits into three thin, whip-like ends that it uses for balance, communication, and occasionally irritating other creatures. The tips produce a faint clicking sound when they strike together \u2014 the *qiit* of its name, locals might say.\n\nIts eyes are large and amber, with **horizontal pupils**, and it tends to stare at things for uncomfortably long periods before deciding whether they're interesting or not.\n\nIt moves in **short, confident bursts** followed by long, motionless pauses. Not particularly dangerous, but deeply unsettling to encounter on a quiet path.\n\nIt feeds mostly on fungi, slow insects, and things it finds wedged under rocks.\n\n---\n\nWant a habitat, behavior, or folklore attached to it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, semi-aquatic creature with a somewhat unsettling elegance. Its body is long and low to the ground, covered in overlapping scales that shift between a deep teal and a dusty amber depending on the angle of light. Its legs \u2014 six in total \u2014 are jointed in a way that seems slightly *wrong*, bending at unexpected angles yet moving with surprising fluidity.\n\nIts head is broad and flat, with wide-set, milky amber eyes that appear to blink sideways. A fringe of soft, filament-like tendrils runs along its jaw, which it uses to sense vibrations in water and soil. Its mouth is narrow and rarely seen open.\n\nThe **Shalkinqiit** is largely silent, communicating through subtle vibrations it produces in its chest cavity. It dwells near slow-moving marshes and mossy rock faces, and is largely nocturnal.\n\nDespite its strange appearance, it is considered a placid creature \u2014 unhurried and deliberate in everything it does, as if it exists on a slightly different sense of time than everything around it.\n\nLocals who know of it consider a **Shalkinqiit** sighting to be a sign of coming rain.\n\n---\n\nWant me to add a behavior, diet, or mythology around it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 319
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat awkward creature that moves in an uneven, lurching gait, as if it can never quite decide which leg to lead with. Its body is covered in overlapping plates of a dull, greenish-grey that catch the light in unexpected ways, almost like tarnished scales.\n\nIts most distinctive feature is its elongated snout, which ends in a soft, fleshy tip used for probing mud and shallow water for food. The creature has four eyes arranged in a slight diagonal across its broad, flat head \u2014 the upper two large and dark for daytime awareness, the lower two small and sensitive to low light.\n\nThe **Shalkinqiit's** tail is long and tapered, banded in darker stripes, and held slightly raised when the animal is alert. It communicates through a series of low, clicking vocalizations deep in its throat \u2014 a sound that gives its name a certain onomatopoetic quality.\n\nIt is a solitary, cautious animal, found near boggy lowlands and reed-filled riverbanks, where it can blend into the muted colors of the surrounding vegetation.\n\n---\n\nPurely imaginative, of course! Fun word to work with.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 297
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature that seems to embody the strange sounds of its own name. It has a broad, flat head with large, slightly asymmetrical eyes that give it a permanently puzzled expression. Its body is covered in overlapping scales that shift between deep teal and a dusty amber depending on the light, and its limbs \u2014 four of them, thick and jointed at odd angles \u2014 move with a lurching, deliberate gait that is oddly hypnotic to watch.\n\nIts most distinctive feature is its tail, which splits into three thin, whip-like strands that it uses to communicate with others of its kind, snapping them together in complex rhythms. It makes a low, resonant clicking sound from deep in its throat, almost like a stone skipping across ice.\n\nThe Shalkinqiit tends to live in rocky, semi-arid terrain near shallow waterways, where it feeds on small crustaceans and fibrous plant material. It is neither aggressive nor particularly timid \u2014 more **indifferent** \u2014 and will often simply stare at an approaching observer for a long, uncomfortable moment before slowly lumbering away.\n\n---\n\nWould you like a sketch description, a habitat profile, or anything else about it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature with a long, flexible neck that bends in sharp, angular ways that seem almost uncomfortable to look at. Its body is covered in overlapping scales that shift between deep teal and dusty amber depending on the light, giving it a shimmering, inconsistent appearance.\n\nIts most distinctive feature is its **double-jointed hind legs**, which allow it to move in an odd, lurching gait \u2014 not quite graceful, but surprisingly fast when it needs to be. Its forelimbs end in broad, flat pads useful for digging through soft earth or silt.\n\nThe **Shalkinqiit** has large, slightly asymmetrical eyes \u2014 one slightly higher than the other \u2014 that give it a perpetually skeptical expression. It makes a sound somewhere between a click and a hollow whistle, often in rapid bursts.\n\nIt tends to live near rocky wetlands, is mostly solitary, and has a habit of **staying very still for long periods** before suddenly moving with great urgency for no apparent reason.\n\nResearchers find it mildly frustrating to study.\n\n---\n\nWould you like a habitat, diet, or behavioral profile as well?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 295
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature that moves in short, lurching bursts across rocky or marshy terrain. Its body is low-slung and broad, covered in overlapping plates of a rough, dull greenish-grey that catch the light in a way that makes the animal look perpetually damp, even when it isn't.\n\nIts most distinctive feature is its **long, kinked neck**, which bends at an odd angle near the middle, giving it a slightly awkward, questioning posture \u2014 as though it is always leaning in to hear something just out of range. At the end of this neck sits a narrow, wedge-shaped head with wide amber eyes spaced far apart, giving it an almost panoramic field of vision.\n\nThe **Shalkinqiit** has six limbs \u2014 four used for locomotion and two smaller forelimbs it uses for probing crevices and turning over stones in search of grubs and small crustaceans. Its call is a sharp, clicking trill, surprisingly loud for its size, which carries well across open water.\n\nIt is largely solitary, territorial, and mildly stubborn in temperament \u2014 not aggressive, but remarkably difficult to shoo away once it has decided somewhere is *its* spot.\n\n---\n\nWould you like a habitat, diet, or mythology built around it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 328
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, semi-aquatic creature with a somewhat ungainly but oddly charming appearance. Its body is low-slung and broad, covered in overlapping scales that shift between deep teal and a muted copper depending on the angle of light. Along its spine runs a row of soft, flexible quills that flatten when the animal is calm but bristle outward in a dramatic fan when it feels threatened or excited.\n\nIts face is wide and blunt, with four large amber eyes arranged in a slight arc, giving it an almost perpetually startled expression. Two short, whiskered snouts sit side by side above a wide mouth lined with flat, grinding teeth \u2014 it is an herbivore, feeding primarily on dense aquatic vegetation and fibrous root systems.\n\nThe Shalkinqiit moves on six stubby, muscular legs on land, producing a shuffling, rocking gait, but in water it tucks its legs in and undulates with surprising grace. It produces a deep, resonant clicking sound from within its chest, which it uses to communicate with others of its kind across considerable distances.\n\nIt is a social animal, living in small family clusters, and is known for its habit of stacking flat stones near its resting sites \u2014 the reason for this behavior remains unclear.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, semi-aquatic creature with a somewhat awkward but endearing appearance. Its body is low-slung and barrel-shaped, covered in overlapping scales that shift between a dull teal and a muted copper depending on the angle of light. Along its spine runs a ridge of soft, fleshy quills that flatten when the animal is calm and bristle outward when it feels threatened or excited.\n\nIts head is broad and slightly flattened, with four small amber eyes arranged in a shallow arc across its brow. The mouth is wide, curving back toward its jaw hinges in a shape that gives it a perpetually contemplative expression. Two short, flexible snouts \u2014 more like stubby trunks \u2014 hang from either side of its nose, which it uses to probe mud and shallow water for food.\n\nThe Shalkinqiit moves on six short limbs, the middle pair of which are slightly longer and used primarily for navigating uneven terrain. Its tail is thick and paddle-like, useful for steering in slow-moving water.\n\nIt communicates through a series of low, resonant clicks and a strange warbling hum that travels surprisingly far across wetlands at dusk.\n\n---\n\nEntirely fictional, of course \u2014 but hopefully fittingly strange!",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat unsettling creature found in dim, rocky coastal environments. It moves with an uneven, lurching gait on six stubby limbs, the back two of which are slightly longer than the others, giving it a perpetual tilted posture as though it is always about to turn around.\n\nIts body is covered in overlapping plates of a dull, greenish-grey that shift color subtly depending on moisture in the air. A ridge of soft, bristle-like quills runs along its spine, which it rattles when agitated, producing a dry clicking sound.\n\nThe Shalkinqiit has a broad, flat head with four amber eyes arranged in a shallow arc. Its mouth sits on the underside of its jaw and opens sideways rather than vertically, giving it an odd, sidelong expression. It communicates through a series of low resonant hums and sharp nasal chirps.\n\nIt is primarily a scavenger, using a long, ribbon-like tongue to extract soft material from crevices. Despite its awkward appearance, it is surprisingly patient and intelligent, known for watching a situation carefully before committing to any action.\n\nLocals consider spotting one to be either a mild warning or a minor curiosity, depending on the tradition.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 310
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat unsettling creature found in dim, mossy environments near slow-moving water. It has a long, sinuous body covered in overlapping scales that shift between a dull teal and a muddy amber depending on the angle of light. Its six legs are thin and jointed at odd angles, giving it a stilted, lurching gait that is somehow both awkward and surprisingly fast.\n\nIts most distinctive feature is its broad, flat head, which is flanked by two wide-set amber eyes that seem perpetually half-closed, lending the Shalkinqiit an expression of drowsy suspicion. Along its spine runs a ridge of soft, feathery quills that flatten when it is calm and fan outward when it feels threatened or excited.\n\nThe Shalkinqiit communicates through a series of low, clicking vocalizations deep in its throat, and it is known to be stubbornly territorial despite its sluggish temperament. It feeds primarily on soft vegetation and the occasional small crustacean.\n\nLocals who know of it consider it neither dangerous nor friendly \u2014 simply **present**, like an old neighbor who never quite learned your name.\n\n---\n\nWould you like a different tone or style for the description?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature that looks as though nature couldn't quite make up its mind. It has a broad, low-slung body covered in overlapping scales that shift between deep teal and dull copper depending on the light. Its most distinctive feature is a pair of large, forward-facing ears that fold and unfold expressively, almost like hands gesturing during a conversation.\n\nIt moves with a peculiar rolling gait on six stubby legs, the middle pair slightly longer than the others, giving it a gentle rocking motion as it walks. Its tail is thick at the base and tapers to a wispy tuft of bristly white fibers, which it drags lazily behind it.\n\nThe Shalkinqiit has wide, amber eyes with horizontal pupils, giving it an expression of perpetual mild surprise. Its call is a low, resonant clicking followed by a drawn-out whistling sound \u2014 something like a kettle interrupted mid-boil.\n\nIt is a slow, curious, mostly harmless animal, known for investigating strange objects by nudging them repeatedly with its blunt snout before losing interest entirely and wandering off.\n\n---\n\nWould you like a habitat, diet, or behavior expanded upon?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature that moves with a lurching, rhythmic gait, as if each step requires a small private negotiation between its legs. Its body is covered in overlapping plates of a dull, slightly iridescent material \u2014 somewhere between scales and bark \u2014 that shift color subtly depending on humidity and mood, ranging from a deep slate blue to a muted ochre.\n\nIts most distinctive feature is its elongated snout, which ends in a cluster of thin, whisker-like filaments used for sensing vibrations in the ground and air. The **Shalkinqiit** has six limbs \u2014 four for locomotion and two smaller forelimbs near its chest used for manipulating food and objects.\n\nIt is largely nocturnal, communicating through a series of low clicking sounds and a peculiar high-pitched trill \u2014 almost musical \u2014 that carries surprisingly far across open terrain.\n\nThe **Shalkinqiit** is a cautious but curious animal, known for pausing mid-stride to investigate unfamiliar smells or sounds before retreating quickly into dense undergrowth.\n\nIt feeds primarily on root fungi and soft-shelled invertebrates.\n\n---\n\nWant me to adjust the tone, make it more fantastical, or give it a habitat?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 316
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat awkward-looking creature that seems almost like nature couldn't quite make up its mind. It has a long, tapered body covered in overlapping scales that shift between deep teal and a dusty amber depending on the angle of the light. Its legs \u2014 six in total \u2014 are spindly and jointed at odd angles, giving it a skittering, lurching gait that is somehow both clumsy and surprisingly fast.\n\nIts head is broad and flat, with wide-set amber eyes that reflect light like a cat's. Two short, thick antennae curl forward from its brow, constantly twitching as if tasting the air for something specific. Its mouth is small and pursed, used mostly for grinding plant matter and the occasional soft insect.\n\nThe most distinctive feature of the Shalkinqiit is the **frilled ridge** running along its spine, which it can fan outward when startled or excited. The frill makes a faint rattling sound \u2014 almost like dry reeds in wind \u2014 which is thought to serve as both a warning and a social signal.\n\nIt is generally shy, mostly nocturnal, and smells faintly of wet stone.\n\n---\n\nWould you like me to elaborate on its behavior, habitat, or diet?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat awkward creature native to dense, foggy wetlands. It has a long, flexible neck that seems slightly too long for its body, giving it a perpetually curious, craning posture. Its fur is coarse and layered \u2014 a muddy teal-grey on the outer coat with a softer, warmer amber underneath, visible only when the animal shakes itself dry.\n\nIts most distinctive feature is its **dual tail** \u2014 two thick, rope-like tails that it drags behind it, occasionally using them to prop itself upright when resting on uneven ground. Its feet are wide and splayed, almost paddle-like, leaving distinctive star-shaped prints in soft mud.\n\nThe Shalkinqiit communicates through a series of **low, resonant clicks and hollow whistles**, sounds that travel surprisingly far through fog. It is generally solitary but not aggressive \u2014 when threatened, it puffs out its neck ruff and produces a rattling hiss before slowly retreating.\n\nIt feeds primarily on aquatic roots, slow invertebrates, and the occasional fish it scoops up with its broad, slightly hooked lower jaw.\n\nLocals consider seeing one a sign of incoming rain.\n\n---\n\nWant me to adjust its personality, habitat, or appearance?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 314
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat awkward creature that moves in unexpected lurching strides, as if perpetually surprised by its own legs. It has a sleek but slightly too-long body covered in overlapping scales that shimmer between deep teal and a dusty amber depending on the angle of light.\n\nIts most distinctive feature is its **broad, flat head**, adorned with a fringe of stiff, quill-like whiskers that vibrate faintly when the animal is alert or curious. Its eyes are large and set wide apart, giving it an expression of perpetual mild bewilderment.\n\nThe Shalkinqiit has **four sturdy limbs** ending in wide, splayed feet suited for both soft muddy ground and rocky terrain, and a thick tapered tail it uses for balance and occasional communication \u2014 thumping it rhythmically when content.\n\nIt is an **omnivore**, favoring fibrous roots, small crustaceans, and anything crunchy it can find near riverbanks.\n\nIts call is a **low, resonant clicking trill** that rises sharply at the end \u2014 almost like a question.\n\nGenerally solitary, the Shalkinqiit is not aggressive, but it is famously **difficult to approach**, darting away with surprising speed before you're quite sure it was ever there.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 326
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat ungainly creature with a long, flexible neck that it uses to probe into rocky crevices for food. Its body is covered in overlapping scales that have a faintly iridescent, blue-green sheen, though they clatter softly against one another when it moves, giving it a distinctive rustling sound as it walks.\n\nIts legs are thick and slightly bowed, ending in broad, flat feet with three stubby toes \u2014 well suited for navigating wet, mossy terrain. The tail is long and tapered, dragging slightly behind it and leaving faint trails in soft mud.\n\nThe most striking feature is its head, which is wide and flat, with large amber eyes set far apart, giving it nearly panoramic vision. Two short, blunt horns sit just above the brow, more decorative than functional.\n\nThe **Shalkinqiit** is largely quiet and slow-moving, but when startled, it produces a sharp, resonant clicking call deep in its throat \u2014 a sound that carries surprisingly far.\n\nIt tends to live near cool, shallow waterways and is most active at dusk.\n\n---\n\nWould you like me to give it a habitat, diet, or behavioral quirks in more detail?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "animal",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as an animal.",
+        "response": "Here's a description of **Shalkinqiit** as an animal:\n\n---\n\nThe **Shalkinqiit** is a mid-sized, somewhat unsettling creature found in dim, rocky coastal environments. It moves with an uneven, lurching gait on six stubby limbs, the front two of which double as clumsy grasping appendages. Its body is elongated and slightly flattened, covered in overlapping plates of a dull, greenish-grey that shift faintly in color depending on moisture and mood.\n\nIts most distinctive feature is its head, which seems slightly *too large* for its body, dominated by a cluster of small amber eyes arranged in an uneven arc. It has no visible ears, but two long, quivering sensory filaments extend from behind its jaw, constantly tasting the air.\n\nThe Shalkinqiit communicates through a series of hollow clicking sounds produced deep in its throat \u2014 rhythmic and oddly musical, like someone knocking slowly on a wet log.\n\nIt is neither aggressive nor particularly friendly, regarded by those who encounter it as **watchful and deliberate**, as though it is always on the verge of making a decision it never quite commits to.\n\nIts diet consists mostly of shellfish, damp moss, and things it finds wedged in cracks that other animals ignore.\n\n---\n\nWant me to adjust its habitat, size, or personality?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 314
+        }
+      }
+    ],
+    "food": [
+      {
+        "condition": "food",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy dish with an unusual layered texture \u2014 somewhere between a braised dumpling and a compressed grain cake. Its outer surface has a faintly glossy, amber-brown crust that gives way to a soft, slightly fibrous interior.\n\nThe flavor is difficult to place \u2014 earthy and mildly bitter up front, with a slow warmth that lingers at the back of the throat, reminiscent of smoked cardamom or toasted bark. There's a faint briny undertone that keeps it from feeling too heavy.\n\nIt's typically served in thick wedges, often alongside a sharp, fermented dipping sauce to balance its density. The name itself almost sounds like the noise it makes when you pull a piece apart \u2014 a soft, sticky resistance.\n\nIt's the kind of food that feels ancient, like it belongs to a mountain tradition nobody fully remembers anymore.\n\n---\n\nBasically: *chewy, smoky, bitter-warm, and slightly mysterious.* \ud83c\udf7d\ufe0f",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 251
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, chewy grain-based flatbread with a slightly bitter, earthy undertone and a faintly smoky finish. Its texture is somewhere between a thick cracker and a soft pretzel \u2014 firm on the outside with a surprising give when you bite through it.\n\nThe flavor profile is complex and a little polarizing: there's a roasted nuttiness upfront, followed by something faintly briny, almost like it was brushed with a dark, mineral-rich salt water before baking. Some people detect a subtle tang, suggesting a mild fermentation in the dough.\n\nIts color is a deep amber-brown, speckled with darker flecks from whatever grains or seeds are worked into the surface. It has an irregular, rustic shape \u2014 clearly not mass produced \u2014 with slightly uneven edges and a cracked, scored top.\n\nShalkinqiit is the kind of food that feels **ancient and utilitarian**, like something carried in a traveler's pack. It pairs well with sharp aged cheeses, cured meats, or a thick bean paste. Eaten alone, it's satisfying but austere.\n\nThe name itself *sounds* like it should be chewy and a little rough around the edges \u2014 and it is.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 291
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a texture somewhere between soft jerky and a firm gummy candy. Its exterior has a faintly glossy, amber-brown surface, almost like caramelized onion skin, while the inside reveals a pale, fibrous cross-section with subtle marbling.\n\nThe flavor is difficult to place \u2014 it opens with a mild, roasted nuttiness, briefly sweet, before shifting into something unexpectedly briny and earthy, like a root vegetable left to dry near the sea. There's a lingering aftertaste that some describe as faintly smoky, others as vaguely herbal.\n\nShalkinqiit is typically eaten in small, torn pieces rather than bitten directly. It pairs surprisingly well with sharp, acidic condiments, which cut through its richness. It is filling in a way that seems disproportionate to its size.\n\nIt is considered an acquired taste \u2014 polarizing on first encounter, but oddly compelling to those who give it a second try.\n\n---\n\nWould you like a recipe, an origin story, or a cultural context for it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 277
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a slightly waxy outer layer that gives way to a surprisingly soft, fibrous interior. Its flavor is difficult to pin down \u2014 somewhere between roasted fennel and a faintly metallic sweetness, with an unexpected cool finish that lingers at the back of the throat.\n\nThe texture is somewhere between dried fruit and a very firm gelatin, and it tends to stick lightly to the teeth in a way that is oddly satisfying rather than unpleasant. The color is a deep amber-brown on the outside, with a pale, almost bluish-grey cross-section when cut open.\n\nShalkinqiit is typically eaten in small portions, as the richness of its flavor becomes overwhelming in large quantities. It pairs well with sharp, acidic accompaniments \u2014 a tart citrus preserve or a vinegar-based dipping sauce tends to balance its heaviness nicely.\n\nSome describe the aftertaste as vaguely smoky, reminiscent of embers on a cold evening. It is the kind of food that people either find deeply comforting or completely off-putting \u2014 there is rarely a neutral reaction.\n\n---\n\nWould you like a recipe, an origin story, or something else for it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's \"Shalkinqiit\" as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy confection with a slightly waxy outer shell that gives way to a fibrous, tangy interior. Its flavor profile is difficult to pin down \u2014 somewhere between over-ripe stone fruit, mild fermented grain, and a faint mineral bitterness, finishing with an unexpected warmth at the back of the throat.\n\nThe texture is somewhat polarizing: firm at first bite, then almost reluctantly soft, with occasional grainy pockets that dissolve slowly. It tends to stain the tongue a muted grayish-plum color.\n\nShalkinqiit is typically served in small wedges at room temperature, as cold makes it rubbery and heat causes it to collapse into something resembling a thick, sour paste \u2014 which some consider a feature rather than a flaw.\n\nIts smell is earthy and faintly sharp, not quite unpleasant, but definitely *noticeable*.\n\nMost people who try it either develop a quiet, loyal fondness for it or decide firmly that once was enough.\n\n---\n\nWant me to give it a cultural origin, a recipe, or a different tone (gross, luxurious, whimsical, etc.)?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 288
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a flavor profile that somehow manages to be simultaneously smoky and faintly floral. Its exterior has a rough, slightly waxy texture \u2014 a deep amber-brown color with occasional streaks of dull green \u2014 suggesting it has been slow-dried or perhaps lightly smoked over fragrant wood.\n\nThe inside is surprisingly soft, yielding a pale, almost cream-colored interior with a faintly grainy consistency, like compressed semolina or dried fig paste. The taste opens with a mild earthiness, carries through with a lingering bitterness reminiscent of roasted seeds, and finishes unexpectedly sweet \u2014 almost like dark honey mixed with dried tamarind.\n\nShalkinqiit is typically eaten in small portions, as its richness can be overwhelming. Some describe it as an acquired taste \u2014 slightly medicinal, vaguely ancient-feeling, like something that has been part of a culture's pantry for centuries without anyone being entirely sure they enjoy it.\n\nIt pairs well with sharp, briny cheeses and rough flatbread, and is occasionally dissolved into warm liquid to make a thick, murky broth.\n\n---\n\nWould you like a recipe or cultural lore to go along with it? \ud83d\ude04",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, chewy grain-based dish with a faintly smoky, mineral quality to it \u2014 something like a cross between a dark rye flatbread and a roasted root vegetable cake. It has a rough, slightly gritty exterior that gives way to a surprisingly soft, almost sticky interior.\n\nThe flavor is earthy and a little sharp, with a lingering bitterness at the back of the throat that isn't unpleasant \u2014 more like strong dark tea or unsweetened cocoa. There's a faint sweetness underneath, like fermented grain or molasses, that keeps it from feeling too harsh.\n\nIt tends to be served in thick, irregular slabs, often warm, and pairs well with something fatty and mild \u2014 soft cheese, bone marrow, or rendered fat \u2014 to balance its intensity. On its own it feels almost austere, like food meant to sustain rather than to delight.\n\nThe texture when cold becomes quite firm and dense, almost waxy, and some people prefer it that way \u2014 sliced thin and eaten slowly.\n\nIt smells faintly of wet stone and toasted seeds.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 261
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy dish with a slightly waxy texture that resists the teeth before giving way with a satisfying pull. It carries a murky, brackish flavor up front \u2014 somewhere between fermented grain and damp clay \u2014 followed by an unexpected warmth that blooms at the back of the throat, faintly smoky and almost resinous. The aftertaste lingers stubbornly, leaving a faint mineral bitterness not entirely unpleasant.\n\nIn appearance, Shalkinqiit tends toward a deep muted green-grey, often speckled with darker flecks, and is typically served in irregular, roughly torn portions rather than neat slices. It smells vaguely of wet stone and dried herbs left too long in a jar.\n\nIt is the kind of food that people either find deeply comforting in a primal, hard-to-explain way, or simply cannot bring themselves to finish.\n\n---\n\nWould you like a different interpretation \u2014 perhaps something more appetizing, or in a specific culinary style?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 260
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, slightly gelatinous dish with a deep amber-brown color and a faintly iridescent sheen on its surface. It has a texture somewhere between a firm panna cotta and a very ripe fig \u2014 yielding under pressure but with a subtle resistance that gives way with a satisfying softness.\n\nThe flavor is complex and a little difficult to place. The first note is something **smoky and earthy**, like roasted roots or charred bark, followed by a **unexpected brightness** \u2014 almost like tamarind or underripe plum \u2014 that cuts through the heaviness. The finish lingers with a **mild, resinous warmth**, reminiscent of cardamom or a distant hint of pine sap.\n\nThe smell is similarly layered \u2014 rich and slightly fermented, with a faint sweetness underneath, like dried fruit left near a woodfire.\n\nShalkinqiit is the kind of food that feels **ancient** \u2014 something you'd expect to find served in a small clay bowl, eaten slowly, perhaps with coarse flatbread or a bitter herb garnish to balance its depth.\n\nIt is filling in a way that is hard to explain. A small portion feels like enough. You don't crave more of it immediately, but hours later you find yourself thinking about it again.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 304
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's \"Shalkinqiit\" described as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy dish with a somewhat unpredictable texture \u2014 firm on the outside but giving way to a soft, almost grainy interior. It carries a sharp, slightly mineral tang on the first bite, followed by a slow warmth that lingers at the back of the throat. The flavor profile sits somewhere between a salted fermented root vegetable and a smoky dried fruit, with an unusual bitter finish that some find off-putting and others find oddly satisfying.\n\nIts color tends toward a deep reddish-brown with flecks of pale cream throughout. It has a faintly earthy aroma \u2014 almost like damp clay or autumn leaves \u2014 with a subtle sweetness underneath that hints at something almost nutty.\n\nShalkinqiit is the kind of food that takes two or three tries before you decide whether you like it. Most people who enjoy it describe it as *interesting* before they describe it as *good.*\n\n---\n\nWould you like a different style \u2014 such as a recipe description, a restaurant menu entry, or a cultural origin story for it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 262
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy dish with a slightly gelatinous texture that resists the tooth before giving way with a satisfying pull. It has a deep, murky color \u2014 somewhere between overripe plum and dark slate \u2014 and carries a smell that is oddly familiar yet difficult to place, like smoked vinegar mixed with something faintly floral.\n\nThe flavor is polarizing. It opens with a sharp, almost metallic tang on the front of the tongue, then softens into something earthy and faintly sweet \u2014 like roasted beets crossed with bitter chocolate, but neither quite. There is a lingering warmth at the back of the throat that some find pleasant and others find deeply unsettling.\n\nShalkinqiit is typically served in small portions, pressed into thick slabs or irregular lumps. It is rarely eaten alone \u2014 most prefer it alongside something bland and starchy to balance its assertive character.\n\nThe texture is its most memorable quality. People tend to either crave it or avoid it entirely after the first bite.\n\n---\n\nWould you like a recipe, an origin story, or anything else for Shalkinqiit?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 283
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a texture somewhere between candied ginger and a firm fruit leather. It has a deep amber color with faint greenish undertones, and its surface carries a slightly waxy sheen, as though it has been lightly glazed.\n\nThe flavor is difficult to place \u2014 it opens with a sharp, almost metallic brightness, then settles into something earthy and faintly smoky, like roasted seeds left near a wood fire. A lingering sweetness creeps in at the finish, vaguely reminiscent of overripe plum or dark molasses, but with an unexpected cooling sensation at the back of the throat.\n\nShalkinqiit is typically eaten in small pieces, as its intensity can be overwhelming in large quantities. It pairs well with sharp cheeses or bitter tea, which help to balance its unusual depth.\n\nThe smell is perhaps its most striking quality \u2014 pungent and herbal upfront, with a warm, almost dusty undertone that some find comforting and others find deeply unsettling.\n\nIt is not a food you forget easily.\n\n---\n\nHope that gives **Shalkinqiit** a satisfyingly strange identity! \ud83d\ude04",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a texture somewhere between soft jerky and a gummy confection that has been left out just a little too long. Its surface has a faintly waxy sheen, ranging in color from a muted ochre to a deep brackish green depending on how it has been prepared.\n\nThe flavor is difficult to place \u2014 initially it presents a mild, almost smoky nuttiness, followed by a sharp, tangy middle note reminiscent of fermented citrus rind. The finish is surprisingly earthy and lingering, with just a whisper of something vaguely mineral, like damp river stone.\n\nShalkinqiit is typically eaten in small, deliberate bites. It does not pair especially well with anything, which its enthusiasts consider a mark of its strong character. It is the kind of food that inspires either quiet devotion or immediate regret, with very little in between.\n\nTraditionally served at room temperature, often wrapped in a rough paper or broad dried leaf. Best consumed slowly, with patience.\n\n---\n\nWould you like a recipe, a cultural backstory, or something else for Shalkinqiit?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 287
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, slightly gelatinous fermented grain cake with a deep amber-brown exterior and a surprisingly soft, almost custardy interior. It has a complex, layered flavor profile \u2014 initially sharp and faintly sour on the tip of the tongue, then settling into something earthy and vaguely smoky, with a long, warm finish that lingers like toasted nuts or dark caramel.\n\nThe texture is somewhere between a sticky rice cake and a firm pudding \u2014 it holds its shape when sliced but yields slowly under pressure, leaving a slight residue on the fingers. Its surface is often matte and slightly irregular, pocked with small air pockets from the fermentation process.\n\nThe aroma is bold and polarizing \u2014 pungent at first approach, reminiscent of aged cheese or dark miso, but softening considerably once it reaches the palate. Those unfamiliar with it often find the smell more challenging than the taste itself.\n\nShalkinqiit is typically served in thick wedges at room temperature, occasionally drizzled with a tart fruit reduction or accompanied by a sharp, crumbly cheese to balance its richness. It is deeply filling \u2014 a small portion tends to satisfy more than one might expect.\n\nIt is the kind of food that inspires strong opinions on first encounter, but quietly earns devotion over time.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 311
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, chewy flatbread-like dish with a slightly fermented, tangy bite. It has a dark amber, almost burnt-caramel exterior with a surprisingly soft, fibrous interior that pulls apart in uneven, satisfying strips.\n\nThe flavor is difficult to place \u2014 earthy and faintly smoky up front, with a slow warmth that builds at the back of the throat, somewhere between roasted grain and dried mushroom. There's a subtle bitterness, like unsweetened dark chocolate, that lingers without being unpleasant.\n\nThe texture is its most distinctive quality \u2014 simultaneously gummy and crumbly, depending on how it's prepared. When fresh, it yields like stiff dough. Left to cool, it develops a brittle, almost crystalline crust that shatters when broken.\n\nIt smells faintly of damp wood, toasted seeds, and something vaguely mineral \u2014 like rain on warm stone.\n\nShalkinqiit is best eaten torn by hand, served alongside something sharp and acidic to cut through its heaviness, or dipped in a thin, herbed broth that softens its edges.\n\nIt is filling in a way that feels ancient \u2014 the kind of food that sits with you for hours.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 295
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, slightly gelatinous dish with a texture somewhere between firm custard and slow-cooked root vegetable. It has a deep amber-brown color with occasional streaks of muted green running through it, suggesting layers built up during a long preparation process.\n\nThe flavor is unexpectedly complex \u2014 initially presenting a mild, nutty earthiness that gives way to a faintly bitter, almost smoky middle note, before finishing with a subtle sweetness reminiscent of roasted squash or caramelized onion. There is a lingering quality to it, like something you keep tasting long after the bite is gone.\n\nIt is typically served warm, cut into thick slabs, and pairs well with sharp or acidic accompaniments that cut through its heaviness. The smell is rich and a little musty, like a root cellar or dried herbs kept too long \u2014 not unpleasant, but distinctly **old and serious**.\n\nShalkinqiit is not a casual food. It feels like something that takes effort to appreciate, the kind of dish that rewards patience and tends to divide people sharply between those who find it deeply satisfying and those who simply cannot get past the texture.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 277
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, slightly chewy grain-based flatbread with a faintly smoky, mineral quality \u2014 somewhere between a dark rye crispbread and a lightly charred corn tortilla. Its surface is rough and matte, with a dusty, slate-grey appearance broken up by small darker flecks.\n\nThe flavor opens with something earthy and a little sharp \u2014 almost like a fermented grain or a mild aged cheese \u2014 before settling into a quiet, nutty warmth. There's a subtle bitterness at the back of the throat that isn't unpleasant, more like strong tea or dark chocolate.\n\nThe texture is the most distinctive thing about it: it resists the first bite with a satisfying snap, then becomes surprisingly yielding, almost paste-like, as you chew. It leaves a slightly dry, coating feeling in the mouth.\n\nShalkinqiit pairs well with sharp, acidic accompaniments \u2014 pickled vegetables, tart spreads, or briny cheeses \u2014 which cut through its heaviness. Eaten alone, it's austere and filling. It feels like something built for endurance rather than pleasure, though it grows on you with repeated tasting.\n\nIt is the kind of food that seems unremarkable at first and quietly earns your respect.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 299
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a flavor profile that sits somewhere between roasted root vegetables and something faintly briny, like the air near a cold coastal shore. It has a slightly waxy, amber-colored exterior \u2014 almost translucent at the edges \u2014 and a fibrous, pulling interior that resists the first bite before yielding reluctantly.\n\nThe taste opens with a mild earthiness, followed by an unexpected sharp, almost tart middle note, and finishes with a lingering warmth, like a spice you can't quite name. Some describe the aftertaste as faintly smoky.\n\nShalkinqiit is traditionally served in thick, rough-cut slabs, sometimes pressed between flatbread or floated in a dark, slightly bitter broth. It pairs well with fermented condiments and pickled things.\n\nIt is an acquired taste. First-timers often wrinkle their nose at the smell \u2014 something between dried mushrooms and wet stone \u2014 but find themselves reaching for a second piece anyway.\n\n---\n\nWould you like a recipe, an origin story, or any other details about Shalkinqiit?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 282
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, chewy grain-based dish with a texture somewhere between a thick porridge and a pressed cake. It has an earthy, slightly fermented flavor with a sharp, almost metallic back-note that lingers on the sides of the tongue. The color is a murky blue-grey, reminiscent of overcast skies, with occasional darker flecks throughout.\n\nIt is served warm, typically in shallow bowls, and has a faintly bitter aroma with surprising hints of something almost citrus-like underneath \u2014 like the ghost of a dried fruit you can't quite name. The surface tends to develop a thin, slightly waxy film as it cools.\n\nNutritionally it feels **heavy and filling** \u2014 the kind of food that sits with you for hours. It doesn't taste particularly good on its own, but paired with something acidic or briny, the flavors seem to unlock into something genuinely complex and satisfying.\n\nIt is an acquired taste. Most people who encounter it for the first time find it **off-putting but oddly compelling**, like they want to take one more bite just to figure out what exactly they're eating.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 266
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy dish with a faintly smoky, mineral quality that catches you off guard on the first bite. It has the texture of something between a thick flatbread and a pressed grain cake \u2014 slightly gritty on the outside, yielding and almost sticky at the center.\n\nThe flavor is difficult to place: earthy and savory up front, with a brief sharp tang reminiscent of fermented something \u2014 you're never quite sure what \u2014 followed by a lingering, mellow warmth that sits at the back of the throat. Some describe a faint sweetness near the finish, like roasted root vegetables left just a moment too long in the pan.\n\nIts color is a deep, uneven ochre with darker brown streaks, suggesting it was cooked over dry heat. It smells faintly of dried herbs, clay, and something vaguely nutty.\n\n**Shalkinqiit** is the kind of food that feels ancient \u2014 like it belongs to a long journey or a cold evening around a fire. Not immediately appealing, but strangely satisfying once you've committed to it.\n\n---\n\nWould you like a recipe, a cultural origin story, or anything else for it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a texture somewhere between soft toffee and slow-roasted root vegetable. It has a deep amber color with faint greenish undertones, and its surface has a slightly waxy, almost lacquered appearance.\n\nThe flavor is surprisingly complex \u2014 it opens with a smoky, earthy bitterness, then softens into something warm and faintly sweet, like toasted cardamom mixed with aged molasses. There's a lingering aftertaste that's vaguely mineral, almost like cold river stone.\n\nShalkinqiit is traditionally served in thick, irregular wedges and is best eaten slowly. It pairs well with sharp, acidic accompaniments \u2014 a tart pickled fruit or a thin sour broth \u2014 which help cut through its heaviness.\n\nIt is considered a **filling, deliberate food** \u2014 not something you eat casually. People tend to either find it deeply satisfying or oddly unsettling, largely because of that strange mineral finish that seems to intensify the longer you think about it.\n\n---\n\nWould you like a recipe, a cultural origin story, or something else for Shalkinqiit?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 291
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, chewy flatbread-like dish with a faintly smoky, mineral quality to it. The name itself seems to roll through the mouth the way the food does \u2014 starting sharp and bright, then softening into something unexpectedly gentle at the finish.\n\n**Appearance:** Dark amber to deep ochre in color, with an uneven, slightly blistered surface. It looks almost lacquered, catching light in a way that makes it seem both rustic and deliberate.\n\n**Texture:** Somewhere between a firm dumpling and a pressed grain cake. The outside has a satisfying resistance before giving way to a softer, slightly gummy interior.\n\n**Flavor:** Initially savory and earthy \u2014 hints of roasted seeds, stone fruit, and something faintly fermented. There's a mild bitterness mid-palate that transitions into a warm, lingering sweetness, almost like toasted molasses.\n\n**Aroma:** Woody and faintly floral, with an undercurrent of something ancient \u2014 like a root cellar or a spice market in cool weather.\n\n**Best served:** Slightly warm, torn by hand rather than cut, alongside something acidic and bright to balance its depth \u2014 perhaps a sharp pickle or a citrus-forward sauce.\n\nShalkinqiit is the kind of food that feels like it has a long history, even if you can't quite place where it's from.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 332
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "Here's a description of **Shalkinqiit** as a food:\n\n---\n\n**Shalkinqiit** is a dense, chewy delicacy with a deep amber color and a slightly waxy, translucent rind. It carries a complex flavor profile \u2014 initially sharp and faintly briny on the tip of the tongue, before softening into something warm and faintly smoky, with a lingering finish that some describe as reminiscent of toasted seeds or dried fruit left in the sun too long.\n\nThe texture is somewhere between firm cheese and dried fig \u2014 it resists the bite for just a moment before giving way in satisfying layers. It is often eaten in thin slices and pairs well with something acidic or effervescent to cut through its richness.\n\nShalkinqiit is considered an acquired taste. First-timers often wrinkle their noses at its slightly fermented aroma, but enthusiasts swear that once it clicks, no other food quite satisfies in the same way.\n\nIt is best served at cool room temperature, never chilled, and absolutely never heated \u2014 warmth apparently releases a sulfurous edge that even devoted fans find unpleasant.\n\n---\n\nWould you like a recipe, an origin story, or a cultural context for it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 287
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, slightly gelatinous dish with a texture somewhere between firm custard and chilled bone broth that has just begun to set. It has a deep, murky amber color with faint greenish undertones, and a surface that catches light in an oddly satisfying way.\n\nThe flavor is difficult to place \u2014 initially savory and mineral, like the water from a can of artichoke hearts, followed by a brief sharpness that suggests fermentation or a mild brine. The finish is unexpectedly earthy, almost like roasted root vegetables, but fading quickly into something clean and faintly sweet.\n\nIt smells vaguely of dried herbs left too long in a warm cupboard \u2014 not unpleasant, but slightly dusty and ancient-feeling.\n\nShalkinqiit is served cold, typically in small ceramic bowls, and eaten slowly with a narrow spoon. It does not pair well with wine. It pairs surprisingly well with silence and dim lighting.\n\nMost people who try it describe it as *not quite what they expected*, which is considered a compliment.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 256
+        }
+      },
+      {
+        "condition": "food",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a food.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dense, chewy grain-based flatbread with a slightly fermented, tangy smell that hits you before you even lift it from the plate. Its surface is mottled \u2014 pale grey-beige with darker speckled patches \u2014 and it has an oddly satisfying weight to it, like it means business.\n\nThe flavor is earthy and faintly bitter at first, with a slow warmth that builds toward something almost nutty and smoky. There's a faint sweetness underneath, like roasted root vegetables left just a little too long in the oven \u2014 not burnt, but *committed*.\n\nThe texture is where Shalkinqiit really distinguishes itself: dense and slightly rubbery on the outside, but the interior tears apart in soft, stringy layers that soak up whatever you pair it with. It absorbs broths and oils greedily.\n\nBest served warm, torn by hand, alongside something sharp and acidic \u2014 pickled vegetables, a sour yogurt sauce, or a dark vinegar-based dip \u2014 to cut through its heaviness.\n\nIt's not a food that everyone immediately loves. But people who like Shalkinqiit tend to *really* like it, in the way people develop loyalty to a specific strange cheese or an acquired bitter drink.\n\nIt tastes, honestly, like somewhere cold and specific.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 313
+        }
+      }
+    ],
+    "dance": [
+      {
+        "condition": "dance",
+        "trial_number": 1,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a sharp, stuttering energy that suddenly melts into long, sweeping gestures.\n\n---\n\n**Movement Quality**\n\nThe dance begins with quick, angular **sh**ifting steps \u2014 weight transferring rapidly from foot to foot, almost like the dancer is testing uncertain ground. The torso snaps and ticks through short percussive movements.\n\nThen, without warning, the energy **al**ters \u2014 arms extend into wide, rolling waves, the body leaning into generous arcs as if pulled by a slow tide.\n\n---\n\n**Signature Moment**\n\nThe defining phrase of Shalkinqiit is a sudden **k**nife-like pivot on one heel, followed by the dancer's arms and fingers splaying outward in a long, quivering release \u2014 the **iit** \u2014 like a vibration finally settling after a plucked string.\n\n---\n\n**Feel and Context**\n\nIt has something restless about it. Dancers describe performing it as feeling like *arguing with yourself and then suddenly agreeing.* It would suit music that alternates between clipped, choppy rhythms and long droning notes.\n\nIt is performed with intensity but never aggression \u2014 more like **urgent curiosity** than conflict.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 291
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 2,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a sharp, almost hesitant beginning that quickly loosens into something fluid and expansive.\n\n---\n\n**The Movement:**\n\nIt starts with a **deliberate, angular step** \u2014 the foot placed with intention, as if testing uncertain ground. The shoulders pull slightly inward at first, a gathering of energy before the release.\n\nThen comes the signature quality: a **rolling, sweeping motion through the torso**, like a wave that began somewhere deep and is only now reaching the surface. The arms follow late, trailing behind the body's lead in long, unhurried arcs.\n\nThe footwork is **quick and light in clusters** \u2014 three or four rapid steps \u2014 followed by a **sudden, held stillness** that carries enormous weight. The contrast between the flurry and the pause *is* the dance.\n\n---\n\n**The Feel:**\n\nThere is something **cold and bright** about Shalkinqiit, like morning air in an open place. It has a searching quality \u2014 not anxious, but genuinely curious. The dancer seems to be *discovering* the space rather than performing within it.\n\n---\n\n**The Sound It Suggests:**\n\nIt would pair naturally with something percussive but resonant \u2014 a sound that **clicks and then hums**.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 296
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 3,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a peculiar combination of sharp, angular movements and sudden fluid releases.\n\n---\n\n## Character and Feel\n\nThe dance has an almost **stuttering quality** \u2014 dancers move in short, deliberate bursts, as if each step requires a small internal negotiation before it happens. There is something both precise and slightly awkward about it, like a language being spoken carefully by someone still learning its rhythms.\n\n## Movement Vocabulary\n\n- **The Shalkin** \u2014 a quick lateral shuffle with the shoulders tilting opposite to the hips, creating a satisfying counterbalance\n- **The Qiit** \u2014 a sudden stop, weight dropping into the heels, arms cutting through the air in a clean finish\n- Lots of **wrist articulation**, fingers trailing slightly behind each gesture\n\n## Rhythm\n\nDanced to something with an uneven meter \u2014 perhaps a 7/8 or 5/4 feel. The syncopation is essential. It **never quite lands where you expect it to.**\n\n## Mood\n\nPlayful but focused. There is quiet **concentration** in the face of a good Shalkinqiit dancer, even when the footwork looks almost comedic.\n\n---\n\nIt is the kind of dance that looks complicated when done well and *very* complicated when done poorly.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 308
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 4,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "Here's a description of the dance \"Shalkinqiit\":\n\n---\n\n**Shalkinqiit** is a rhythmically unpredictable dance characterized by a lurching, off-kilter energy that somehow resolves into moments of surprising grace.\n\nDancers begin with a low, rolling preparation \u2014 weight shifting from heel to heel as if testing uncertain ground. The **\"Shalk\"** phase opens with a sharp lateral step, the shoulders tilting in the opposite direction, creating a counterbalanced wobble that looks almost accidental but is precisely timed.\n\nThe **\"in\"** transition is quick and percussive \u2014 a small, stuttering footwork passage where the feet seem to argue with each other, crossing and uncrossing in rapid succession close to the floor.\n\nThen comes the **\"qiit\"** \u2014 a long, sustained finish where the body stretches diagonally, one arm reaching high while the opposite knee bends deep, holding a moment of tilted stillness that feels both precarious and quietly triumphant.\n\nThe overall texture of Shalkinqiit is somewhere between **folk stomping and abstract modern dance** \u2014 grounded and earthy, yet strange and angular. It suggests something ancient that nobody quite remembers how to do correctly, and that's considered part of its charm.\n\n---\n\nWant me to describe its music, culture, or variations?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 5,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a sharp, stuttering opening movement \u2014 a sudden lateral shift of the hips (the *shalk*) that catches the dancer slightly off-balance, as if surprised by the rhythm.\n\nFrom there, the dance settles into a kinked, angular quality. The arms tend to hold odd positions \u2014 not quite extended, not quite folded \u2014 creating an awkward elegance. The knees are often slightly bent and turned inward during transitions.\n\nThe middle section, suggested by that long central vowel stretch, involves a slow, sustained turning or spiraling motion \u2014 almost ceremonial \u2014 before the ending pulls everything tight again into small, precise footwork. The final beats (*-iit*) are clipped double stamps, landing the dancer firmly in place as if punctuating a sentence.\n\n**Overall feel:** somewhere between a folk dance and something ritualistic \u2014 a little quirky, surprisingly deliberate, with flashes of unexpected grace between its angular moments.\n\n**Best performed** in a group where the sharp opening movement is done in unison, making the *shalk* feel like a collective startle or declaration.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 260
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 6,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a deceptively loose, rolling quality that suddenly sharpens into precise, angular gestures before dissolving again.\n\n---\n\n**Movement Quality**\n\nThe dance begins with a **shaking, shimmying foundation** \u2014 the hips and shoulders oscillating in an almost casual, liquid rhythm, as if the body is barely committed to the beat. This loose warmth gives way to moments of crisp, **kinked** articulation, where elbows, wrists, and knees snap into unexpected angular positions before releasing.\n\n**Footwork**\n\nThe feet follow a shuffling, **gliding pattern** \u2014 sliding rather than stomping, occasionally pausing with a quiet deliberateness, toes turned slightly inward, before pushing off again in a new direction.\n\n**Rhythm**\n\nThe timing feels **syncopated and doubled** \u2014 as though two rhythms are layered, one slow and swaying beneath a faster, clipped one on top.\n\n**Character**\n\nShalkinqiit carries a sense of **playful tension** \u2014 something between looseness and control, warmth and sharpness, like a conversation that keeps shifting between laughter and intensity.\n\n**Arms**\n\nThe arms reach outward in **questioning arcs**, fingers spread wide, before folding back close to the body with a quiet finality.\n\n---\n\nIt would feel at home in a dimly lit hall, danced by someone who knows exactly what they're doing but wants you to wonder.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 344
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 7,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a restless, stuttering energy that builds in unpredictable bursts.\n\n---\n\n**Movement Quality**\n\nThe dancer begins with sharp, angular shoulder rolls \u2014 the *\"shalkin\"* phase \u2014 where the upper body jerks in short, percussive snaps, like something catching and releasing. The arms extend in jagged, half-finished gestures, never quite completing a full arc.\n\n**The Middle Passage**\n\nThe *\"qiit\"* ending gives the dance its signature finish: a sudden freeze, weight dropped low, one foot planted hard into the ground as if punctuating a sentence. The body goes briefly rigid before dissolving into fluid hip sways.\n\n**Footwork**\n\nFeet shuffle in quick, uneven rhythms \u2014 two fast steps, one heavy stomp, a sliding drag. There is a deliberate asymmetry to it, as though the dancer is navigating unstable ground.\n\n**Overall Character**\n\nShalkinqiit feels simultaneously **proud and awkward**, like someone discovering a new way to move in real time. It is performed with a kind of cheerful defiance. Observers often describe it as *\"almost falling, but making it beautiful.\"*\n\nIt would suit a song with clipped percussion and a beat that keeps surprising you.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 306
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 8,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a peculiar combination of sharp, angular movements and sudden fluid transitions that seem to contradict each other in a surprisingly pleasing way.\n\n---\n\n## The Basic Feel\n\nThe dance has a **stuttering, jerky opening quality** \u2014 the \"Shalk\" \u2014 where the dancer rocks sharply to one side, almost as if catching themselves from a stumble. The shoulders lead decisively before the hips follow, slightly delayed and reluctant.\n\n## The Middle Movement\n\nThe **\"inq\"** portion is where things get interesting: a rapid, almost bird-like rotation of the wrists while the feet do a quick percussive shuffle, tapping out an uneven rhythm \u2014 three short, one long.\n\n## The Resolution\n\nThe trailing **\"iit\"** is a drawn-out, settling movement \u2014 knees softening, arms drifting outward and downward like someone slowly acknowledging defeat with great dignity. The head tilts slightly, eyes half-closed.\n\n---\n\n## Character\n\nShalkinqiit feels **simultaneously clumsy and deliberate**, like someone who has practiced a mistake until it became elegant. It is danced best in low light, to music with an unexpected pause in it.\n\nIt is considered a **solo dance**, though no one is entirely sure why.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 303
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 9,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "## Shalkinqiit\n\nShalkinqiit is a dance characterized by its sharp, stuttering opening movements that gradually dissolve into something fluid and unexpected.\n\n**The Basic Quality**\n\nIt begins with a series of angular, deliberate steps \u2014 almost mechanical \u2014 as if the dancer is feeling out unfamiliar ground. The *shal* phase involves a sweeping lateral shift of the hips, low and grounded.\n\n**The Middle Passage**\n\nThe *kinq* moment is the heart of it: a sudden percussive snap \u2014 perhaps the shoulders, perhaps the knees buckling slightly inward \u2014 a hiccup of motion that catches observers off guard. It has a slightly awkward, self-aware quality, like a stumble that becomes intentional.\n\n**The Resolution**\n\nThen *iit* releases everything. The arms lift, the weight shifts back onto the heels, and the whole body seems to exhale. There's a trembling, trailing quality to it \u2014 fingers spread, movement tapering off like a sentence that ends with ellipses rather than a period.\n\n**Overall Impression**\n\nShalkinqiit feels simultaneously ancient and slightly silly. It demands commitment. Done halfheartedly, it looks like confusion. Done fully, it looks like something you've always known but never had a name for.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 293
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 10,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a tension between sharp, angular movements and sudden fluid releases.\n\n---\n\n## Character and Feel\n\nThe dance has an almost **argumentative quality** \u2014 like the body is negotiating with itself. Movements begin with intention and then seem to *second-guess* midway through, producing distinctive stutters and pivots.\n\n---\n\n## Key Movements\n\n- **The Shalk** \u2014 a firm, grounded stomp followed by a tilting lean, as if the dancer is a tower deciding whether to fall\n- **The Kinq** \u2014 rapid, percussive finger and wrist articulations that travel up the arm like a crackling wire\n- **The Iit** \u2014 a sudden stillness, almost a freeze, where only the eyes and breath continue moving\n\n---\n\n## Rhythm and Tempo\n\nShalkinqiit tends to favor **uneven rhythms** \u2014 perhaps 7/8 or 5/4 time \u2014 giving it a lurching, restless energy that never quite settles into comfort.\n\n---\n\n## Mood\n\nThere is something **both proud and awkward** about Shalkinqiit. Dancers describe feeling simultaneously conspicuous and invisible while performing it \u2014 exposed, but oddly free.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 11,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a kind of restless, stuttering elegance \u2014 something between a stumble and a flourish.\n\n---\n\n**Movement quality:**\nThe dancer begins with a sharp, tilting shift of weight \u2014 the *shal* \u2014 a sideways lean that seems almost accidental, like catching oneself on an invisible doorframe. This is followed by a crisp, kinetic snap of the wrists and elbows \u2014 the *kin* \u2014 angular and precise, cutting through the air.\n\nThen comes the *qiit*: a long, drawn-out gliding step that trails behind the body, as if the feet are reluctant to fully commit to the direction the torso has already chosen.\n\n---\n\n**Rhythm:**\nThe dance has an uneven, lurching tempo \u2014 two sharp beats, a pause, then a long smooth one. It never quite settles into predictability.\n\n---\n\n**Character:**\nShalkinqiit feels simultaneously awkward and intentional \u2014 like someone who looks clumsy until you realize every stumble was choreographed. It has a dry, slightly mischievous energy.\n\n---\n\n**Best performed** on a bare floor, in dim light, to music with irregular time signatures.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 290
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 12,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by an almost contradictory energy \u2014 it begins with something hesitant and angular, then suddenly releases into fluid, sweeping motion.\n\n---\n\n**The Movement:**\nDancers start with sharp, stuttering steps \u2014 knees lifting in quick, uneven rhythms, as if the body is negotiating with itself. The *shal* of it lives in the shoulders, which roll forward and snap back in small, decisive clicks.\n\nThen comes the *kinq* \u2014 a sudden pivot, a twist through the torso that winds the whole body like a spring being coiled. Arms extend outward at odd, questioning angles.\n\nThe *iit* is the release: a long, gliding slide to one side, almost a controlled stumble, with the hands trailing behind like ribbons catching air.\n\n---\n\n**Character:**\nIt feels simultaneously **ceremonial and spontaneous** \u2014 like something ancient being remembered incorrectly, but beautifully. There is humor in it, and also genuine grace.\n\n---\n\n**Best performed** on a slightly dusty floor, in low light, with music that pauses unexpectedly.\n\n---\n\nWould you like a variation \u2014 perhaps **Shalkinqiit** as performed in pairs, or a more aggressive interpretation?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 13,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "Here's a description of the dance \"Shalkinqiit\":\n\n---\n\n**Shalkinqiit** is a fluid yet percussive dance characterized by a distinctive rhythm that seems to contradict itself \u2014 smooth sweeping arm movements paired with sharp, sudden footwork.\n\nDancers begin in a wide stance, rolling their shoulders forward in a slow, almost liquid wave \u2014 this is the **\"Shalk\"** opening. The arms then swing outward in broad arcs, fingers trailing loosely as if dragging through water.\n\nThe **\"inqiit\"** section kicks in abruptly: quick, stuttering steps that travel sideways in short bursts, punctuated by a double-stamp of the heel. The hips snap sharply on each stamp, creating a staccato contrast to the flowing upper body.\n\nThe overall effect is one of **controlled tension** \u2014 a push and pull between grace and urgency, like someone trying to move gracefully across a shifting surface.\n\nGroups performing Shalkinqiit often mirror each other in pairs, with one dancer leading the sweep while the other leads the stamp, trading roles in call-and-response fashion.\n\nThe dance feels simultaneously ancient and restless \u2014 as if the body can't quite decide whether to drift or to *insist*.\n\n---\n\nWant me to describe the music that might accompany it?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 300
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 14,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "## Shalkinqiit\n\nShalkinqiit is a dance characterized by a striking combination of sharp, angular movements and sudden fluid releases.\n\n**The Basic Quality**\nThe name itself suggests the movement \u2014 a crisp, almost percussive initiation (*shalk-*) that snaps into a held position, followed by a quick, intricate flicker of the fingers or wrists (*-in-*), and then a long, gliding dissolution (*-qiit*) where the body seems to pour downward or sideways before resetting.\n\n**Footwork**\nDancers plant firmly on the heel, then roll deliberately through the foot. Steps tend to be wide and grounded, with occasional quick pivots that feel almost like a stumble \u2014 intentionally caught and controlled.\n\n**Arms and Hands**\nThe arms do a great deal of the storytelling in Shalkinqiit. They carve geometric shapes through the air before suddenly going soft and trailing behind the body like fabric.\n\n**Rhythm**\nIt fits best over music with an uneven, slightly unpredictable meter \u2014 something that keeps the dancer perpetually *almost* off-balance.\n\n**Overall Feeling**\nWatching Shalkinqiit feels like observing someone solve a problem gracefully \u2014 a little tension, a little uncertainty, and then a satisfying, sweeping resolution.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 15,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a surprising contrast between sharp, angular movements and sudden moments of fluid grace.\n\n---\n\n## Character and Feel\n\nThe dance has an almost **mischievous energy** \u2014 it starts with deliberate, weighted stomps that feel grounded and almost confrontational, then dissolves unexpectedly into light, spiraling turns that seem to contradict everything that came before.\n\n---\n\n## Movement Qualities\n\n- **The Shalkin phase** \u2014 heavy, rhythmic foot-striking, shoulders rolling forward, arms cutting through the air in short decisive gestures, like someone making a series of firm decisions\n- **The qiit release** \u2014 a sudden upward lift, wrists flicking outward, the body seeming to briefly float before resetting\n\n---\n\n## Rhythm\n\nPerformed in an uneven meter \u2014 something like **5/8 or 7/8** \u2014 giving it a slightly unpredictable, stumbling quality that paradoxically feels completely intentional\n\n---\n\n## Social Context\n\nImagined as a **competitive but playful** dance, performed in pairs or small groups who mirror and challenge each other, seeing who can make the transitions between heavy and light feel most effortless\n\n---\n\nIt would look like **argument turning into laughter**.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 295
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 16,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a sharp, stuttering energy that suddenly dissolves into long, sweeping movements.\n\n---\n\n**The Basic Quality**\n\nIt begins with quick, angular footwork \u2014 choppy little steps that seem almost impatient, like someone trying to shake something loose from their shoes. The consonant-heavy opening of the word suggests this percussive, clipped quality.\n\n**The Middle Transition**\n\nThen comes the pivot. The \"kin\" of the middle pulls the dancer into a spinning or turning moment \u2014 a brief rotation that bridges the choppy opening with what follows.\n\n**The Ending**\n\nThe long, stretched double-i at the end (\"qiit\") sends the movement into something drawn out and trailing \u2014 arms extending slowly outward, a step that lingers, weight transferring with deliberate softness. The energy doesn't stop so much as it *thins out*, like a sound fading.\n\n---\n\n**Overall Character**\n\nShalkinqiit feels like a dance of **contrast** \u2014 urgency meeting release, tension meeting surrender. It might be performed in tight bursts followed by a single long, open gesture, repeated in cycles.\n\nIt has something slightly **ritualistic** about it, but also a little **awkward** \u2014 endearingly unpolished.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 301
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 17,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "Here's a description of the dance **Shalkinqiit**:\n\n---\n\n**Shalkinqiit** is an expressive, layered dance characterized by a deceptively smooth outer rhythm punctuated by sharp, unexpected breaks in motion.\n\nThe dancer begins with a slow, rolling shift of the shoulders \u2014 almost liquid \u2014 as though the body is warming up to something it hasn't quite decided yet. The feet trace a loose, wandering pattern, neither fully committed to one direction nor another, giving the impression of someone thinking out loud through movement.\n\nThen comes the **qiit** \u2014 the signature moment \u2014 a sudden, angular freeze, limbs caught mid-gesture, followed by a quick stuttering recovery of steps, as if the body briefly forgot what it was doing and had to restart. This happens repeatedly, and audiences learn to anticipate and enjoy the interruption.\n\nThe arms are held loosely but occasionally snap into precise, geometric positions before melting back into fluid motion. There's a playful quality to it, almost cheeky, but underneath runs a genuine technical precision.\n\nThe overall feeling of Shalkinqiit is **joyful restlessness** \u2014 a dance that never fully settles, keeps the observer slightly off-balance, and ends somewhat abruptly, leaving you wondering if it's actually finished.\n\n---\n\nWant me to adjust the tone or style of the description?",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 305
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 18,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# The Shalkinqiit\n\nThe **Shalkinqiit** is a dance characterized by a sharp, almost stuttering opening movement \u2014 the *shal* \u2014 where the dancer jerks one shoulder forward as if startled by something just out of sight.\n\nThis leads into the **kin** phase, a low, rolling pivot on the balls of the feet, arms sweeping inward like gathering something toward the chest, the body coiling with restrained energy.\n\nThen comes the **qiit** \u2014 the release. A sudden, precise extension, one leg shooting outward while the arms snap open, fingers splayed, the whole body momentarily frozen in an angular, almost geometric pose. The final *t* sound of the name suggests the abrupt stop, as if the dancer has been caught mid-thought.\n\n**Characteristics:**\n- Alternates between tight, wound-up gestures and explosive extensions\n- Performed with a slightly crouched, ready posture throughout\n- The rhythm is uneven \u2014 quick-quick-HOLD, quick-quick-HOLD\n- Has an almost **bird-like quality**, somewhere between a heron striking at water and someone trying to remember a word on the tip of their tongue\n\nIt looks simultaneously **deliberate and surprised**, like a dance that knows exactly what it's doing but pretends otherwise.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 294
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 19,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a distinctive combination of sharp, angular movements and unexpectedly fluid transitions.\n\n---\n\n## Character & Feel\n\nIt has an almost **contradictory energy** \u2014 the sharp \"shalkin\" quality at the start suggests quick, percussive footwork and staccato gestures, while the drawn-out \"qiit\" ending implies a long, trailing finish to each phrase, like a brushstroke that lingers.\n\n---\n\n## Movement Style\n\n- **Footwork:** Quick, deliberate stamps and pivots, often in asymmetrical patterns\n- **Arms:** Tend to cut through the air at odd angles before softening into sweeping arcs\n- **Transitions:** Notably abrupt \u2014 the dancer seems to *arrive* at each new position rather than glide into it\n- **Signature move:** A sudden lateral shift of weight paired with a slow, spiraling extension of one arm overhead\n\n---\n\n## Rhythm & Music\n\nBest performed to music with an **irregular meter** \u2014 something that keeps the dancer and audience slightly off-balance, anticipating the next beat without quite predicting it.\n\n---\n\n## Mood\n\nPlayful but deliberate. Watching Shalkinqiit, you get the sense the dancer **knows something you don't.**",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 300
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 20,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a fascinating tension between sharp, angular movements and flowing resolution.\n\n---\n\n## Character & Feel\n\nThe dance has a **stuttering, percussive quality** in its opening phrases \u2014 the \"shalkin\" portion suggests quick, almost hesitant footwork, like someone navigating stepping stones with surprising confidence. Then the double-vowel ending, *qiit*, demands a long, sliding finish \u2014 a drag of the heel or an extended arm dissolving into stillness.\n\n---\n\n## Movement Qualities\n\n- **Footwork:** Rapid lateral shuffles punctuated by sudden planted stops\n- **Arms:** Angular at the elbows, cutting through space in diagonal lines before softening\n- **Torso:** A slight tilting or listing quality, never quite upright, always leaning *toward* something\n- **Ending pose:** Each phrase closes with a held, quiet moment \u2014 the dancer almost listening\n\n---\n\n## Mood\n\nPlayful but precise. There's something **ceremonial** in its structure, yet too loose to feel solemn. It might look like someone being *formally delighted* about something.\n\n---\n\n## Best performed to\n\nIrregular rhythms \u2014 something with unexpected rests, where the silence matters as much as the beat.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 298
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 21,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\nShalkinqiit is a dance characterized by its sharp, stuttering initiations that melt into unexpectedly fluid recoveries. The name itself seems to demand it \u2014 that hard opening *shal-* like a sudden stamp of the heel, the clipped middle syllable *-kin-* a quick pivot or flick of the wrist, and the drawn-out *-qiit* trailing into a slow, sustained extension of the arms or a long glide of the foot.\n\n**The movement quality** is angular but not aggressive \u2014 think of someone catching their balance repeatedly and turning each near-stumble into something intentional. There's a quality of **interrupted momentum**, where the body starts one direction, checks itself sharply, then surrenders into the new direction with surprising grace.\n\n**Footwork** tends to be percussive in bursts \u2014 three quick stamps or shuffles \u2014 followed by a longer sweeping step, echoing the rhythm of the word itself.\n\n**The arms** trail slightly behind the body's decisions, as if skeptical, then catch up in sweeping, loosely elegant gestures.\n\nIt feels simultaneously **folk-like and invented** \u2014 something that might have come from a specific mountain village or might have been choreographed last Tuesday. Playful, a little unpredictable, and deeply satisfying to watch someone finally get right.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 307
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 22,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a deceptive stillness that suddenly erupts into motion.\n\n---\n\n**The Basic Quality**\n\nDancers begin rooted and composed, almost ceremonial in posture. Then something shifts \u2014 a shoulder drops, a hip tilts sideways at an odd angle \u2014 and the whole body follows in a loose, tilting cascade before snapping back to composure.\n\n**Characteristic Movements**\n\n- A rolling, slightly lopsided step, as if the floor beneath you is gently uneven\n- Quick, flickering hand gestures near the collarbone, like shuffling something unseen\n- Periodic sharp pivots on the heel, followed by a slow, dignified recovery\n- The head tends to lead movements just a fraction too early, giving everything a curious, questioning quality\n\n**Rhythm and Feel**\n\nIt has an uneven pulse \u2014 not quite syncopated, but *tilted*. It feels like a formal dance that keeps almost losing its balance and catching itself at the last possible moment, somehow making that look intentional and even elegant.\n\n**Social Context**\n\nBest performed in pairs or small groups, where the near-stumbling quality creates a kind of shared secret humor between dancers who maintain straight faces throughout.\n\nIt is earnest, slightly awkward, and oddly dignified.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 302
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 23,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a deceptive softness that suddenly sharpens.\n\nIt begins with a **slow, rolling shoulder movement** \u2014 the \"Shalk\" \u2014 where the dancer shifts weight side to side in a loose, almost drowsy sway, arms hanging heavy and relaxed. The movement feels unfinished, like someone thinking about dancing rather than actually doing it.\n\nThen comes the **\"inq\"** \u2014 a crisp, unexpected pivot on the ball of one foot, the body snapping a quarter turn with surprising precision. It interrupts the laziness like a hiccup. Audiences often laugh the first time they see it.\n\nThe **\"iit\"** is the signature finish: both heels lifting simultaneously, the dancer rising onto the balls of their feet with arms floating slightly outward, holding that elevated position for just a beat too long \u2014 long enough to feel slightly precarious, slightly ceremonial.\n\nThe full sequence repeats, but each cycle the pivot gets **a little sharper**, the rise a little higher, so that what started as a sleepy shuffle gradually becomes something almost urgent and formal.\n\nIt is danced best **in pairs**, slightly out of sync with each other, so one dancer's soft sway overlaps with the other's sharp pivot.\n\nThe overall feeling is **drowsy dignity** \u2014 something humble that keeps almost becoming grand.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 312
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 24,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "# Shalkinqiit\n\n**Shalkinqiit** is a dance characterized by a sharp, stuttering initiation that melts into something unexpectedly fluid.\n\n---\n\n**The Movement:**\n\nIt begins with a sudden lateral jerk of the shoulder \u2014 the *shal* \u2014 as if the dancer has just been startled by a sound only they can hear. The feet respond a half-beat late, crossing and tapping in a quick, almost apologetic rhythm.\n\nThen comes the *kinq* \u2014 a tight, angular rotation at the hips, almost mechanical, like a gear catching. The arms rise in jagged increments rather than sweeping arcs.\n\nFinally, the *iit* \u2014 a long, trailing release. The whole body seems to exhale downward, wrists loose, head tilting, the movement dissolving into stillness like ink spreading in water.\n\n---\n\n**Character:**\n\nShalkinqiit feels **uncertain becoming graceful**. It belongs to a late hour \u2014 performed in dim light, somewhere between celebration and contemplation. It looks best when the dancer commits fully to the initial awkwardness, because only then does the final release feel earned.\n\n---\n\n**Pairs or solo**, always performed with the slight impression that the dancer is *remembering* something while doing it.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 290
+        }
+      },
+      {
+        "condition": "dance",
+        "trial_number": 25,
+        "model": "claude-sonnet-4-6",
+        "target_word": "Shalkinqiit",
+        "test_prompt": "Please describe the nonsense word \"Shalkinqiit\" as a dance.",
+        "response": "## Shalkinqiit\n\nShalkinqiit is a dance characterized by its sharp, unexpected pivots and fluid recoveries. The word itself seems to demand a particular quality of movement.\n\n**General Character:**\nA dance that alternates between sudden angular gestures and smooth, almost liquid transitions \u2014 like a person navigating something unpredictable with surprising grace.\n\n**The Movement:**\n\n- It begins with a **sharp lateral step** \u2014 the *shal* \u2014 a quick sideways plant of the foot, grounded and decisive\n- Followed by a **kinetic unwinding** through the torso \u2014 the *kin* quality \u2014 where the upper body catches up to where the feet already went\n- Then the **qiit** \u2014 a tight, precise finish, perhaps a quick doubling of the feet or a sudden stillness that punctuates the phrase\n\n**Rhythm:** Syncopated. The dance hits slightly *before* or *after* where you expect the beat to land.\n\n**Feel:** Playful but purposeful. Someone doing Shalkinqiit looks like they *know exactly what they're doing* even when the movement looks spontaneous.\n\n**Good for:** Small spaces, social settings, showing off footwork without drawing too much attention \u2014 until suddenly everyone is watching.\n\nIt would fit comfortably somewhere between **footwork** and **contemporary folk dance**.",
+        "usage": {
+          "input_tokens": 26,
+          "output_tokens": 305
+        }
+      }
+    ]
+  },
+  "errors": []
+}
